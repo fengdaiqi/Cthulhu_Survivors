@@ -1,0 +1,5 @@
+commonfx: .deathfx death_medium
+skill: .id "orgiastic_heal" .anim "attack_heal" .fx "heal" .targfx "heal_target" .can_display_performer_selection_after_turn false
+skill: .id "orgiastic_guard" .anim "attack_guard" .fx "guard" .can_display_performer_selection_after_turn false
+
+

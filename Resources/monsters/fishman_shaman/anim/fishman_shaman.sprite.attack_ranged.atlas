@@ -1,0 +1,20 @@
+
+fishman_shaman.sprite.attack_ranged.png
+size: 1019,821
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_ranged
+  rotate: true
+  xy: 2, 2
+  size: 817, 950
+  orig: 817, 950
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 954, 462
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+errant_flesh_dog.sprite.pull.png
+size: 1091,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 755, 2
+  size: 334, 332
+  orig: 334, 332
+  offset: 0, 0
+  index: -1
+tentacle
+  rotate: false
+  xy: 2, 60
+  size: 751, 274
+  orig: 751, 274
+  offset: 0, 0
+  index: -1

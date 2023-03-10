@@ -1,0 +1,62 @@
+
+unclean_giant.sprite.confusion_spores.png
+size: 1025,487
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud01
+  rotate: false
+  xy: 498, 159
+  size: 333, 326
+  orig: 333, 326
+  offset: 0, 0
+  index: -1
+cloud02
+  rotate: false
+  xy: 833, 300
+  size: 190, 185
+  orig: 190, 185
+  offset: 0, 0
+  index: -1
+cloud03
+  rotate: false
+  xy: 2, 2
+  size: 494, 483
+  orig: 494, 483
+  offset: 0, 0
+  index: -1
+cloud04
+  rotate: false
+  xy: 2, 2
+  size: 494, 483
+  orig: 494, 483
+  offset: 0, 0
+  index: -1
+spore01
+  rotate: false
+  xy: 498, 3
+  size: 113, 154
+  orig: 113, 154
+  offset: 0, 0
+  index: -1
+spore02
+  rotate: false
+  xy: 833, 164
+  size: 112, 134
+  orig: 112, 134
+  offset: 0, 0
+  index: -1
+spore03
+  rotate: false
+  xy: 726, 41
+  size: 109, 116
+  orig: 109, 116
+  offset: 0, 0
+  index: -1
+spore04
+  rotate: false
+  xy: 613, 30
+  size: 111, 127
+  orig: 111, 127
+  offset: 0, 0
+  index: -1

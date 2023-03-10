@@ -1,0 +1,104 @@
+
+prophet.sprite.debris.png
+size: 3267,461
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+debris01
+  rotate: true
+  xy: 2759, 20
+  size: 223, 244
+  orig: 223, 244
+  offset: 0, 0
+  index: -1
+debris02
+  rotate: false
+  xy: 2655, 245
+  size: 312, 214
+  orig: 312, 214
+  offset: 0, 0
+  index: -1
+dust01
+  rotate: true
+  xy: 947, 57
+  size: 402, 915
+  orig: 402, 915
+  offset: 0, 0
+  index: -1
+dust02
+  rotate: true
+  xy: 2, 7
+  size: 452, 943
+  orig: 452, 943
+  offset: 0, 0
+  index: -1
+dust03
+  rotate: false
+  xy: 1864, 32
+  size: 538, 427
+  orig: 538, 427
+  offset: 0, 0
+  index: -1
+stone01
+  rotate: false
+  xy: 3005, 2
+  size: 260, 245
+  orig: 260, 245
+  offset: 0, 0
+  index: -1
+stone02
+  rotate: true
+  xy: 2404, 165
+  size: 294, 249
+  orig: 294, 249
+  offset: 0, 0
+  index: -1
+stone03
+  rotate: false
+  xy: 2969, 249
+  size: 259, 210
+  orig: 259, 210
+  offset: 0, 0
+  index: -1
+stone04
+  rotate: false
+  xy: 2655, 170
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+stone05
+  rotate: true
+  xy: 2612, 13
+  size: 62, 103
+  orig: 62, 103
+  offset: 0, 0
+  index: -1
+stone06
+  rotate: false
+  xy: 2612, 77
+  size: 82, 86
+  orig: 82, 86
+  offset: 0, 0
+  index: -1
+stone07
+  rotate: false
+  xy: 2404, 26
+  size: 118, 137
+  orig: 118, 137
+  offset: 0, 0
+  index: -1
+stone08
+  rotate: false
+  xy: 2696, 100
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+stone09
+  rotate: false
+  xy: 2524, 49
+  size: 86, 114
+  orig: 86, 114
+  offset: 0, 0
+  index: -1

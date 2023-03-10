@@ -1,0 +1,20 @@
+
+collector.sprite.life_steal.png
+size: 863,387
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye_blast
+  rotate: true
+  xy: 626, 52
+  size: 333, 235
+  orig: 333, 235
+  offset: 0, 0
+  index: -1
+eye_rays
+  rotate: false
+  xy: 2, 2
+  size: 622, 383
+  orig: 622, 383
+  offset: 0, 0
+  index: -1

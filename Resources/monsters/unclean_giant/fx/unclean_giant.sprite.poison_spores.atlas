@@ -1,0 +1,13 @@
+
+unclean_giant.sprite.poison_spores.png
+size: 429,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud01
+  rotate: false
+  xy: 2, 2
+  size: 425, 388
+  orig: 425, 388
+  offset: 0, 0
+  index: -1

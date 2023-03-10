@@ -1,0 +1,20 @@
+
+ancestor_pod.sprite.attack_transform.png
+size: 2681,2245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heart
+  rotate: false
+  xy: 2, 2
+  size: 1669, 2241
+  orig: 1669, 2241
+  offset: 0, 0
+  index: -1
+pod
+  rotate: false
+  xy: 1673, 124
+  size: 1006, 2119
+  orig: 1006, 2119
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+maggot.sprite.combat.png
+size: 465,295
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 67
+  size: 273, 226
+  orig: 273, 226
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 344, 219
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+leg01
+  rotate: true
+  xy: 344, 142
+  size: 75, 51
+  orig: 75, 51
+  offset: 0, 0
+  index: -1
+leg02
+  rotate: true
+  xy: 401, 227
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+leg03
+  rotate: false
+  xy: 344, 83
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+leg04
+  rotate: true
+  xy: 411, 166
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+mandible
+  rotate: true
+  xy: 361, 11
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+underbelly
+  rotate: true
+  xy: 277, 105
+  size: 188, 65
+  orig: 188, 65
+  offset: 0, 0
+  index: -1

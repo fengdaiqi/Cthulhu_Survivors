@@ -1,0 +1,41 @@
+
+drowned_pirate.sprite.maddening_shanty.png
+size: 795,820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+left_glow
+  rotate: true
+  xy: 2, 18
+  size: 302, 426
+  orig: 302, 426
+  offset: 0, 0
+  index: -1
+left_tentacles
+  rotate: false
+  xy: 2, 322
+  size: 252, 496
+  orig: 252, 496
+  offset: 0, 0
+  index: -1
+right_glow
+  rotate: false
+  xy: 430, 2
+  size: 201, 454
+  orig: 201, 454
+  offset: 0, 0
+  index: -1
+right_tentacles
+  rotate: false
+  xy: 634, 285
+  size: 159, 533
+  orig: 159, 533
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 256, 458
+  size: 376, 360
+  orig: 376, 360
+  offset: 0, 0
+  index: -1

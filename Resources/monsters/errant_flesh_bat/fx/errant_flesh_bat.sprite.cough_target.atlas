@@ -1,0 +1,41 @@
+
+errant_flesh_bat.sprite.cough_target.png
+size: 634,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slime01
+  rotate: false
+  xy: 511, 16
+  size: 121, 222
+  orig: 121, 222
+  offset: 0, 0
+  index: -1
+slime02
+  rotate: true
+  xy: 2, 19
+  size: 35, 71
+  orig: 35, 71
+  offset: 0, 0
+  index: -1
+slime03
+  rotate: false
+  xy: 379, 18
+  size: 130, 220
+  orig: 130, 220
+  offset: 0, 0
+  index: -1
+slime04
+  rotate: false
+  xy: 75, 2
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+slime05
+  rotate: false
+  xy: 2, 56
+  size: 375, 182
+  orig: 375, 182
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,3 @@
+commonfx: .deathfx death_large
+skill: .id "the_pinch" .anim "attack_pinch" .fx "pinch" .targchestfx "blood_splatter"
+skill: .id "pincer_smack" .anim "attack_smack" .fx "pincer_smack" .targheadfx "pincer_smack_target" .area_pos_offset 0 -25

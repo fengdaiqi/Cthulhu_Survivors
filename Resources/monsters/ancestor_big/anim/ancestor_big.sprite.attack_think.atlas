@@ -1,0 +1,20 @@
+
+ancestor_big.sprite.attack_think.png
+size: 1057,419
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_think
+  rotate: true
+  xy: 2, 2
+  size: 415, 988
+  orig: 415, 988
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 992, 60
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

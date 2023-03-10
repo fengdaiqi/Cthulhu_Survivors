@@ -1,0 +1,69 @@
+
+jellyfish.sprite.rend_target.png
+size: 814,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood01
+  rotate: true
+  xy: 420, 72
+  size: 64, 152
+  orig: 64, 152
+  offset: 0, 0
+  index: -1
+blood02
+  rotate: true
+  xy: 574, 86
+  size: 50, 123
+  orig: 50, 123
+  offset: 0, 0
+  index: -1
+blood03
+  rotate: true
+  xy: 420, 2
+  size: 68, 134
+  orig: 68, 134
+  offset: 0, 0
+  index: -1
+shadow01
+  rotate: true
+  xy: 145, 14
+  size: 122, 149
+  orig: 122, 149
+  offset: 0, 0
+  index: -1
+shadow02
+  rotate: false
+  xy: 296, 9
+  size: 122, 127
+  orig: 122, 127
+  offset: 0, 0
+  index: -1
+shadow03
+  rotate: true
+  xy: 2, 4
+  size: 132, 141
+  orig: 132, 141
+  offset: 0, 0
+  index: -1
+wound01
+  rotate: true
+  xy: 556, 3
+  size: 67, 101
+  orig: 67, 101
+  offset: 0, 0
+  index: -1
+wound02
+  rotate: false
+  xy: 757, 44
+  size: 55, 92
+  orig: 55, 92
+  offset: 0, 0
+  index: -1
+wound03
+  rotate: true
+  xy: 659, 3
+  size: 81, 96
+  orig: 81, 96
+  offset: 0, 0
+  index: -1

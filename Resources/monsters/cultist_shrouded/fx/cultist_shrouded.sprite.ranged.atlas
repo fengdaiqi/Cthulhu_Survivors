@@ -1,0 +1,27 @@
+
+cultist_shrouded.sprite.ranged.png
+size: 1919,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barb_trail
+  rotate: false
+  xy: 1158, 271
+  size: 759, 244
+  orig: 759, 244
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 1158, 169
+  size: 642, 100
+  orig: 642, 100
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 1154, 513
+  orig: 1154, 513
+  offset: 0, 0
+  index: -1

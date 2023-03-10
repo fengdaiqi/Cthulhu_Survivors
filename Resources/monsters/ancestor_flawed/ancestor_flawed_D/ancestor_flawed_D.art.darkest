@@ -1,0 +1,3 @@
+commonfx: .deathfx death_medium
+skill: .id "flawed_mark" .anim "attack_tentacle" .fx "mark" .targchestfx "mark_target" .area_pos_offset 0 -25
+skill: .id "flawed_reveal" .anim "attack_maw" .fx "reveal" .targchestfx "stress_cloud" .area_pos_offset 0 -10

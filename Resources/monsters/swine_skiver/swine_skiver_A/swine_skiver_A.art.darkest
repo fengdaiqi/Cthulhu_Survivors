@@ -1,0 +1,4 @@
+commonfx: .deathfx death_medium
+skill: .id "spit_to_roast" .anim "attack_throw" .fx "spit_to_roast" .targchestfx "spit_to_roast_target" 
+skill: .id "cripple_them" .anim "attack_spears" .fx "cripple_them" .targchestfx "cripple_them_target" .area_pos_offset -150 0 .target_area_pos_offset 175 0
+skill: .id "goring_flight" .anim "attack_gore" .fx "goring_flight" .targchestfx "blood_splatter"

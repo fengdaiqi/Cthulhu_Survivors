@@ -1,0 +1,153 @@
+
+necromancer.sprite.combat.png
+size: 1663,673
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+canopic_jar01
+  rotate: true
+  xy: 918, 12
+  size: 103, 192
+  orig: 103, 192
+  offset: 0, 0
+  index: -1
+canopic_jar02
+  rotate: true
+  xy: 722, 20
+  size: 95, 194
+  orig: 95, 194
+  offset: 0, 0
+  index: -1
+chain_belt01
+  rotate: false
+  xy: 1443, 357
+  size: 218, 167
+  orig: 218, 167
+  offset: 0, 0
+  index: -1
+chain_belt02
+  rotate: false
+  xy: 1395, 526
+  size: 242, 145
+  orig: 242, 145
+  offset: 0, 0
+  index: -1
+cowl
+  rotate: true
+  xy: 1113, 112
+  size: 243, 303
+  orig: 243, 303
+  offset: 0, 0
+  index: -1
+hood
+  rotate: false
+  xy: 1418, 122
+  size: 161, 233
+  orig: 161, 233
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 1110, 357
+  size: 160, 331
+  orig: 160, 331
+  offset: 0, 0
+  index: -1
+left_fingers
+  rotate: false
+  xy: 557, 22
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: true
+  xy: 1272, 4
+  size: 106, 149
+  orig: 106, 149
+  offset: 0, 0
+  index: -1
+lock
+  rotate: false
+  xy: 1581, 167
+  size: 63, 91
+  orig: 63, 91
+  offset: 0, 0
+  index: -1
+neck_chain
+  rotate: false
+  xy: 1112, 2
+  size: 158, 108
+  orig: 158, 108
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 722, 117
+  size: 163, 389
+  orig: 163, 389
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: false
+  xy: 1423, 20
+  size: 128, 100
+  orig: 128, 100
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 722, 282
+  size: 386, 235
+  orig: 386, 235
+  offset: 0, 0
+  index: -1
+robes
+  rotate: true
+  xy: 2, 73
+  size: 598, 718
+  orig: 598, 718
+  offset: 0, 0
+  index: -1
+rope
+  rotate: true
+  xy: 361, 22
+  size: 49, 114
+  orig: 49, 114
+  offset: 0, 0
+  index: -1
+scroll
+  rotate: true
+  xy: 722, 519
+  size: 152, 671
+  orig: 152, 671
+  offset: 0, 0
+  index: -1
+scroll_tube01
+  rotate: false
+  xy: 1553, 22
+  size: 96, 98
+  orig: 96, 98
+  offset: 0, 0
+  index: -1
+scroll_tube02
+  rotate: false
+  xy: 477, 2
+  size: 78, 69
+  orig: 78, 69
+  offset: 0, 0
+  index: -1
+scroll_tube03
+  rotate: true
+  xy: 1581, 260
+  size: 95, 79
+  orig: 95, 79
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 8
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+brigand_sapper.sprite.rank_target.png
+size: 903,289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb
+  rotate: true
+  xy: 673, 151
+  size: 136, 174
+  orig: 136, 174
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 673, 2
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 48
+  size: 395, 239
+  orig: 395, 239
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 399, 3
+  size: 272, 284
+  orig: 272, 284
+  offset: 0, 0
+  index: -1
+spark01
+  rotate: false
+  xy: 849, 140
+  size: 51, 69
+  orig: 51, 69
+  offset: 0, 0
+  index: -1
+spark02
+  rotate: false
+  xy: 849, 211
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+spark03
+  rotate: true
+  xy: 822, 71
+  size: 67, 77
+  orig: 67, 77
+  offset: 0, 0
+  index: -1

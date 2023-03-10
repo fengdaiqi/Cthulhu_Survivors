@@ -1,0 +1,13 @@
+
+skeleton_arbalist.sprite.bayonet_jab.png
+size: 367,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bayonet_trail
+  rotate: false
+  xy: 2, 2
+  size: 363, 180
+  orig: 363, 180
+  offset: 0, 0
+  index: -1

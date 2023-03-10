@@ -1,0 +1,230 @@
+
+skeleton_arbalist.sprite.combat.png
+size: 1522,226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+codpiece
+  rotate: true
+  xy: 1387, 6
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+crossbow
+  rotate: false
+  xy: 2, 2
+  size: 457, 222
+  orig: 457, 222
+  offset: 0, 0
+  index: -1
+cuirass
+  rotate: true
+  xy: 461, 28
+  size: 196, 177
+  orig: 196, 177
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: true
+  xy: 999, 44
+  size: 180, 123
+  orig: 180, 123
+  offset: 0, 0
+  index: -1
+hips
+  rotate: false
+  xy: 1460, 4
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 640, 3
+  size: 74, 39
+  orig: 74, 39
+  offset: 0, 0
+  index: -1
+left_bigtoe
+  rotate: false
+  xy: 894, 22
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+left_foot
+  rotate: false
+  xy: 812, 3
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+left_glove
+  rotate: true
+  xy: 1450, 74
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1
+left_index
+  rotate: true
+  xy: 461, 2
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 1124, 8
+  size: 79, 113
+  orig: 79, 113
+  offset: 0, 0
+  index: -1
+left_pinky
+  rotate: false
+  xy: 867, 6
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+left_pointer
+  rotate: false
+  xy: 1022, 12
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+left_shin
+  rotate: false
+  xy: 1239, 6
+  size: 74, 108
+  orig: 74, 108
+  offset: 0, 0
+  index: -1
+left_sleeve01
+  rotate: false
+  xy: 940, 89
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+left_sleeve02
+  rotate: false
+  xy: 1458, 145
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 716, 8
+  size: 94, 41
+  orig: 94, 41
+  offset: 0, 0
+  index: -1
+quiver
+  rotate: false
+  xy: 1124, 89
+  size: 79, 135
+  orig: 79, 135
+  offset: 0, 0
+  index: -1
+right_bigtoe
+  rotate: false
+  xy: 990, 12
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+right_foot
+  rotate: false
+  xy: 940, 25
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+right_glove
+  rotate: false
+  xy: 640, 51
+  size: 150, 108
+  orig: 150, 108
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: true
+  xy: 792, 52
+  size: 107, 146
+  orig: 107, 146
+  offset: 0, 0
+  index: -1
+right_shin
+  rotate: false
+  xy: 1385, 151
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+right_sleeve01
+  rotate: false
+  xy: 1205, 116
+  size: 92, 108
+  orig: 92, 108
+  offset: 0, 0
+  index: -1
+right_sleeve02
+  rotate: false
+  xy: 1299, 139
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: -1
+right_tasset
+  rotate: true
+  xy: 1315, 38
+  size: 99, 70
+  orig: 99, 70
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 640, 161
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+skull
+  rotate: true
+  xy: 1387, 69
+  size: 80, 61
+  orig: 80, 61
+  offset: 0, 0
+  index: -1
+tatters01
+  rotate: true
+  xy: 537, 15
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+tatters02
+  rotate: true
+  xy: 505, 4
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+tatters03
+  rotate: true
+  xy: 505, 14
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1
+tatters04
+  rotate: false
+  xy: 567, 7
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1

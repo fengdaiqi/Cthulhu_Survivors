@@ -1,0 +1,20 @@
+
+cyst.sprite.attack_summon.png
+size: 1554,1463
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_summon
+  rotate: false
+  xy: 2, 2
+  size: 1485, 1459
+  orig: 1485, 1459
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1489, 1104
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

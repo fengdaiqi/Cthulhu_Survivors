@@ -1,0 +1,20 @@
+
+fishman_harpoon.sprite.dead.png
+size: 399,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead
+  rotate: false
+  xy: 2, 25
+  size: 330, 334
+  orig: 330, 334
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 334, 2
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

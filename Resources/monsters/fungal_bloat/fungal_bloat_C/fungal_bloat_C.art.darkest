@@ -1,0 +1,4 @@
+commonfx: .deathfx death_medium
+skill: .id "groping_swipe" .anim "attack_melee" .targchestfx "blood_splatter"
+skill: .id "fierce_swipe" .anim "attack_melee" .targchestfx "blood_splatter"
+skill: .id "groping_swipe_weak" .anim "attack_melee" .targchestfx "blood_splatter"

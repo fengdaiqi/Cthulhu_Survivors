@@ -1,0 +1,4 @@
+commonfx: .deathfx death_medium
+skill: .id "slime" .anim "attack_melee" .targchestfx "blood_splatter"
+skill: .id "summon_slime" .anim "attack_melee" .targchestfx "blood_splatter"
+skill: .id "summon_big_slime" .anim "attack_melee" .targchestfx "blood_splatter" .area_pos_offset -150 0 .target_area_pos_offset 150 0

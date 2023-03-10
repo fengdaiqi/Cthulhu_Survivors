@@ -1,0 +1,20 @@
+
+templar_ranged_mb.sprite.attack_charge.png
+size: 1098,934
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_charge
+  rotate: true
+  xy: 2, 2
+  size: 930, 1029
+  orig: 930, 1029
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1033, 575
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

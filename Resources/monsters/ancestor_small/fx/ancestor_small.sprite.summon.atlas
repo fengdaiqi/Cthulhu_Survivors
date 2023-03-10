@@ -1,0 +1,48 @@
+
+ancestor_small.sprite.summon.png
+size: 2259,740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottom_glow
+  rotate: false
+  xy: 1071, 2
+  size: 877, 196
+  orig: 877, 196
+  offset: 0, 0
+  index: -1
+center_glow
+  rotate: true
+  xy: 2, 16
+  size: 722, 688
+  orig: 722, 688
+  offset: 0, 0
+  index: -1
+left_fire
+  rotate: true
+  xy: 1071, 200
+  size: 538, 366
+  orig: 538, 366
+  offset: 0, 0
+  index: -1
+right_fire
+  rotate: true
+  xy: 1439, 200
+  size: 538, 366
+  orig: 538, 366
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 1807, 274
+  size: 464, 450
+  orig: 464, 450
+  offset: 0, 0
+  index: -1
+tentacles
+  rotate: true
+  xy: 692, 172
+  size: 566, 377
+  orig: 566, 377
+  offset: 0, 0
+  index: -1

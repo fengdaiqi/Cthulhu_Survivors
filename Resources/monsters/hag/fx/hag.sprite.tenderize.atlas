@@ -1,0 +1,13 @@
+
+hag.sprite.tenderize.png
+size: 549,567
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mallet_trail
+  rotate: false
+  xy: 2, 2
+  size: 545, 563
+  orig: 545, 563
+  offset: 0, 0
+  index: -1

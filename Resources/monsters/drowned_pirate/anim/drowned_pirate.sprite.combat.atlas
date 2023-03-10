@@ -1,0 +1,174 @@
+
+drowned_pirate.sprite.combat.png
+size: 1181,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barrel
+  rotate: false
+  xy: 104, 241
+  size: 248, 286
+  orig: 248, 286
+  offset: 0, 0
+  index: -1
+barrel_shadow
+  rotate: true
+  xy: 67, 202
+  size: 325, 35
+  orig: 325, 35
+  offset: 0, 0
+  index: -1
+blue_bottle
+  rotate: false
+  xy: 117, 176
+  size: 135, 63
+  orig: 135, 63
+  offset: 0, 0
+  index: -1
+bow
+  rotate: true
+  xy: 487, 14
+  size: 161, 231
+  orig: 161, 231
+  offset: 0, 0
+  index: -1
+drunk_breath
+  rotate: true
+  xy: 1035, 188
+  size: 145, 144
+  orig: 145, 144
+  offset: 0, 0
+  index: -1
+feathers
+  rotate: true
+  xy: 1035, 35
+  size: 151, 107
+  orig: 151, 107
+  offset: 0, 0
+  index: -1
+fiddle
+  rotate: false
+  xy: 794, 16
+  size: 239, 184
+  orig: 239, 184
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 7
+  size: 254, 161
+  orig: 254, 161
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 656, 177
+  size: 103, 130
+  orig: 103, 130
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 788, 202
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 968, 335
+  size: 192, 193
+  orig: 192, 193
+  offset: 0, 0
+  index: -1
+left_eye
+  rotate: false
+  xy: 96, 180
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+left_hair
+  rotate: false
+  xy: 968, 212
+  size: 59, 121
+  orig: 59, 121
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: true
+  xy: 254, 176
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+pants
+  rotate: true
+  xy: 773, 282
+  size: 245, 193
+  orig: 245, 193
+  offset: 0, 0
+  index: -1
+red_bottle
+  rotate: true
+  xy: 502, 183
+  size: 88, 152
+  orig: 88, 152
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 354, 273
+  size: 187, 254
+  orig: 187, 254
+  offset: 0, 0
+  index: -1
+right_eye
+  rotate: true
+  xy: 67, 171
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+right_hair
+  rotate: false
+  xy: 258, 2
+  size: 84, 172
+  orig: 84, 172
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: true
+  xy: 318, 177
+  size: 62, 182
+  orig: 62, 182
+  offset: 0, 0
+  index: -1
+sash
+  rotate: true
+  xy: 720, 23
+  size: 152, 72
+  orig: 152, 72
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 170
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+strap
+  rotate: true
+  xy: 344, 7
+  size: 168, 141
+  orig: 168, 141
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 543, 282
+  size: 228, 245
+  orig: 228, 245
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+swine_slasher.sprite.hook_where_it_hurts.png
+size: 549,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hook_trail
+  rotate: false
+  xy: 2, 2
+  size: 545, 261
+  orig: 545, 261
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+cell_battle.sprite.bam_target.png
+size: 444,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+goo01
+  rotate: false
+  xy: 2, 2
+  size: 386, 256
+  orig: 386, 256
+  offset: 0, 0
+  index: -1
+goo02
+  rotate: false
+  xy: 390, 46
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+goo03
+  rotate: false
+  xy: 390, 118
+  size: 52, 140
+  orig: 52, 140
+  offset: 0, 0
+  index: -1

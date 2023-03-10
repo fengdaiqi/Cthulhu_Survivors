@@ -1,0 +1,13 @@
+
+ancestor_pod.sprite.attack_spores.png
+size: 1010,2123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_spores
+  rotate: false
+  xy: 2, 2
+  size: 1006, 2119
+  orig: 1006, 2119
+  offset: 0, 0
+  index: -1

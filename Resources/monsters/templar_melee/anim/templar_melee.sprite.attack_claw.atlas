@@ -1,0 +1,20 @@
+
+templar_melee.sprite.attack_claw.png
+size: 1181,950
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_claw
+  rotate: false
+  xy: 2, 2
+  size: 1112, 946
+  orig: 1112, 946
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1116, 591
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

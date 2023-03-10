@@ -1,0 +1,13 @@
+display: .size 1
+enemy_type: .id "eldritch"
+enemy_type: .id "unholy"
+stats: .hp 20 .def 8.75% .prot 0 .spd 1 .stun_resist 70% .poison_resist 30% .bleed_resist 40% .debuff_resist 30% .move_resist 45%
+skill: .id "bloated_swipe" .type "melee" .atk 68.75% .dmg 6 13 .crit 6%  .effect "Stress 1" .launch 1234 .target 12
+skill: .id "explode" .type "melee" .atk 78.75% .dmg 7 17 .crit 6%  .effect "Thrall Revenge Stress 3" "kill_self_queued" .launch 4321 .target ~4321 .can_be_riposted false
+personality: .prefskill -1
+loot: .code "A" .count 1
+initiative: .number_of_turns_per_round 1
+monster_brain: .id bloated_corpse_A
+life_link: .base_class "siren"
+battle_modifier: .accelerate_stall_penalty False .disable_stall_penalty False .can_surprise True .can_be_surprised True .always_surprise False .always_be_surprised False
+wave_spawning: .prefers_front True

@@ -1,0 +1,83 @@
+
+spider_spitter.sprite.bite.png
+size: 108,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blight01
+  rotate: true
+  xy: 2, 30
+  size: 44, 88
+  orig: 44, 88
+  offset: 0, 0
+  index: -1
+blight02
+  rotate: true
+  xy: 2, 76
+  size: 64, 99
+  orig: 64, 99
+  offset: 0, 0
+  index: -1
+blight03
+  rotate: true
+  xy: 2, 2
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+blight04
+  rotate: false
+  xy: 92, 47
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+blight05
+  rotate: true
+  xy: 51, 2
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+blight06
+  rotate: false
+  xy: 51, 15
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+blight07
+  rotate: false
+  xy: 92, 26
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+blight08
+  rotate: false
+  xy: 36, 12
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+blight09
+  rotate: false
+  xy: 20, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+blight10
+  rotate: true
+  xy: 20, 13
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+blight11
+  rotate: false
+  xy: 2, 12
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

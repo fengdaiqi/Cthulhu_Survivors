@@ -1,0 +1,20 @@
+
+shambler_tentacle.sprite.defend.png
+size: 515,391
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: false
+  xy: 2, 2
+  size: 446, 387
+  orig: 446, 387
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 450, 32
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+ancestor_flawed.sprite.reveal.png
+size: 1057,369
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black_howl
+  rotate: true
+  xy: 841, 128
+  size: 239, 214
+  orig: 239, 214
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 2, 2
+  size: 365, 589
+  orig: 365, 589
+  offset: 0, 0
+  index: -1
+white_howl
+  rotate: true
+  xy: 593, 37
+  size: 330, 246
+  orig: 330, 246
+  offset: 0, 0
+  index: -1

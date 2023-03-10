@@ -1,0 +1,20 @@
+
+errant_flesh_bat.sprite.attack_spit.png
+size: 979,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_spit
+  rotate: true
+  xy: 2, 2
+  size: 554, 910
+  orig: 554, 910
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 914, 199
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

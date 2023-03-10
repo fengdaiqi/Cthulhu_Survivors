@@ -1,0 +1,20 @@
+
+swine_wretch.sprite.attack_melee.png
+size: 471,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_melee
+  rotate: true
+  xy: 2, 11
+  size: 348, 402
+  orig: 348, 402
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 406, 2
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

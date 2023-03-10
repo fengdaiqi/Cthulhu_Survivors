@@ -1,0 +1,20 @@
+
+shuffler.sprite.attack_tentacle.png
+size: 2053,1143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_tentacle
+  rotate: false
+  xy: 2, 2
+  size: 1984, 1139
+  orig: 1984, 1139
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1988, 784
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

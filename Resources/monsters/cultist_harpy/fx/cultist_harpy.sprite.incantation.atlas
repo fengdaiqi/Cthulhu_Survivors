@@ -1,0 +1,34 @@
+
+cultist_harpy.sprite.incantation.png
+size: 1167,657
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_ranged
+  rotate: true
+  xy: 2, 2
+  size: 653, 691
+  orig: 653, 691
+  offset: 0, 0
+  index: -1
+aura
+  rotate: false
+  xy: 695, 351
+  size: 274, 304
+  orig: 274, 304
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 695, 62
+  size: 287, 279
+  orig: 287, 279
+  offset: 0, 0
+  index: -1
+stress_halo
+  rotate: true
+  xy: 971, 443
+  size: 212, 194
+  orig: 212, 194
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,6 @@
+commonfx: .deathfx death_medium
+skill: .id "totem_guard" .anim "attack_melee" .fx "guard" .can_display_performer_selection_after_turn false
+skill: .id "totem_bolster" .anim "attack_melee" .fx "bolster" .can_display_performer_selection_after_turn false
+skill: .id "totem_heal" .anim "attack_melee" .fx "heal" .targfx "heal_target" .can_display_performer_selection_after_turn false
+skill: .id "totem_stressblast" .anim "attack_melee" .fx "stress" .targchestfx "stress_cloud" .area_pos_offset 0 -50
+

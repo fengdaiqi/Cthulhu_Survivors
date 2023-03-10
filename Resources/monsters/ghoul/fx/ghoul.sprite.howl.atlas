@@ -1,0 +1,97 @@
+
+ghoul.sprite.howl.png
+size: 880,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black_aura
+  rotate: false
+  xy: 459, 192
+  size: 381, 350
+  orig: 381, 350
+  offset: 0, 0
+  index: -1
+shard01
+  rotate: false
+  xy: 459, 3
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+shard02
+  rotate: true
+  xy: 459, 51
+  size: 139, 85
+  orig: 139, 85
+  offset: 0, 0
+  index: -1
+shard03
+  rotate: true
+  xy: 809, 39
+  size: 81, 53
+  orig: 81, 53
+  offset: 0, 0
+  index: -1
+shard04
+  rotate: true
+  xy: 690, 81
+  size: 109, 103
+  orig: 109, 103
+  offset: 0, 0
+  index: -1
+shard05
+  rotate: true
+  xy: 529, 4
+  size: 45, 71
+  orig: 45, 71
+  offset: 0, 0
+  index: -1
+shard06
+  rotate: false
+  xy: 546, 60
+  size: 49, 130
+  orig: 49, 130
+  offset: 0, 0
+  index: -1
+shard07
+  rotate: true
+  xy: 795, 122
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+shard08
+  rotate: true
+  xy: 597, 68
+  size: 122, 91
+  orig: 122, 91
+  offset: 0, 0
+  index: -1
+shard09
+  rotate: false
+  xy: 602, 11
+  size: 98, 55
+  orig: 98, 55
+  offset: 0, 0
+  index: -1
+shard10
+  rotate: false
+  xy: 702, 2
+  size: 105, 77
+  orig: 105, 77
+  offset: 0, 0
+  index: -1
+shard11
+  rotate: true
+  xy: 842, 482
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+white_aura
+  rotate: true
+  xy: 2, 13
+  size: 529, 455
+  orig: 529, 455
+  offset: 0, 0
+  index: -1

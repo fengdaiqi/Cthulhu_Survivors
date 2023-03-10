@@ -1,0 +1,13 @@
+
+ancestor_flawed.sprite.mark.png
+size: 829,477
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rim_light
+  rotate: false
+  xy: 2, 2
+  size: 825, 473
+  orig: 825, 473
+  offset: 0, 0
+  index: -1

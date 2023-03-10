@@ -1,0 +1,132 @@
+
+fungal_artillery.sprite.combat.png
+size: 1254,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belly
+  rotate: true
+  xy: 2, 12
+  size: 207, 227
+  orig: 207, 227
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 231, 67
+  size: 142, 152
+  orig: 142, 152
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: false
+  xy: 375, 77
+  size: 134, 142
+  orig: 134, 142
+  offset: 0, 0
+  index: -1
+mushroom01
+  rotate: true
+  xy: 1064, 44
+  size: 47, 97
+  orig: 47, 97
+  offset: 0, 0
+  index: -1
+mushroom02
+  rotate: false
+  xy: 986, 6
+  size: 44, 82
+  orig: 44, 82
+  offset: 0, 0
+  index: -1
+mushroom03
+  rotate: false
+  xy: 761, 10
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+mushroom04
+  rotate: true
+  xy: 859, 26
+  size: 56, 125
+  orig: 56, 125
+  offset: 0, 0
+  index: -1
+mushroom05
+  rotate: true
+  xy: 590, 2
+  size: 78, 100
+  orig: 78, 100
+  offset: 0, 0
+  index: -1
+mushroom06
+  rotate: false
+  xy: 817, 25
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+mushroom07
+  rotate: true
+  xy: 1032, 2
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+mushroom_patch
+  rotate: false
+  xy: 640, 84
+  size: 261, 135
+  orig: 261, 135
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 511, 82
+  size: 127, 137
+  orig: 127, 137
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: true
+  xy: 692, 6
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 231, 2
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+skull
+  rotate: false
+  xy: 903, 90
+  size: 96, 129
+  orig: 96, 129
+  offset: 0, 0
+  index: -1
+tatters01
+  rotate: true
+  xy: 1083, 13
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+tatters02
+  rotate: false
+  xy: 1032, 38
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 1001, 93
+  size: 251, 126
+  orig: 251, 126
+  offset: 0, 0
+  index: -1

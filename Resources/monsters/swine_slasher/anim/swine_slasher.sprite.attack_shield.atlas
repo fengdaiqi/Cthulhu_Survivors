@@ -1,0 +1,20 @@
+
+swine_slasher.sprite.attack_shield.png
+size: 622,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_shield
+  rotate: true
+  xy: 2, 2
+  size: 364, 553
+  orig: 364, 553
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 557, 9
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,5 @@
+commonfx: .deathfx death_large
+skill: .id "templar_pinch" .anim "attack_claw" .fx "pinch" .targchestfx "blood_splatter"
+skill: .id "templar_snipe" .anim "attack_tail" .fx "snipe" .targchestfx "snipe_target" .area_pos_offset 0 -50
+skill: .id "templar_aoe" .anim "attack_charge" .fx "volley" .targchestfx "volley_target" .area_pos_offset -50 -50 .target_area_pos_offset 100 0
+skill: .id "darkest_eye" .anim "attack_eye" .fx "gaze" .targheadfx "gaze_target"

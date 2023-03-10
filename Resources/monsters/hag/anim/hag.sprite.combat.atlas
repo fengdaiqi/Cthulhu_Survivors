@@ -1,0 +1,300 @@
+
+hag.sprite.combat.png
+size: 1444,1056
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: false
+  xy: 513, 595
+  size: 409, 200
+  orig: 409, 200
+  offset: 0, 0
+  index: -1
+bones01
+  rotate: true
+  xy: 1343, 343
+  size: 129, 92
+  orig: 129, 92
+  offset: 0, 0
+  index: -1
+bones02
+  rotate: false
+  xy: 1140, 35
+  size: 128, 66
+  orig: 128, 66
+  offset: 0, 0
+  index: -1
+bones03
+  rotate: true
+  xy: 1338, 474
+  size: 132, 80
+  orig: 132, 80
+  offset: 0, 0
+  index: -1
+bones04
+  rotate: false
+  xy: 1243, 143
+  size: 110, 69
+  orig: 110, 69
+  offset: 0, 0
+  index: -1
+bones05
+  rotate: false
+  xy: 1243, 214
+  size: 107, 94
+  orig: 107, 94
+  offset: 0, 0
+  index: -1
+bones06
+  rotate: false
+  xy: 1352, 224
+  size: 88, 117
+  orig: 88, 117
+  offset: 0, 0
+  index: -1
+bones07
+  rotate: false
+  xy: 1409, 670
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+bones08
+  rotate: true
+  xy: 2, 3
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+bones09
+  rotate: false
+  xy: 580, 23
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+cape_left
+  rotate: true
+  xy: 477, 8
+  size: 57, 101
+  orig: 57, 101
+  offset: 0, 0
+  index: -1
+cape_right
+  rotate: true
+  xy: 977, 474
+  size: 122, 359
+  orig: 122, 359
+  offset: 0, 0
+  index: -1
+cape_top
+  rotate: false
+  xy: 2, 716
+  size: 509, 338
+  orig: 509, 338
+  offset: 0, 0
+  index: -1
+chest
+  rotate: true
+  xy: 291, 279
+  size: 435, 196
+  orig: 435, 196
+  offset: 0, 0
+  index: -1
+chives
+  rotate: false
+  xy: 1070, 59
+  size: 68, 143
+  orig: 68, 143
+  offset: 0, 0
+  index: -1
+chives_bag
+  rotate: false
+  xy: 1355, 127
+  size: 69, 95
+  orig: 69, 95
+  offset: 0, 0
+  index: -1
+furs
+  rotate: false
+  xy: 891, 803
+  size: 377, 251
+  orig: 377, 251
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 977, 290
+  size: 182, 233
+  orig: 182, 233
+  offset: 0, 0
+  index: -1
+large_sack
+  rotate: true
+  xy: 1270, 8
+  size: 69, 89
+  orig: 69, 89
+  offset: 0, 0
+  index: -1
+left_antler
+  rotate: false
+  xy: 521, 67
+  size: 120, 243
+  orig: 120, 243
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 513, 797
+  size: 257, 376
+  orig: 257, 376
+  offset: 0, 0
+  index: -1
+left_hair
+  rotate: true
+  xy: 942, 204
+  size: 84, 190
+  orig: 84, 190
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: true
+  xy: 1283, 608
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: false
+  xy: 1212, 310
+  size: 129, 162
+  orig: 129, 162
+  offset: 0, 0
+  index: -1
+mallet
+  rotate: true
+  xy: 924, 663
+  size: 138, 347
+  orig: 138, 347
+  offset: 0, 0
+  index: -1
+meat
+  rotate: true
+  xy: 1273, 720
+  size: 104, 169
+  orig: 104, 169
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 751, 44
+  size: 200, 102
+  orig: 200, 102
+  offset: 0, 0
+  index: -1
+right_antler
+  rotate: true
+  xy: 2, 42
+  size: 159, 306
+  orig: 159, 306
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 310, 67
+  size: 210, 209
+  orig: 210, 209
+  offset: 0, 0
+  index: -1
+right_forearm
+  rotate: true
+  xy: 744, 321
+  size: 272, 231
+  orig: 272, 231
+  offset: 0, 0
+  index: -1
+right_hair
+  rotate: false
+  xy: 489, 312
+  size: 253, 281
+  orig: 253, 281
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: false
+  xy: 953, 57
+  size: 115, 145
+  orig: 115, 145
+  offset: 0, 0
+  index: -1
+rope
+  rotate: true
+  xy: 1355, 86
+  size: 39, 65
+  orig: 39, 65
+  offset: 0, 0
+  index: -1
+sash
+  rotate: false
+  xy: 751, 148
+  size: 189, 171
+  orig: 189, 171
+  offset: 0, 0
+  index: -1
+satchel
+  rotate: true
+  xy: 1134, 213
+  size: 75, 107
+  orig: 75, 107
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 924, 598
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: true
+  xy: 2, 203
+  size: 511, 287
+  orig: 511, 287
+  offset: 0, 0
+  index: -1
+skull
+  rotate: true
+  xy: 1270, 826
+  size: 228, 149
+  orig: 228, 149
+  offset: 0, 0
+  index: -1
+small_sack
+  rotate: true
+  xy: 310, 2
+  size: 63, 165
+  orig: 63, 165
+  offset: 0, 0
+  index: -1
+strap
+  rotate: true
+  xy: 643, 37
+  size: 273, 106
+  orig: 273, 106
+  offset: 0, 0
+  index: -1
+thyme
+  rotate: false
+  xy: 1140, 103
+  size: 98, 108
+  orig: 98, 108
+  offset: 0, 0
+  index: -1
+thyme_bag
+  rotate: true
+  xy: 1270, 79
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1

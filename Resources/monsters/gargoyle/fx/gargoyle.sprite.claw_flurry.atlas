@@ -1,0 +1,13 @@
+
+gargoyle.sprite.claw_flurry.png
+size: 546,501
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+claw_trail
+  rotate: false
+  xy: 2, 2
+  size: 542, 497
+  orig: 542, 497
+  offset: 0, 0
+  index: -1

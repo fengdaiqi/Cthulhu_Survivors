@@ -1,0 +1,4 @@
+commonfx: .deathfx death_medium
+skill: .id "errant_spit" .anim "attack_spit" .fx "spit" .targfx "spit_target"
+skill: .id "errant_cough" .anim "attack_cough" .fx "cough" .targfx "cough_target"
+skill: .id "errant_push" .anim "attack_push" .targchestfx "push_target" 

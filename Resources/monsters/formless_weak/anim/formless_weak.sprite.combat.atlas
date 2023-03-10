@@ -1,0 +1,76 @@
+
+formless_weak.sprite.combat.png
+size: 613,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+artery
+  rotate: false
+  xy: 2, 136
+  size: 385, 394
+  orig: 385, 394
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 389, 2
+  size: 528, 222
+  orig: 528, 222
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 327, 41
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+mouth01_bottom
+  rotate: false
+  xy: 234, 42
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+mouth01_top
+  rotate: false
+  xy: 234, 12
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+mouth02_bottom
+  rotate: true
+  xy: 361, 88
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+mouth02_top
+  rotate: false
+  xy: 283, 41
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 71
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+tentacle01
+  rotate: true
+  xy: 148, 23
+  size: 46, 84
+  orig: 46, 84
+  offset: 0, 0
+  index: -1
+tentacle05
+  rotate: true
+  xy: 2, 2
+  size: 67, 144
+  orig: 67, 144
+  offset: 0, 0
+  index: -1

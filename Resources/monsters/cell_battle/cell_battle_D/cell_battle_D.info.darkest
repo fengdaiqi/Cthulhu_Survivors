@@ -1,0 +1,10 @@
+display: .size 1
+enemy_type: .id "eldritch"
+enemy_type: .id "beast"
+stats: .hp 38 .def 28.75% .prot 0 .spd 6 .stun_resist 97.5% .poison_resist 67.5% .bleed_resist 87.5% .debuff_resist 67.5% .move_resist 73%
+skill: .id "battlecell_bam" .type "ranged" .atk 113.75% .dmg 8 17 .crit 0%  .effect "Battle Cell Stun" .launch 4321 .target 123 .is_crit_valid False
+personality: .prefskill -1
+loot: .code "" .count 
+initiative: .number_of_turns_per_round 1
+monster_brain: .id cell_battle
+battle_modifier: .accelerate_stall_penalty False .disable_stall_penalty False .can_surprise False .can_be_surprised False .always_surprise False .always_be_surprised False

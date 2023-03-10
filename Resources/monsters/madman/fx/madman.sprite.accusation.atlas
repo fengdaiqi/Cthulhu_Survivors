@@ -1,0 +1,34 @@
+
+madman.sprite.accusation.png
+size: 1682,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 141
+  size: 736, 237
+  orig: 736, 237
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 1291, 100
+  size: 389, 278
+  orig: 389, 278
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 829, 21
+  size: 357, 460
+  orig: 357, 460
+  offset: 0, 0
+  index: -1
+tentacle
+  rotate: false
+  xy: 2, 2
+  size: 825, 137
+  orig: 825, 137
+  offset: 0, 0
+  index: -1

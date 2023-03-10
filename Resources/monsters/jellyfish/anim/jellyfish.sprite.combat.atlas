@@ -1,0 +1,69 @@
+
+jellyfish.sprite.combat.png
+size: 500,1072
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 302, 262
+  size: 336, 158
+  orig: 336, 158
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 111, 2
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 120, 551
+  size: 152, 519
+  orig: 152, 519
+  offset: 0, 0
+  index: -1
+tentacle01
+  rotate: false
+  xy: 170, 124
+  size: 130, 425
+  orig: 130, 425
+  offset: 0, 0
+  index: -1
+tentacle02
+  rotate: false
+  xy: 111, 67
+  size: 57, 437
+  orig: 57, 437
+  offset: 0, 0
+  index: -1
+tentacle03
+  rotate: false
+  xy: 2, 506
+  size: 116, 564
+  orig: 116, 564
+  offset: 0, 0
+  index: -1
+tentacle04
+  rotate: false
+  xy: 274, 616
+  size: 137, 454
+  orig: 137, 454
+  offset: 0, 0
+  index: -1
+tentacle05
+  rotate: false
+  xy: 2, 6
+  size: 107, 498
+  orig: 107, 498
+  offset: 0, 0
+  index: -1
+tentacle06
+  rotate: false
+  xy: 413, 600
+  size: 85, 470
+  orig: 85, 470
+  offset: 0, 0
+  index: -1

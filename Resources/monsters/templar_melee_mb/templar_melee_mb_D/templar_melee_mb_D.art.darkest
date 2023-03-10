@@ -1,0 +1,5 @@
+commonfx: .deathfx death_large
+skill: .id "templar_pinch" .anim "attack_claw" .fx "pinch" .targchestfx "blood_splatter"
+skill: .id "templar_sting" .anim "attack_tail" .fx "sting" .targchestfx "blood_splatter"
+skill: .id "templar_slam" .anim "attack_charge" .fx "slam" .targchestfx "blood_splatter"
+skill: .id "darkest_eye" .anim "attack_eye" .fx "gaze" .targheadfx "gaze_target"

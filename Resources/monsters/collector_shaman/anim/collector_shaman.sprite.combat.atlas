@@ -1,0 +1,62 @@
+
+collector_shaman.sprite.combat.png
+size: 402,562
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 227, 2
+  size: 81, 140
+  orig: 81, 140
+  offset: 0, 0
+  index: -1
+eye_glow
+  rotate: false
+  xy: 310, 71
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 202, 243
+  size: 141, 190
+  orig: 141, 190
+  offset: 0, 0
+  index: -1
+head_glow
+  rotate: false
+  xy: 2, 131
+  size: 198, 253
+  orig: 198, 253
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 497
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+tentacle01
+  rotate: true
+  xy: 2, 386
+  size: 109, 334
+  orig: 109, 334
+  offset: 0, 0
+  index: -1
+tentacle02
+  rotate: true
+  xy: 2, 8
+  size: 121, 223
+  orig: 121, 223
+  offset: 0, 0
+  index: -1
+tentacle03
+  rotate: true
+  xy: 227, 144
+  size: 97, 173
+  orig: 97, 173
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+brigand_sapper.sprite.guard.png
+size: 1109,563
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rim_light
+  rotate: false
+  xy: 783, 56
+  size: 324, 505
+  orig: 324, 505
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 2
+  size: 559, 779
+  orig: 559, 779
+  offset: 0, 0
+  index: -1

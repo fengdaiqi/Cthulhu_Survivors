@@ -1,0 +1,20 @@
+
+swine_prince.sprite.attack_claw.png
+size: 1895,1264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_claw
+  rotate: false
+  xy: 2, 2
+  size: 1826, 1260
+  orig: 1826, 1260
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1830, 905
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

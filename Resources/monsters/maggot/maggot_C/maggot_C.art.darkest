@@ -1,0 +1,3 @@
+commonfx: .deathfx death_small
+skill: .id "grave_nibble" .anim "attack_bite" .targchestfx "blood_splatter" .area_pos_offset 0 25 .target_area_pos_offset 0 25
+defending_area_pos_offset: .offset 0 35

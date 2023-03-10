@@ -1,0 +1,69 @@
+
+skeleton_captain.sprite.ground_pound.png
+size: 1202,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ground_cracks
+  rotate: true
+  xy: 1116, 85
+  size: 429, 45
+  orig: 429, 45
+  offset: 0, 0
+  index: -1
+ground_glow
+  rotate: true
+  xy: 530, 8
+  size: 506, 370
+  orig: 506, 370
+  offset: 0, 0
+  index: -1
+mace_glow
+  rotate: true
+  xy: 902, 135
+  size: 379, 205
+  orig: 379, 205
+  offset: 0, 0
+  index: -1
+mace_trail
+  rotate: true
+  xy: 2, 4
+  size: 510, 526
+  orig: 510, 526
+  offset: 0, 0
+  index: -1
+ray01
+  rotate: false
+  xy: 1163, 319
+  size: 37, 195
+  orig: 37, 195
+  offset: 0, 0
+  index: -1
+rock01
+  rotate: true
+  xy: 902, 2
+  size: 131, 84
+  orig: 131, 84
+  offset: 0, 0
+  index: -1
+rock02
+  rotate: true
+  xy: 1056, 28
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+rock03
+  rotate: true
+  xy: 988, 18
+  size: 115, 66
+  orig: 115, 66
+  offset: 0, 0
+  index: -1
+rock04
+  rotate: false
+  xy: 1116, 29
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1

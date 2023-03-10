@@ -1,0 +1,4 @@
+commonfx: .deathfx death_medium
+skill: .id "axe_strike" .anim "attack_axe" .fx "axe_strike" .targchestfx "blood_splatter"
+skill: .id "shield_bash" .anim "attack_shield" .fx "shield_bash" .targchestfx "blood_splatter"
+skill: .id "axe_strike_weak" .anim "attack_axe" .fx "axe_strike" .targchestfx "blood_splatter"

@@ -1,0 +1,160 @@
+
+brigand_fuseman.sprite.combat.png
+size: 1261,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+botefeux
+  rotate: true
+  xy: 2, 161
+  size: 139, 679
+  orig: 139, 679
+  offset: 0, 0
+  index: -1
+breastplate
+  rotate: false
+  xy: 683, 129
+  size: 194, 171
+  orig: 194, 171
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 299, 2
+  size: 92, 48
+  orig: 92, 48
+  offset: 0, 0
+  index: -1
+hood
+  rotate: true
+  xy: 879, 136
+  size: 164, 181
+  orig: 164, 181
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 971, 69
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+left_boot
+  rotate: true
+  xy: 361, 62
+  size: 97, 136
+  orig: 97, 136
+  offset: 0, 0
+  index: -1
+left_glove
+  rotate: true
+  xy: 872, 2
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 1062, 88
+  size: 104, 109
+  orig: 104, 109
+  offset: 0, 0
+  index: -1
+left_pauldron
+  rotate: true
+  xy: 959, 4
+  size: 63, 71
+  orig: 63, 71
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 179, 4
+  size: 90, 118
+  orig: 90, 118
+  offset: 0, 0
+  index: -1
+right_boot
+  rotate: true
+  xy: 499, 62
+  size: 97, 129
+  orig: 97, 129
+  offset: 0, 0
+  index: -1
+right_forearm
+  rotate: true
+  xy: 1167, 15
+  size: 66, 86
+  orig: 66, 86
+  offset: 0, 0
+  index: -1
+right_glove
+  rotate: false
+  xy: 1062, 194
+  size: 128, 106
+  orig: 128, 106
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: false
+  xy: 1173, 83
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+right_pauldron
+  rotate: false
+  xy: 741, 34
+  size: 129, 93
+  orig: 129, 93
+  offset: 0, 0
+  index: -1
+rope
+  rotate: true
+  xy: 1192, 200
+  size: 100, 62
+  orig: 100, 62
+  offset: 0, 0
+  index: -1
+sack01
+  rotate: true
+  xy: 879, 88
+  size: 46, 90
+  orig: 46, 90
+  offset: 0, 0
+  index: -1
+sack02
+  rotate: true
+  xy: 349, 12
+  size: 48, 94
+  orig: 48, 94
+  offset: 0, 0
+  index: -1
+sash01
+  rotate: false
+  xy: 2, 20
+  size: 175, 74
+  orig: 175, 74
+  offset: 0, 0
+  index: -1
+sash02
+  rotate: true
+  xy: 1059, 11
+  size: 75, 106
+  orig: 75, 106
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: true
+  xy: 630, 2
+  size: 125, 109
+  orig: 125, 109
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 96
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+display: .size 1
+enemy_type: .id "stonework"
+enemy_type: .id "unholy"
+stats: .hp 10 .def 16.25% .prot 0.5 .spd 9 .stun_resist 30% .poison_resist 40% .bleed_resist 120% .debuff_resist 35% .move_resist 30%
+skill: .id "claw_flurry" .type "melee" .atk 88.75% .dmg 2 3 .crit 12%  .effect "Gargoyle Flurry Shuffle 3" .launch 321 .target ~12
+skill: .id "tail_whip" .type "ranged" .atk 88.75% .dmg 1 2 .crit 12%  .effect "Stun 3" "Gargoyle Lash Push 1B" .launch 4321 .target 1234
+personality: .prefskill -1
+loot: .code "G" .count 1
+initiative: .number_of_turns_per_round 1
+monster_brain: .id gargoyle_B
+life_link: .base_class "necromancer"
+battle_modifier: .accelerate_stall_penalty False .disable_stall_penalty False .can_surprise True .can_be_surprised True .always_surprise False .always_be_surprised False
+wave_spawning: .prefers_front True

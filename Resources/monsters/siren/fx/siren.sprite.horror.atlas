@@ -1,0 +1,34 @@
+
+siren.sprite.horror.png
+size: 1695,649
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black_blast
+  rotate: true
+  xy: 641, 87
+  size: 560, 453
+  orig: 560, 453
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 1096, 291
+  size: 356, 597
+  orig: 356, 597
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 2
+  size: 645, 637
+  orig: 645, 637
+  offset: 0, 0
+  index: -1
+white_blast
+  rotate: false
+  xy: 1096, 10
+  size: 353, 279
+  orig: 353, 279
+  offset: 0, 0
+  index: -1

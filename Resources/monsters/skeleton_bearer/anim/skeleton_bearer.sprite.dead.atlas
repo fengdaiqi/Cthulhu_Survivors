@@ -1,0 +1,20 @@
+
+skeleton_bearer.sprite.dead.png
+size: 847,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead
+  rotate: true
+  xy: 2, 2
+  size: 364, 778
+  orig: 364, 778
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 782, 9
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

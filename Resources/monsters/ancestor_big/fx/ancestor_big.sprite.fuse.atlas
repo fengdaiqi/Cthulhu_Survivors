@@ -1,0 +1,55 @@
+
+ancestor_big.sprite.fuse.png
+size: 2264,493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 1790, 57
+  size: 332, 332
+  orig: 332, 332
+  offset: 0, 0
+  index: -1
+left_symbol
+  rotate: false
+  xy: 1713, 25
+  size: 75, 364
+  orig: 75, 364
+  offset: 0, 0
+  index: -1
+middle_left_symbol
+  rotate: true
+  xy: 1713, 391
+  size: 100, 549
+  orig: 100, 549
+  offset: 0, 0
+  index: -1
+middle_right_symbol
+  rotate: true
+  xy: 835, 2
+  size: 70, 651
+  orig: 70, 651
+  offset: 0, 0
+  index: -1
+right_symbol
+  rotate: false
+  xy: 781, 43
+  size: 52, 448
+  orig: 52, 448
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 835, 74
+  size: 417, 876
+  orig: 417, 876
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 2, 9
+  size: 482, 777
+  orig: 482, 777
+  offset: 0, 0
+  index: -1

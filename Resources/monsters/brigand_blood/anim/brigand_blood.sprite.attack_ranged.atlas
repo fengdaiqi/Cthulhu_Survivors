@@ -1,0 +1,20 @@
+
+brigand_blood.sprite.attack_ranged.png
+size: 1016,723
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_ranged
+  rotate: false
+  xy: 2, 2
+  size: 947, 719
+  orig: 947, 719
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 951, 364
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

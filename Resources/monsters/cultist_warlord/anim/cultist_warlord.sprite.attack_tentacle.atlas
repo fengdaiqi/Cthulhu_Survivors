@@ -1,0 +1,20 @@
+
+cultist_warlord.sprite.attack_tentacle.png
+size: 1118,550
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_tentacle
+  rotate: false
+  xy: 2, 2
+  size: 1049, 546
+  orig: 1049, 546
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1053, 191
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

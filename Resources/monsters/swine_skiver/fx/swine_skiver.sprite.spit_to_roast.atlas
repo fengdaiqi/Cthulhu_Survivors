@@ -1,0 +1,48 @@
+
+swine_skiver.sprite.spit_to_roast.png
+size: 383,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_blur
+  rotate: true
+  xy: 2, 8
+  size: 507, 207
+  orig: 507, 207
+  offset: 0, 0
+  index: -1
+ray01
+  rotate: true
+  xy: 303, 2
+  size: 178, 35
+  orig: 178, 35
+  offset: 0, 0
+  index: -1
+ray02
+  rotate: true
+  xy: 211, 85
+  size: 430, 47
+  orig: 430, 47
+  offset: 0, 0
+  index: -1
+ray03
+  rotate: true
+  xy: 324, 248
+  size: 267, 57
+  orig: 267, 57
+  offset: 0, 0
+  index: -1
+ray04
+  rotate: true
+  xy: 260, 182
+  size: 333, 62
+  orig: 333, 62
+  offset: 0, 0
+  index: -1
+ray05
+  rotate: true
+  xy: 260, 54
+  size: 126, 41
+  orig: 126, 41
+  offset: 0, 0
+  index: -1

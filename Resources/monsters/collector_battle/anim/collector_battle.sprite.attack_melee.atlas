@@ -1,0 +1,55 @@
+
+collector_battle.sprite.attack_melee.png
+size: 2148,550
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: true
+  xy: 2, 5
+  size: 543, 528
+  orig: 543, 528
+  offset: 0, 0
+  index: -1
+blur
+  rotate: false
+  xy: 1121, 48
+  size: 611, 500
+  orig: 611, 500
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1734, 44
+  size: 205, 439
+  orig: 205, 439
+  offset: 0, 0
+  index: -1
+eye_glow
+  rotate: true
+  xy: 1941, 2
+  size: 231, 78
+  orig: 231, 78
+  offset: 0, 0
+  index: -1
+ghost
+  rotate: false
+  xy: 532, 13
+  size: 587, 535
+  orig: 587, 535
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1734, 485
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+torso_glow
+  rotate: false
+  xy: 1941, 235
+  size: 205, 248
+  orig: 205, 248
+  offset: 0, 0
+  index: -1

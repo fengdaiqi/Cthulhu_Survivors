@@ -1,0 +1,41 @@
+
+drowned_captain.sprite.all_hands.png
+size: 2442,1202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura
+  rotate: true
+  xy: 1378, 31
+  size: 600, 596
+  orig: 600, 596
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2078, 872
+  size: 356, 328
+  orig: 356, 328
+  offset: 0, 0
+  index: -1
+rays
+  rotate: true
+  xy: 1976, 168
+  size: 463, 464
+  orig: 463, 464
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 1378, 633
+  size: 567, 698
+  orig: 567, 698
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 2
+  size: 1198, 1374
+  orig: 1198, 1374
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+crone.sprite.fetid_censer_target.png
+size: 430,493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud
+  rotate: false
+  xy: 2, 2
+  size: 426, 489
+  orig: 426, 489
+  offset: 0, 0
+  index: -1

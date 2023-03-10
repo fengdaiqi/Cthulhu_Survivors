@@ -1,0 +1,160 @@
+
+crone.sprite.combat.png
+size: 1015,289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bandana
+  rotate: true
+  xy: 698, 157
+  size: 130, 72
+  orig: 130, 72
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 564, 22
+  size: 169, 66
+  orig: 169, 66
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 931, 185
+  size: 82, 102
+  orig: 82, 102
+  offset: 0, 0
+  index: -1
+left_antler
+  rotate: true
+  xy: 454, 10
+  size: 78, 108
+  orig: 78, 108
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 818, 77
+  size: 111, 210
+  orig: 111, 210
+  offset: 0, 0
+  index: -1
+left_foot
+  rotate: false
+  xy: 596, 155
+  size: 74, 36
+  orig: 74, 36
+  offset: 0, 0
+  index: -1
+left_furs
+  rotate: false
+  xy: 405, 45
+  size: 47, 81
+  orig: 47, 81
+  offset: 0, 0
+  index: -1
+left_hair
+  rotate: true
+  xy: 151, 17
+  size: 36, 90
+  orig: 36, 90
+  offset: 0, 0
+  index: -1
+left_satchel_rope
+  rotate: false
+  xy: 962, 15
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: true
+  xy: 772, 230
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+rabbits_foot
+  rotate: true
+  xy: 797, 2
+  size: 65, 163
+  orig: 65, 163
+  offset: 0, 0
+  index: -1
+right_antler
+  rotate: false
+  xy: 931, 69
+  size: 79, 114
+  orig: 79, 114
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 257, 128
+  size: 159, 200
+  orig: 159, 200
+  offset: 0, 0
+  index: -1
+right_furs01
+  rotate: true
+  xy: 459, 155
+  size: 132, 135
+  orig: 132, 135
+  offset: 0, 0
+  index: -1
+right_furs02
+  rotate: true
+  xy: 2, 14
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+right_hair
+  rotate: false
+  xy: 735, 5
+  size: 60, 83
+  orig: 60, 83
+  offset: 0, 0
+  index: -1
+right_satchel_rope
+  rotate: false
+  xy: 772, 169
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+robes
+  rotate: false
+  xy: 2, 55
+  size: 253, 232
+  orig: 253, 232
+  offset: 0, 0
+  index: -1
+satchel
+  rotate: false
+  xy: 596, 193
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 459, 90
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+top_hair
+  rotate: false
+  xy: 45, 16
+  size: 104, 37
+  orig: 104, 37
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 257, 3
+  size: 146, 123
+  orig: 146, 123
+  offset: 0, 0
+  index: -1

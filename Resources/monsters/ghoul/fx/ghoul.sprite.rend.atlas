@@ -1,0 +1,13 @@
+
+ghoul.sprite.rend.png
+size: 659,325
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+claw_trail
+  rotate: false
+  xy: 2, 2
+  size: 655, 321
+  orig: 655, 321
+  offset: 0, 0
+  index: -1

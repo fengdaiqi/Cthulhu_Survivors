@@ -1,0 +1,34 @@
+
+cell_white.sprite.shuffle.png
+size: 1933,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: true
+  xy: 1281, 120
+  size: 418, 379
+  orig: 418, 379
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 1662, 256
+  size: 269, 282
+  orig: 269, 282
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 688, 2
+  size: 591, 536
+  orig: 591, 536
+  offset: 0, 0
+  index: -1
+tentacles
+  rotate: false
+  xy: 2, 47
+  size: 684, 491
+  orig: 684, 491
+  offset: 0, 0
+  index: -1

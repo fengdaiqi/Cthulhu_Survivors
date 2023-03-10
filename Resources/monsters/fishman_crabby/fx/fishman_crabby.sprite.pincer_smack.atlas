@@ -1,0 +1,13 @@
+
+fishman_crabby.sprite.pincer_smack.png
+size: 409,877
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pincer_trail
+  rotate: false
+  xy: 2, 2
+  size: 405, 873
+  orig: 405, 873
+  offset: 0, 0
+  index: -1

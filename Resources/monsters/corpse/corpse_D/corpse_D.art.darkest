@@ -1,0 +1,4 @@
+commonfx: .deathfx death_corpse_medium
+defending_area_pos_offset: .offset 0 50
+display_modifier: .disable_halos true .show_spawn_fx false .disabled_popup_text_types resist
+health_bar: .type "corpse"

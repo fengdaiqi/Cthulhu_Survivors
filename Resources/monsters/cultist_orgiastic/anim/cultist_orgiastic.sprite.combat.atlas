@@ -1,0 +1,244 @@
+
+cultist_orgiastic.sprite.combat.png
+size: 1417,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belly_eye01
+  rotate: true
+  xy: 400, 5
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+belly_eye02
+  rotate: true
+  xy: 1385, 175
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+belly_eye03
+  rotate: false
+  xy: 296, 3
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+belly_eye04
+  rotate: true
+  xy: 221, 2
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+belly_eye05
+  rotate: true
+  xy: 322, 3
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+belly_eye06
+  rotate: true
+  xy: 430, 5
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+blood
+  rotate: false
+  xy: 1049, 3
+  size: 55, 98
+  orig: 55, 98
+  offset: 0, 0
+  index: -1
+goo
+  rotate: true
+  xy: 852, 68
+  size: 11, 78
+  orig: 11, 78
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 661, 68
+  size: 111, 136
+  orig: 111, 136
+  offset: 0, 0
+  index: -1
+head_eye01
+  rotate: false
+  xy: 516, 11
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+head_eye02
+  rotate: false
+  xy: 483, 9
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 932, 68
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 1087, 107
+  size: 97, 296
+  orig: 97, 296
+  offset: 0, 0
+  index: -1
+left_ear
+  rotate: true
+  xy: 451, 6
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+left_foot
+  rotate: false
+  xy: 1003, 103
+  size: 82, 101
+  orig: 82, 101
+  offset: 0, 0
+  index: -1
+left_lower_leg
+  rotate: false
+  xy: 852, 81
+  size: 58, 123
+  orig: 58, 123
+  offset: 0, 0
+  index: -1
+left_middle
+  rotate: false
+  xy: 1385, 113
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+left_pinky
+  rotate: true
+  xy: 1371, 69
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+left_thumb
+  rotate: false
+  xy: 995, 68
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+left_upper_leg
+  rotate: true
+  xy: 615, 6
+  size: 45, 73
+  orig: 45, 73
+  offset: 0, 0
+  index: -1
+leg_eye01
+  rotate: true
+  xy: 1385, 144
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+leg_eye02
+  rotate: true
+  xy: 545, 12
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+leg_eye03
+  rotate: true
+  xy: 348, 4
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+leg_eye04
+  rotate: true
+  xy: 369, 5
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+rags_back
+  rotate: false
+  xy: 546, 53
+  size: 113, 151
+  orig: 113, 151
+  offset: 0, 0
+  index: -1
+rags_front
+  rotate: true
+  xy: 2, 9
+  size: 195, 217
+  orig: 195, 217
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 1106, 12
+  size: 93, 263
+  orig: 93, 263
+  offset: 0, 0
+  index: -1
+right_foot
+  rotate: false
+  xy: 912, 103
+  size: 89, 101
+  orig: 89, 101
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: false
+  xy: 774, 68
+  size: 76, 136
+  orig: 76, 136
+  offset: 0, 0
+  index: -1
+right_middle
+  rotate: false
+  xy: 263, 2
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+right_pinky
+  rotate: false
+  xy: 560, 5
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+right_thumb
+  rotate: true
+  xy: 1371, 35
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 690, 3
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 221, 30
+  size: 174, 323
+  orig: 174, 323
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+totem_attack.sprite.attack_melee.png
+size: 1083,621
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_melee
+  rotate: false
+  xy: 2, 2
+  size: 1014, 617
+  orig: 1014, 617
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1018, 262
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

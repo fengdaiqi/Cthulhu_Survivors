@@ -1,0 +1,13 @@
+
+formless_guard.sprite.slam.png
+size: 522,443
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slam_trail
+  rotate: false
+  xy: 2, 2
+  size: 518, 439
+  orig: 518, 439
+  offset: 0, 0
+  index: -1

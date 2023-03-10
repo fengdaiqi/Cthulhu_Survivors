@@ -1,0 +1,9 @@
+display: .size 1
+enemy_type: .id "cosmic"
+stats: .hp 999 .def 999% .prot 0 .spd 0 .stun_resist 1000% .poison_resist 1000% .bleed_resist 1000% .debuff_resist 1000% .move_resist 1000%
+personality: .prefskill -1
+loot: .code "" .count 
+initiative: .number_of_turns_per_round 0
+monster_brain: .id default_A
+life_link: .base_class "ancestor_big"
+battle_modifier: .accelerate_stall_penalty False .disable_stall_penalty True .can_surprise False .can_be_surprised False .always_surprise False .always_be_surprised False .can_be_hit False

@@ -1,0 +1,55 @@
+
+shuffler.sprite.howl.png
+size: 2709,686
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: true
+  xy: 2, 2
+  size: 682, 953
+  orig: 682, 953
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 957, 299
+  size: 722, 385
+  orig: 722, 385
+  offset: 0, 0
+  index: -1
+tentacle01
+  rotate: true
+  xy: 1577, 136
+  size: 161, 335
+  orig: 161, 335
+  offset: 0, 0
+  index: -1
+tentacle02_03
+  rotate: true
+  xy: 957, 27
+  size: 270, 618
+  orig: 270, 618
+  offset: 0, 0
+  index: -1
+tentacle04_05
+  rotate: false
+  xy: 1914, 14
+  size: 387, 670
+  orig: 387, 670
+  offset: 0, 0
+  index: -1
+tentacle05
+  rotate: true
+  xy: 1577, 30
+  size: 104, 213
+  orig: 104, 213
+  offset: 0, 0
+  index: -1
+tentacle06
+  rotate: false
+  xy: 2303, 236
+  size: 404, 448
+  orig: 404, 448
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,3 @@
+commonfx: .deathfx death_medium
+skill: .id "cudgel" .anim "attack_melee" .fx "cudgel" .targchestfx "blood_splatter"
+skill: .id "cudgel_weak" .anim "attack_melee" .fx "cudgel" .targchestfx "blood_splatter"

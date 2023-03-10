@@ -1,0 +1,13 @@
+
+cell_white.sprite.heal.png
+size: 279,242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rim_light
+  rotate: false
+  xy: 2, 2
+  size: 275, 238
+  orig: 275, 238
+  offset: 0, 0
+  index: -1

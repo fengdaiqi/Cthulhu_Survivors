@@ -1,0 +1,27 @@
+
+brigand_sapper.sprite.guard_target.png
+size: 1120,478
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shield
+  rotate: false
+  xy: 859, 181
+  size: 259, 295
+  orig: 259, 295
+  offset: 0, 0
+  index: -1
+splatter
+  rotate: true
+  xy: 2, 2
+  size: 474, 555
+  orig: 474, 555
+  offset: 0, 0
+  index: -1
+wolf
+  rotate: false
+  xy: 559, 20
+  size: 298, 456
+  orig: 298, 456
+  offset: 0, 0
+  index: -1

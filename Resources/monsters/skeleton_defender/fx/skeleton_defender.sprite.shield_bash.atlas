@@ -1,0 +1,13 @@
+
+skeleton_defender.sprite.shield_bash.png
+size: 655,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shield_trail
+  rotate: false
+  xy: 2, 2
+  size: 651, 142
+  orig: 651, 142
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+ancestor_small.sprite.heal.png
+size: 1794,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rim_light
+  rotate: true
+  xy: 982, 58
+  size: 312, 293
+  orig: 312, 293
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 1562, 140
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 622, 9
+  size: 358, 361
+  orig: 358, 361
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 2, 2
+  size: 368, 618
+  orig: 368, 618
+  offset: 0, 0
+  index: -1
+spikes
+  rotate: false
+  xy: 1277, 70
+  size: 283, 300
+  orig: 283, 300
+  offset: 0, 0
+  index: -1

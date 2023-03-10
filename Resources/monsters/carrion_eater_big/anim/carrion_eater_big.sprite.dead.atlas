@@ -1,0 +1,20 @@
+
+carrion_eater_big.sprite.dead.png
+size: 949,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead
+  rotate: false
+  xy: 2, 2
+  size: 586, 265
+  orig: 586, 265
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 590, 204
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

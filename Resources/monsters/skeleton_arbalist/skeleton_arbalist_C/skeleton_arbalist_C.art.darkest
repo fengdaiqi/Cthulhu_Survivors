@@ -1,0 +1,3 @@
+commonfx: .deathfx death_medium
+skill: .id "crossbow_shot" .anim "attack_crossbow" .fx "crossbow_shot" .targchestfx "crossbow_shot_target"
+skill: .id "bayonet_jab" .anim "attack_bayonet" .fx "bayonet_jab" .targchestfx "blood_splatter"

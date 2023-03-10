@@ -1,0 +1,27 @@
+
+collector.sprite.defend.png
+size: 1235,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 2
+  size: 510, 872
+  orig: 510, 872
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 876, 132
+  size: 326, 380
+  orig: 326, 380
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 876, 67
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

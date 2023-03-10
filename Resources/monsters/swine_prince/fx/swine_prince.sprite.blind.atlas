@@ -1,0 +1,13 @@
+
+swine_prince.sprite.blind.png
+size: 1224,664
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+claw_trail
+  rotate: false
+  xy: 2, 2
+  size: 1220, 660
+  orig: 1220, 660
+  offset: 0, 0
+  index: -1

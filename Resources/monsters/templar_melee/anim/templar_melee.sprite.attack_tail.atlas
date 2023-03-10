@@ -1,0 +1,20 @@
+
+templar_melee.sprite.attack_tail.png
+size: 1020,1009
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_tail
+  rotate: true
+  xy: 2, 2
+  size: 1005, 951
+  orig: 1005, 951
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 955, 650
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

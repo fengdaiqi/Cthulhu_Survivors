@@ -1,0 +1,2 @@
+commonfx: .deathfx death_medium
+skill: .id "munch" .anim "attack_bite" .targchestfx "blood_splatter"

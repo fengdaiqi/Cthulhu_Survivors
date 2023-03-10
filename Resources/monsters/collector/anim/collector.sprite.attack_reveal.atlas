@@ -1,0 +1,20 @@
+
+collector.sprite.attack_reveal.png
+size: 1075,985
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_reveal
+  rotate: true
+  xy: 2, 2
+  size: 981, 1006
+  orig: 981, 1006
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1010, 626
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

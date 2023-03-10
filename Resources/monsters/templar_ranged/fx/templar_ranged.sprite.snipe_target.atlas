@@ -1,0 +1,27 @@
+
+templar_ranged.sprite.snipe_target.png
+size: 313,595
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+impact
+  rotate: false
+  xy: 245, 38
+  size: 66, 118
+  orig: 66, 118
+  offset: 0, 0
+  index: -1
+spike
+  rotate: false
+  xy: 2, 2
+  size: 241, 154
+  orig: 241, 154
+  offset: 0, 0
+  index: -1
+spike_trail
+  rotate: true
+  xy: 2, 158
+  size: 435, 286
+  orig: 435, 286
+  offset: 0, 0
+  index: -1

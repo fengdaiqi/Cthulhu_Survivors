@@ -1,0 +1,27 @@
+
+shuffler.sprite.shuffle.png
+size: 1850,553
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black_howl
+  rotate: false
+  xy: 1459, 38
+  size: 389, 513
+  orig: 389, 513
+  offset: 0, 0
+  index: -1
+red_howl
+  rotate: false
+  xy: 1010, 50
+  size: 447, 501
+  orig: 447, 501
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 2, 2
+  size: 549, 1006
+  orig: 549, 1006
+  offset: 0, 0
+  index: -1

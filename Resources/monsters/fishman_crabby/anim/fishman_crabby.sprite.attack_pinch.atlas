@@ -1,0 +1,20 @@
+
+fishman_crabby.sprite.attack_pinch.png
+size: 1433,665
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_pinch
+  rotate: false
+  xy: 2, 2
+  size: 1364, 661
+  orig: 1364, 661
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1368, 306
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+shambler_tentacle.sprite.slap.png
+size: 869,685
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+inner_ring
+  rotate: false
+  xy: 2, 441
+  size: 244, 242
+  orig: 244, 242
+  offset: 0, 0
+  index: -1
+middle_ring
+  rotate: false
+  xy: 543, 381
+  size: 306, 302
+  orig: 306, 302
+  offset: 0, 0
+  index: -1
+outer_ring
+  rotate: false
+  xy: 488, 2
+  size: 379, 377
+  orig: 379, 377
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 248, 390
+  size: 293, 293
+  orig: 293, 293
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 49
+  size: 339, 484
+  orig: 339, 484
+  offset: 0, 0
+  index: -1

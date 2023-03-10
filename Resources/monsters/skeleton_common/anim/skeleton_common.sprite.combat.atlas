@@ -1,0 +1,188 @@
+
+skeleton_common.sprite.combat.png
+size: 855,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: true
+  xy: 422, 2
+  size: 133, 68
+  orig: 133, 68
+  offset: 0, 0
+  index: -1
+cudgel
+  rotate: true
+  xy: 2, 24
+  size: 252, 112
+  orig: 252, 112
+  offset: 0, 0
+  index: -1
+hips
+  rotate: true
+  xy: 342, 137
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 683, 79
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+left_ankle
+  rotate: true
+  xy: 758, 117
+  size: 43, 95
+  orig: 43, 95
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 492, 29
+  size: 46, 106
+  orig: 46, 106
+  offset: 0, 0
+  index: -1
+left_collarbone
+  rotate: false
+  xy: 492, 3
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+left_foot
+  rotate: true
+  xy: 528, 137
+  size: 74, 32
+  orig: 74, 32
+  offset: 0, 0
+  index: -1
+left_forearm
+  rotate: true
+  xy: 758, 162
+  size: 49, 95
+  orig: 49, 95
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: true
+  xy: 762, 59
+  size: 56, 79
+  orig: 56, 79
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: false
+  xy: 252, 10
+  size: 65, 123
+  orig: 65, 123
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 562, 138
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+ribs
+  rotate: false
+  xy: 116, 9
+  size: 134, 114
+  orig: 134, 114
+  offset: 0, 0
+  index: -1
+right_ankle
+  rotate: true
+  xy: 669, 144
+  size: 67, 87
+  orig: 67, 87
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 319, 24
+  size: 101, 109
+  orig: 101, 109
+  offset: 0, 0
+  index: -1
+right_collarbone
+  rotate: true
+  xy: 643, 42
+  size: 96, 38
+  orig: 96, 38
+  offset: 0, 0
+  index: -1
+right_foot
+  rotate: true
+  xy: 478, 137
+  size: 74, 48
+  orig: 74, 48
+  offset: 0, 0
+  index: -1
+right_forearm
+  rotate: false
+  xy: 625, 140
+  size: 42, 71
+  orig: 42, 71
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: true
+  xy: 683, 16
+  size: 61, 77
+  orig: 61, 77
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: false
+  xy: 246, 135
+  size: 94, 141
+  orig: 94, 141
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 492, 213
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+skull
+  rotate: false
+  xy: 116, 125
+  size: 128, 151
+  orig: 128, 151
+  offset: 0, 0
+  index: -1
+spine
+  rotate: false
+  xy: 762, 2
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+strap
+  rotate: true
+  xy: 540, 32
+  size: 103, 101
+  orig: 103, 101
+  offset: 0, 0
+  index: -1
+tatters01
+  rotate: true
+  xy: 2, 8
+  size: 14, 48
+  orig: 14, 48
+  offset: 0, 0
+  index: -1
+tatters02
+  rotate: true
+  xy: 52, 9
+  size: 13, 40
+  orig: 13, 40
+  offset: 0, 0
+  index: -1

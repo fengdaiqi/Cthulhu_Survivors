@@ -1,0 +1,13 @@
+
+gargoyle.sprite.tail_whip.png
+size: 605,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tail_trail
+  rotate: false
+  xy: 2, 2
+  size: 601, 193
+  orig: 601, 193
+  offset: 0, 0
+  index: -1

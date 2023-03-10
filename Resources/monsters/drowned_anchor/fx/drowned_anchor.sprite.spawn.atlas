@@ -1,0 +1,34 @@
+
+drowned_anchor.sprite.spawn.png
+size: 392,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+foam01
+  rotate: false
+  xy: 197, 2
+  size: 148, 231
+  orig: 148, 231
+  offset: 0, 0
+  index: -1
+foam02
+  rotate: false
+  xy: 2, 226
+  size: 189, 228
+  orig: 189, 228
+  offset: 0, 0
+  index: -1
+splash01
+  rotate: false
+  xy: 2, 9
+  size: 193, 215
+  orig: 193, 215
+  offset: 0, 0
+  index: -1
+splash02
+  rotate: false
+  xy: 193, 235
+  size: 197, 219
+  orig: 197, 219
+  offset: 0, 0
+  index: -1

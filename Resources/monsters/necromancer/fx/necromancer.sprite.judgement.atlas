@@ -1,0 +1,20 @@
+
+necromancer.sprite.judgement.png
+size: 1027,419
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura
+  rotate: false
+  xy: 544, 12
+  size: 481, 405
+  orig: 481, 405
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 2, 2
+  size: 415, 540
+  orig: 415, 540
+  offset: 0, 0
+  index: -1

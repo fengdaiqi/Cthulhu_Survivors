@@ -1,0 +1,12 @@
+display: .size 2
+enemy_type: .id "beast"
+stats: .hp 37 .def 0% .prot 0.15 .spd 1 .stun_resist 50% .poison_resist 100% .bleed_resist 60% .debuff_resist 40% .move_resist 75%
+skill: .id "weaken_prey" .type "melee" .atk 87.5% .dmg 2 4 .crit 6%  .effect "Weakening Curse 1" "Mark Target" "Carrion Weaken Damage Debuff 1" .launch 1234 .target 123
+skill: .id "tentacle_devour" .type "melee" .atk 87.5% .dmg 5 11 .crit 12%  .effect "Damage Marked Target" "Carrion Devour Debuff 1" .launch 1234 .target 123
+personality: .prefskill -1
+loot: .code "A" .count 2
+initiative: .number_of_turns_per_round 1
+monster_brain: .id carrion_eater_big_A
+death_class: .monster_class_id corpse_large_A .is_valid_on_crit False .type "corpse" 
+battle_modifier: .accelerate_stall_penalty False .disable_stall_penalty True .can_surprise True .can_be_surprised True .always_surprise False .always_be_surprised False
+wave_spawning: .prefers_front True

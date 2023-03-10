@@ -1,0 +1,41 @@
+
+cultist_harpy.sprite.pull_target.png
+size: 976,618
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura
+  rotate: true
+  xy: 2, 12
+  size: 251, 328
+  orig: 251, 328
+  offset: 0, 0
+  index: -1
+flash
+  rotate: true
+  xy: 2, 265
+  size: 351, 512
+  orig: 351, 512
+  offset: 0, 0
+  index: -1
+portal
+  rotate: false
+  xy: 516, 2
+  size: 277, 614
+  orig: 277, 614
+  offset: 0, 0
+  index: -1
+tentacle01
+  rotate: true
+  xy: 795, 73
+  size: 543, 179
+  orig: 543, 179
+  offset: 0, 0
+  index: -1
+tentacle02
+  rotate: true
+  xy: 332, 53
+  size: 210, 124
+  orig: 210, 124
+  offset: 0, 0
+  index: -1

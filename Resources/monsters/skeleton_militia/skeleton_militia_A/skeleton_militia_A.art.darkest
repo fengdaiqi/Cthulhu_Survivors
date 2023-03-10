@@ -1,0 +1,3 @@
+commonfx: .deathfx death_medium
+skill: .id "sword_strike" .anim "attack_melee" .fx "sword_strike" .targchestfx "blood_splatter"
+skill: .id "sword_strike_weak" .anim "attack_melee" .fx "sword_strike" .targchestfx "blood_splatter"

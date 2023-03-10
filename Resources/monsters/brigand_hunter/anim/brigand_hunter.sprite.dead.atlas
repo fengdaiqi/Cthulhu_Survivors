@@ -1,0 +1,20 @@
+
+brigand_hunter.sprite.dead.png
+size: 687,294
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead
+  rotate: false
+  xy: 2, 2
+  size: 324, 290
+  orig: 324, 290
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 328, 229
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

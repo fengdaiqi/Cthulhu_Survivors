@@ -1,0 +1,4 @@
+commonfx: .deathfx death_small
+skill: .id "head_heal" .anim "attack_heal" .fx "heal" .targfx "heal_target" .area_pos_offset 0 -25 .target_area_pos_offset 0 -40 .can_display_performer_selection_after_turn false
+skill: .id "head_buff" .anim "attack_heal" .fx "buff" .area_pos_offset 0 -25 .target_area_pos_offset 0 -40 .can_display_performer_selection_after_turn false
+skill: .id "head_stress" .anim "attack_heal" .fx "stress" .targfx "stress_target" .area_pos_offset 0 -25

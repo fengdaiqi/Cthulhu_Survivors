@@ -1,0 +1,125 @@
+
+brigand_raider.sprite.combat.png
+size: 399,1063
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+breastplate
+  rotate: true
+  xy: 2, 496
+  size: 212, 250
+  orig: 212, 250
+  offset: 0, 0
+  index: -1
+dagger
+  rotate: true
+  xy: 254, 605
+  size: 52, 143
+  orig: 52, 143
+  offset: 0, 0
+  index: -1
+hood
+  rotate: false
+  xy: 250, 242
+  size: 147, 145
+  orig: 147, 145
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 2, 402
+  size: 92, 249
+  orig: 92, 249
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: false
+  xy: 289, 747
+  size: 102, 161
+  orig: 102, 161
+  offset: 0, 0
+  index: -1
+left_pauldron
+  rotate: true
+  xy: 296, 50
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+left_tasset
+  rotate: true
+  xy: 289, 659
+  size: 86, 99
+  orig: 86, 99
+  offset: 0, 0
+  index: -1
+left_wolf_pelt
+  rotate: true
+  xy: 253, 389
+  size: 83, 141
+  orig: 83, 141
+  offset: 0, 0
+  index: -1
+mask
+  rotate: true
+  xy: 289, 910
+  size: 86, 104
+  orig: 86, 104
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 2, 710
+  size: 120, 285
+  orig: 120, 285
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: true
+  xy: 212, 116
+  size: 117, 175
+  orig: 117, 175
+  offset: 0, 0
+  index: -1
+right_pauldron
+  rotate: false
+  xy: 254, 474
+  size: 142, 129
+  orig: 142, 129
+  offset: 0, 0
+  index: -1
+right_tasset
+  rotate: true
+  xy: 212, 16
+  size: 98, 82
+  orig: 98, 82
+  offset: 0, 0
+  index: -1
+right_wolf_pelt
+  rotate: false
+  xy: 2, 2
+  size: 208, 231
+  orig: 208, 231
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 998
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 2, 832
+  size: 285, 164
+  orig: 285, 164
+  offset: 0, 0
+  index: -1
+tunic
+  rotate: false
+  xy: 2, 235
+  size: 246, 165
+  orig: 246, 165
+  offset: 0, 0
+  index: -1

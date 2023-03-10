@@ -1,0 +1,118 @@
+
+madman.sprite.combat.png
+size: 575,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_strap
+  rotate: true
+  xy: 319, 10
+  size: 43, 155
+  orig: 43, 155
+  offset: 0, 0
+  index: -1
+front_strap
+  rotate: true
+  xy: 2, 2
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 142, 17
+  size: 112, 175
+  orig: 112, 175
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: true
+  xy: 535, 378
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 452, 432
+  size: 104, 121
+  orig: 104, 121
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: false
+  xy: 501, 209
+  size: 46, 96
+  orig: 46, 96
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: false
+  xy: 467, 74
+  size: 79, 111
+  orig: 79, 111
+  offset: 0, 0
+  index: -1
+left_sleeve
+  rotate: true
+  xy: 319, 55
+  size: 74, 146
+  orig: 74, 146
+  offset: 0, 0
+  index: -1
+left_strap
+  rotate: true
+  xy: 217, 252
+  size: 37, 270
+  orig: 37, 270
+  offset: 0, 0
+  index: -1
+pants
+  rotate: false
+  xy: 217, 291
+  size: 233, 245
+  orig: 233, 245
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 2, 40
+  size: 219, 138
+  orig: 219, 138
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: true
+  xy: 476, 8
+  size: 64, 91
+  orig: 64, 91
+  offset: 0, 0
+  index: -1
+right_sleeve
+  rotate: false
+  xy: 452, 307
+  size: 81, 123
+  orig: 81, 123
+  offset: 0, 0
+  index: -1
+right_strap
+  rotate: true
+  xy: 142, 131
+  size: 54, 320
+  orig: 54, 320
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 142, 187
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+strait_jacket
+  rotate: false
+  xy: 2, 261
+  size: 213, 275
+  orig: 213, 275
+  offset: 0, 0
+  index: -1

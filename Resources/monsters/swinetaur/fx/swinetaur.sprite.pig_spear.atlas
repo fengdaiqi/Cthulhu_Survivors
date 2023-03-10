@@ -1,0 +1,27 @@
+
+swinetaur.sprite.pig_spear.png
+size: 966,1338
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust
+  rotate: true
+  xy: 2, 436
+  size: 900, 459
+  orig: 900, 459
+  offset: 0, 0
+  index: -1
+lance_trail
+  rotate: true
+  xy: 463, 437
+  size: 899, 501
+  orig: 899, 501
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 2, 2
+  size: 785, 432
+  orig: 785, 432
+  offset: 0, 0
+  index: -1

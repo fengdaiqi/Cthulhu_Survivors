@@ -1,0 +1,20 @@
+
+octotank.sprite.dead.png
+size: 691,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead
+  rotate: false
+  xy: 2, 2
+  size: 328, 261
+  orig: 328, 261
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 332, 200
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

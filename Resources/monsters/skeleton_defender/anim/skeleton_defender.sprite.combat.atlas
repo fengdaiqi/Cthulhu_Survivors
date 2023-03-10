@@ -1,0 +1,230 @@
+
+skeleton_defender.sprite.combat.png
+size: 1479,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow01
+  rotate: false
+  xy: 1094, 6
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+arrow02
+  rotate: false
+  xy: 1175, 6
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+arrow03
+  rotate: false
+  xy: 1348, 6
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+arrow04
+  rotate: false
+  xy: 1366, 174
+  size: 109, 87
+  orig: 109, 87
+  offset: 0, 0
+  index: -1
+arrow05
+  rotate: false
+  xy: 714, 23
+  size: 86, 44
+  orig: 86, 44
+  offset: 0, 0
+  index: -1
+axe
+  rotate: false
+  xy: 2, 3
+  size: 265, 258
+  orig: 265, 258
+  offset: 0, 0
+  index: -1
+coif
+  rotate: true
+  xy: 715, 69
+  size: 127, 185
+  orig: 127, 185
+  offset: 0, 0
+  index: -1
+cuirass
+  rotate: false
+  xy: 269, 15
+  size: 195, 246
+  orig: 195, 246
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 1300, 12
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 1250, 28
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+left_greave
+  rotate: true
+  xy: 1073, 84
+  size: 84, 132
+  orig: 84, 132
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 1006, 2
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+left_pauldron
+  rotate: true
+  xy: 1228, 175
+  size: 86, 136
+  orig: 86, 136
+  offset: 0, 0
+  index: -1
+left_sabaton
+  rotate: false
+  xy: 802, 22
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+medal
+  rotate: true
+  xy: 902, 35
+  size: 50, 102
+  orig: 50, 102
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 466, 2
+  size: 82, 111
+  orig: 82, 111
+  offset: 0, 0
+  index: -1
+right_glove
+  rotate: false
+  xy: 579, 5
+  size: 91, 79
+  orig: 91, 79
+  offset: 0, 0
+  index: -1
+right_greave
+  rotate: true
+  xy: 902, 87
+  size: 109, 169
+  orig: 109, 169
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: true
+  xy: 1410, 3
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+right_sabaton
+  rotate: true
+  xy: 672, 17
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+right_vambrace
+  rotate: true
+  xy: 1074, 170
+  size: 91, 152
+  orig: 91, 152
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 715, 198
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+shield
+  rotate: true
+  xy: 466, 86
+  size: 175, 247
+  orig: 175, 247
+  offset: 0, 0
+  index: -1
+skull
+  rotate: true
+  xy: 1228, 85
+  size: 88, 127
+  orig: 88, 127
+  offset: 0, 0
+  index: -1
+tatters01
+  rotate: true
+  xy: 1300, 55
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+tatters02
+  rotate: true
+  xy: 1250, 2
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+tatters03
+  rotate: false
+  xy: 1207, 137
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+tatters04
+  rotate: true
+  xy: 1250, 13
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+tatters05
+  rotate: false
+  xy: 901, 3
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+tatters06
+  rotate: false
+  xy: 883, 29
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+tatters07
+  rotate: true
+  xy: 672, 2
+  size: 13, 44
+  orig: 13, 44
+  offset: 0, 0
+  index: -1
+tunic
+  rotate: true
+  xy: 1357, 45
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1

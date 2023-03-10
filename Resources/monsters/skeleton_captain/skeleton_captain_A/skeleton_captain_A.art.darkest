@@ -1,0 +1,3 @@
+commonfx: .deathfx death_large
+skill: .id "crushing_blow"	.anim "attack_mace" .fx "crushing_blow" .targchestfx "blood_splatter"
+skill: .id "ground_pound"	.anim "attack_mace" .fx "ground_pound" .targchestfx "blood_splatter" .area_pos_offset -150 40 .target_area_pos_offset 225 40

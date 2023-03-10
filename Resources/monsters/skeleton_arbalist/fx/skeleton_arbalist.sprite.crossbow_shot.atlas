@@ -1,0 +1,13 @@
+
+skeleton_arbalist.sprite.crossbow_shot.png
+size: 212,210
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+smoke
+  rotate: false
+  xy: 2, 2
+  size: 208, 206
+  orig: 208, 206
+  offset: 0, 0
+  index: -1

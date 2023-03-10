@@ -1,0 +1,55 @@
+
+rabid_dog.sprite.combat.png
+size: 540,406
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 84
+  size: 396, 320
+  orig: 396, 320
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: true
+  xy: 494, 171
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+left_back_leg
+  rotate: false
+  xy: 400, 73
+  size: 92, 154
+  orig: 92, 154
+  offset: 0, 0
+  index: -1
+left_front_leg
+  rotate: false
+  xy: 400, 229
+  size: 100, 175
+  orig: 100, 175
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 19
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+spine
+  rotate: false
+  xy: 361, 2
+  size: 167, 69
+  orig: 167, 69
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 494, 119
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1

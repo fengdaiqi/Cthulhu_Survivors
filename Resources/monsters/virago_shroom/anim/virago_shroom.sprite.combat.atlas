@@ -1,0 +1,202 @@
+
+virago_shroom.sprite.combat.png
+size: 580,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big_mushroom_cap
+  rotate: true
+  xy: 177, 24
+  size: 208, 187
+  orig: 208, 187
+  offset: 0, 0
+  index: -1
+big_mushroom_stem
+  rotate: false
+  xy: 177, 234
+  size: 196, 295
+  orig: 196, 295
+  offset: 0, 0
+  index: -1
+gas
+  rotate: false
+  xy: 2, 176
+  size: 173, 353
+  orig: 173, 353
+  offset: 0, 0
+  index: -1
+ground
+  rotate: true
+  xy: 375, 185
+  size: 344, 106
+  orig: 344, 106
+  offset: 0, 0
+  index: -1
+mushroom01
+  rotate: false
+  xy: 444, 47
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+mushroom02
+  rotate: false
+  xy: 118, 113
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+mushroom03
+  rotate: false
+  xy: 548, 336
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+mushroom04
+  rotate: false
+  xy: 444, 2
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+mushroom05
+  rotate: false
+  xy: 491, 2
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+mushroom06
+  rotate: false
+  xy: 548, 313
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+mushroom07
+  rotate: false
+  xy: 366, 99
+  size: 73, 84
+  orig: 73, 84
+  offset: 0, 0
+  index: -1
+mushroom08
+  rotate: true
+  xy: 548, 392
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+mushroom09
+  rotate: true
+  xy: 548, 493
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+mushroom10
+  rotate: true
+  xy: 118, 72
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+mushroom11
+  rotate: true
+  xy: 548, 423
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+mushroom12
+  rotate: true
+  xy: 548, 361
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+mushroom13
+  rotate: true
+  xy: 548, 457
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+mushroom14
+  rotate: false
+  xy: 544, 82
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+mushroom15
+  rotate: true
+  xy: 506, 69
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+mushroom16_cap
+  rotate: false
+  xy: 2, 92
+  size: 114, 82
+  orig: 114, 82
+  offset: 0, 0
+  index: -1
+mushroom16_stem
+  rotate: true
+  xy: 2, 6
+  size: 84, 94
+  orig: 84, 94
+  offset: 0, 0
+  index: -1
+mushroom17
+  rotate: true
+  xy: 526, 120
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+mushroom18
+  rotate: false
+  xy: 366, 17
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 483, 172
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+spore01
+  rotate: true
+  xy: 441, 109
+  size: 61, 83
+  orig: 61, 83
+  offset: 0, 0
+  index: -1
+spore04
+  rotate: true
+  xy: 441, 109
+  size: 61, 83
+  orig: 61, 83
+  offset: 0, 0
+  index: -1
+spore02
+  rotate: true
+  xy: 441, 109
+  size: 61, 83
+  orig: 61, 83
+  offset: 0, 0
+  index: -1
+spore03
+  rotate: true
+  xy: 441, 109
+  size: 61, 83
+  orig: 61, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,4 @@
+commonfx: .deathfx death_medium
+skill: .id "spider_spit" .anim "attack_melee" .fx "spit" .targchestfx "spit_target" .area_pos_offset 0 20 .target_area_pos_offset 0 20
+skill: .id "spider_bite" .anim "attack_melee" .fx "bite" .targchestfx "spit_target" .area_pos_offset 0 20 .target_area_pos_offset 0 20
+defending_area_pos_offset: .offset 0 20

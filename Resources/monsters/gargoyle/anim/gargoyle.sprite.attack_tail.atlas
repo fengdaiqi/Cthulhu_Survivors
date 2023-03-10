@@ -1,0 +1,20 @@
+
+gargoyle.sprite.attack_tail.png
+size: 891,699
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_tail
+  rotate: false
+  xy: 2, 2
+  size: 822, 695
+  orig: 822, 695
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 826, 340
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

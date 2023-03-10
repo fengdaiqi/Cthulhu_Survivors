@@ -1,0 +1,174 @@
+
+skeleton_militia.sprite.combat.png
+size: 477,541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hips
+  rotate: true
+  xy: 196, 272
+  size: 138, 131
+  orig: 138, 131
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: true
+  xy: 271, 64
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+left_ankle
+  rotate: true
+  xy: 239, 18
+  size: 44, 92
+  orig: 44, 92
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 161, 74
+  size: 54, 108
+  orig: 54, 108
+  offset: 0, 0
+  index: -1
+left_fingers
+  rotate: false
+  xy: 425, 330
+  size: 47, 95
+  orig: 47, 95
+  offset: 0, 0
+  index: -1
+left_foot
+  rotate: false
+  xy: 341, 44
+  size: 74, 32
+  orig: 74, 32
+  offset: 0, 0
+  index: -1
+left_glove
+  rotate: true
+  xy: 141, 2
+  size: 70, 96
+  orig: 70, 96
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: false
+  xy: 258, 148
+  size: 66, 122
+  orig: 66, 122
+  offset: 0, 0
+  index: -1
+left_thumb
+  rotate: true
+  xy: 425, 285
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 416, 217
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+ribs
+  rotate: false
+  xy: 328, 427
+  size: 129, 112
+  orig: 129, 112
+  offset: 0, 0
+  index: -1
+right_ankle
+  rotate: true
+  xy: 329, 214
+  size: 68, 85
+  orig: 68, 85
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 67, 2
+  size: 72, 93
+  orig: 72, 93
+  offset: 0, 0
+  index: -1
+right_foot
+  rotate: false
+  xy: 326, 160
+  size: 74, 52
+  orig: 74, 52
+  offset: 0, 0
+  index: -1
+right_glove
+  rotate: false
+  xy: 67, 97
+  size: 92, 160
+  orig: 92, 160
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: false
+  xy: 329, 284
+  size: 94, 141
+  orig: 94, 141
+  offset: 0, 0
+  index: -1
+right_pauldron
+  rotate: true
+  xy: 161, 130
+  size: 127, 95
+  orig: 127, 95
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 53
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+skull
+  rotate: false
+  xy: 67, 259
+  size: 127, 151
+  orig: 127, 151
+  offset: 0, 0
+  index: -1
+spine
+  rotate: true
+  xy: 2, 2
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+strap
+  rotate: false
+  xy: 341, 78
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 2, 412
+  size: 324, 127
+  orig: 324, 127
+  offset: 0, 0
+  index: -1
+tatters01
+  rotate: false
+  xy: 459, 491
+  size: 15, 48
+  orig: 15, 48
+  offset: 0, 0
+  index: -1
+tatters02
+  rotate: true
+  xy: 239, 3
+  size: 13, 40
+  orig: 13, 40
+  offset: 0, 0
+  index: -1

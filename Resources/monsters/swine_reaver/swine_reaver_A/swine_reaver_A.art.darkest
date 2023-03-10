@@ -1,0 +1,3 @@
+commonfx: .deathfx death_medium
+skill: .id "butcher_cut" .anim "attack_melee" .fx "butcher_cut" .targchestfx "blood_splatter"
+skill: .id "ball_and_chain" .anim "attack_ranged" .targchestfx "blood_splatter"

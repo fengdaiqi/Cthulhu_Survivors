@@ -1,0 +1,20 @@
+
+fishman_shaman.sprite.defend.png
+size: 838,671
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 2
+  size: 667, 769
+  orig: 667, 769
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 773, 312
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

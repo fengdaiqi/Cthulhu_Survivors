@@ -1,0 +1,20 @@
+
+brigand_cannon.sprite.attack_summon.png
+size: 1145,913
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_summon
+  rotate: false
+  xy: 2, 2
+  size: 1076, 909
+  orig: 1076, 909
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1080, 554
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

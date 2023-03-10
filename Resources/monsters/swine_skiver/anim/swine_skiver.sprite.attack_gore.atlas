@@ -1,0 +1,20 @@
+
+swine_skiver.sprite.attack_gore.png
+size: 825,549
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_gore
+  rotate: true
+  xy: 2, 2
+  size: 545, 756
+  orig: 545, 756
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 760, 190
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

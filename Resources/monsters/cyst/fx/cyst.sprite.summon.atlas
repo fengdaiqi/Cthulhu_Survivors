@@ -1,0 +1,27 @@
+
+cyst.sprite.summon.png
+size: 1744,556
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: true
+  xy: 1450, 186
+  size: 368, 292
+  orig: 368, 292
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 2, 28
+  size: 817, 526
+  orig: 817, 526
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 821, 2
+  size: 552, 627
+  orig: 552, 627
+  offset: 0, 0
+  index: -1

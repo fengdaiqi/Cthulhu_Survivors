@@ -1,0 +1,13 @@
+
+fishman_crabby.sprite.pinch.png
+size: 627,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pincer_trail
+  rotate: false
+  xy: 2, 2
+  size: 623, 463
+  orig: 623, 463
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,3 @@
+commonfx: .deathfx death_medium
+skill: .id "brawler_claw_D" .anim "attack_tentacle" .fx "tentacle" .targchestfx "blood_splatter"
+skill: .id "brawler_claw_weak" .anim "attack_melee" .fx "brawler_claw" .targchestfx "blood_splatter"

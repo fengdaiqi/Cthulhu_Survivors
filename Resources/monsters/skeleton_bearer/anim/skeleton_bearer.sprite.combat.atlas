@@ -1,0 +1,265 @@
+
+skeleton_bearer.sprite.combat.png
+size: 775,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+breastplate
+  rotate: true
+  xy: 254, 387
+  size: 201, 215
+  orig: 201, 215
+  offset: 0, 0
+  index: -1
+codpiece
+  rotate: false
+  xy: 471, 390
+  size: 154, 70
+  orig: 154, 70
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 477, 101
+  size: 78, 143
+  orig: 78, 143
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 361, 246
+  size: 139, 202
+  orig: 139, 202
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: true
+  xy: 541, 903
+  size: 126, 230
+  orig: 126, 230
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 94, 405
+  size: 183, 157
+  orig: 183, 157
+  offset: 0, 0
+  index: -1
+left_greaves
+  rotate: false
+  xy: 254, 218
+  size: 104, 167
+  orig: 104, 167
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 645, 832
+  size: 69, 112
+  orig: 69, 112
+  offset: 0, 0
+  index: -1
+left_pauldron
+  rotate: true
+  xy: 557, 104
+  size: 139, 90
+  orig: 139, 90
+  offset: 0, 0
+  index: -1
+left_pauldron_feathers
+  rotate: false
+  xy: 254, 127
+  size: 101, 89
+  orig: 101, 89
+  offset: 0, 0
+  index: -1
+left_plume
+  rotate: false
+  xy: 693, 7
+  size: 63, 105
+  orig: 63, 105
+  offset: 0, 0
+  index: -1
+left_tasset01
+  rotate: false
+  xy: 689, 268
+  size: 76, 45
+  orig: 76, 45
+  offset: 0, 0
+  index: -1
+left_tasset02
+  rotate: true
+  xy: 689, 315
+  size: 75, 59
+  orig: 75, 59
+  offset: 0, 0
+  index: -1
+middle_plume
+  rotate: true
+  xy: 224, 11
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: true
+  xy: 94, 373
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 541, 819
+  size: 82, 102
+  orig: 82, 102
+  offset: 0, 0
+  index: -1
+right_glove
+  rotate: false
+  xy: 649, 114
+  size: 90, 129
+  orig: 90, 129
+  offset: 0, 0
+  index: -1
+right_greaves
+  rotate: true
+  xy: 600, 485
+  size: 103, 173
+  orig: 103, 173
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: true
+  xy: 471, 462
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+right_pauldron
+  rotate: true
+  xy: 360, 148
+  size: 96, 115
+  orig: 96, 115
+  offset: 0, 0
+  index: -1
+right_pauldron_feathers
+  rotate: true
+  xy: 557, 11
+  size: 91, 134
+  orig: 91, 134
+  offset: 0, 0
+  index: -1
+right_plume
+  rotate: true
+  xy: 654, 601
+  size: 65, 90
+  orig: 65, 90
+  offset: 0, 0
+  index: -1
+right_tasset01
+  rotate: false
+  xy: 154, 11
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+right_tasset02
+  rotate: true
+  xy: 457, 10
+  size: 89, 53
+  orig: 89, 53
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 58
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+skull
+  rotate: true
+  xy: 654, 668
+  size: 162, 117
+  orig: 162, 117
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 94, 817
+  size: 212, 445
+  orig: 212, 445
+  offset: 0, 0
+  index: -1
+staff
+  rotate: false
+  xy: 2, 373
+  size: 90, 656
+  orig: 90, 656
+  offset: 0, 0
+  index: -1
+standard_bottom
+  rotate: true
+  xy: 94, 590
+  size: 225, 558
+  orig: 225, 558
+  offset: 0, 0
+  index: -1
+standard_left
+  rotate: false
+  xy: 565, 245
+  size: 122, 143
+  orig: 122, 143
+  offset: 0, 0
+  index: -1
+standard_right
+  rotate: true
+  xy: 627, 392
+  size: 91, 138
+  orig: 91, 138
+  offset: 0, 0
+  index: -1
+standard_tassel_left
+  rotate: true
+  xy: 2, 9
+  size: 47, 73
+  orig: 47, 73
+  offset: 0, 0
+  index: -1
+standard_tassel_right
+  rotate: true
+  xy: 77, 10
+  size: 46, 75
+  orig: 46, 75
+  offset: 0, 0
+  index: -1
+standard_top
+  rotate: true
+  xy: 2, 123
+  size: 248, 250
+  orig: 248, 250
+  offset: 0, 0
+  index: -1
+tatters
+  rotate: false
+  xy: 361, 2
+  size: 94, 144
+  orig: 94, 144
+  offset: 0, 0
+  index: -1
+teeth_lower
+  rotate: false
+  xy: 180, 389
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+teeth_upper
+  rotate: false
+  xy: 140, 389
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+hag.sprite.season.png
+size: 546,367
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+seasoning01
+  rotate: false
+  xy: 399, 53
+  size: 81, 119
+  orig: 81, 119
+  offset: 0, 0
+  index: -1
+seasoning02
+  rotate: false
+  xy: 399, 174
+  size: 100, 191
+  orig: 100, 191
+  offset: 0, 0
+  index: -1
+seasoning03
+  rotate: true
+  xy: 399, 5
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+seasoning04
+  rotate: false
+  xy: 501, 233
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+seasoning05
+  rotate: false
+  xy: 482, 66
+  size: 61, 106
+  orig: 61, 106
+  offset: 0, 0
+  index: -1
+seasoning06
+  rotate: false
+  xy: 501, 195
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+seasoning07
+  rotate: false
+  xy: 501, 280
+  size: 43, 85
+  orig: 43, 85
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 2, 2
+  size: 363, 395
+  orig: 363, 395
+  offset: 0, 0
+  index: -1

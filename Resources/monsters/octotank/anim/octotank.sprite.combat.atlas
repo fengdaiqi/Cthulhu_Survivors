@@ -1,0 +1,97 @@
+
+octotank.sprite.combat.png
+size: 1257,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 67
+  size: 347, 484
+  orig: 347, 484
+  offset: 0, 0
+  index: -1
+cestus
+  rotate: false
+  xy: 841, 9
+  size: 195, 186
+  orig: 195, 186
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 488, 88
+  size: 351, 326
+  orig: 351, 326
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 1199, 94
+  size: 56, 101
+  orig: 56, 101
+  offset: 0, 0
+  index: -1
+left_eye
+  rotate: true
+  xy: 1038, 9
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+left_sac
+  rotate: true
+  xy: 361, 2
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+right_eye
+  rotate: false
+  xy: 441, 26
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+shield
+  rotate: true
+  xy: 841, 197
+  size: 217, 386
+  orig: 217, 386
+  offset: 0, 0
+  index: -1
+tentacle02_back
+  rotate: true
+  xy: 717, 21
+  size: 65, 95
+  orig: 65, 95
+  offset: 0, 0
+  index: -1
+tentacle02_front
+  rotate: false
+  xy: 615, 19
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+tentacle03
+  rotate: false
+  xy: 1038, 25
+  size: 159, 170
+  orig: 159, 170
+  offset: 0, 0
+  index: -1
+tentacle04
+  rotate: true
+  xy: 488, 5
+  size: 81, 125
+  orig: 81, 125
+  offset: 0, 0
+  index: -1

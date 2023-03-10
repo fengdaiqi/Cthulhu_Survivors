@@ -1,0 +1,20 @@
+
+crone.sprite.attack_spell.png
+size: 637,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_spell
+  rotate: true
+  xy: 2, 2
+  size: 517, 568
+  orig: 517, 568
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 572, 162
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

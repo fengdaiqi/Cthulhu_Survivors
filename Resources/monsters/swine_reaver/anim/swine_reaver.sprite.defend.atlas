@@ -1,0 +1,20 @@
+
+swine_reaver.sprite.defend.png
+size: 861,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 2
+  size: 507, 792
+  orig: 507, 792
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 796, 152
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

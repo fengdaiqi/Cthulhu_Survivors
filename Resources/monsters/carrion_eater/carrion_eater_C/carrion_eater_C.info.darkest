@@ -1,0 +1,11 @@
+display: .size 1
+enemy_type: .id "beast"
+stats: .hp 21 .def 21.25% .prot 0 .spd 6 .stun_resist 90% .poison_resist 140% .bleed_resist 100% .debuff_resist 80% .move_resist 90%
+skill: .id "munch" .type "melee" .atk 107.5% .dmg 4 7 .crit 19%  .effect "Weak Blight 5" "Damage Marked Target" "Carrion Munch Disease 5" .launch 1234 .target 123
+personality: .prefskill -1
+loot: .code "A" .count 1
+initiative: .number_of_turns_per_round 1
+monster_brain: .id carrion_eater_C
+death_class: .monster_class_id corpse_C .is_valid_on_crit False .type "corpse" 
+battle_modifier: .accelerate_stall_penalty True .disable_stall_penalty False .can_surprise True .can_be_surprised True .always_surprise False .always_be_surprised False
+wave_spawning: .prefers_front True

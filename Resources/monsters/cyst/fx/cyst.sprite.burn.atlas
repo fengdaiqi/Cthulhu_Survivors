@@ -1,0 +1,83 @@
+
+cyst.sprite.burn.png
+size: 939,740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rim_light
+  rotate: true
+  xy: 2, 2
+  size: 736, 761
+  orig: 736, 761
+  offset: 0, 0
+  index: -1
+slime01
+  rotate: false
+  xy: 765, 201
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+slime02
+  rotate: false
+  xy: 809, 323
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+slime03
+  rotate: false
+  xy: 845, 367
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+slime04
+  rotate: false
+  xy: 918, 524
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+slime05
+  rotate: true
+  xy: 765, 569
+  size: 169, 172
+  orig: 169, 172
+  offset: 0, 0
+  index: -1
+slime06
+  rotate: false
+  xy: 765, 394
+  size: 151, 173
+  orig: 151, 173
+  offset: 0, 0
+  index: -1
+slime07
+  rotate: false
+  xy: 809, 359
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+slime08
+  rotate: false
+  xy: 765, 300
+  size: 42, 92
+  orig: 42, 92
+  offset: 0, 0
+  index: -1
+slime09
+  rotate: false
+  xy: 765, 223
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+slime10
+  rotate: false
+  xy: 765, 258
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1

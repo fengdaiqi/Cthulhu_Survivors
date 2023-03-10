@@ -1,0 +1,4 @@
+commonfx: .deathfx death_large_boss
+skill: .id "shamble_fwd" .anim "attack_tentacle" .fx "tentacle" .targchestfx "blood_splatter" .area_pos_offset -100 0
+skill: .id "shamble_back" .anim "attack_spores" .fx "spores" .targchestfx "blood_splatter" .area_pos_offset -150 -75 .target_area_pos_offset 150 0
+skill: .id "shambler_howl" .anim "attack_howl" .fx "howl" .targchestfx "stress_cloud" .area_pos_offset -150 0 .target_area_pos_offset 150 0

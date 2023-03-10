@@ -1,0 +1,55 @@
+
+cyst.sprite.gaze.png
+size: 3287,1037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 855, 396
+  size: 683, 639
+  orig: 683, 639
+  offset: 0, 0
+  index: -1
+lightning01
+  rotate: false
+  xy: 1540, 790
+  size: 1462, 245
+  orig: 1462, 245
+  offset: 0, 0
+  index: -1
+lightning02
+  rotate: false
+  xy: 2, 73
+  size: 1409, 240
+  orig: 1409, 240
+  offset: 0, 0
+  index: -1
+lightning03
+  rotate: false
+  xy: 1413, 2
+  size: 1397, 206
+  orig: 1397, 206
+  offset: 0, 0
+  index: -1
+rays
+  rotate: true
+  xy: 2667, 270
+  size: 518, 618
+  orig: 518, 618
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 1540, 210
+  size: 578, 1125
+  orig: 578, 1125
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 315
+  size: 851, 720
+  orig: 851, 720
+  offset: 0, 0
+  index: -1

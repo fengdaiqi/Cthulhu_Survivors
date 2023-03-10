@@ -1,0 +1,174 @@
+
+skeleton_courtier.sprite.combat.png
+size: 1713,167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beret
+  rotate: false
+  xy: 749, 78
+  size: 166, 87
+  orig: 166, 87
+  offset: 0, 0
+  index: -1
+chalice
+  rotate: true
+  xy: 488, 61
+  size: 104, 145
+  orig: 104, 145
+  offset: 0, 0
+  index: -1
+dagger
+  rotate: false
+  xy: 1484, 22
+  size: 121, 78
+  orig: 121, 78
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 635, 8
+  size: 72, 56
+  orig: 72, 56
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 333, 2
+  size: 34, 119
+  orig: 34, 119
+  offset: 0, 0
+  index: -1
+left_boot
+  rotate: false
+  xy: 545, 16
+  size: 64, 43
+  orig: 64, 43
+  offset: 0, 0
+  index: -1
+left_coat
+  rotate: true
+  xy: 917, 79
+  size: 86, 316
+  orig: 86, 316
+  offset: 0, 0
+  index: -1
+left_collar
+  rotate: false
+  xy: 1147, 7
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+left_glove
+  rotate: true
+  xy: 1607, 32
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+left_index
+  rotate: false
+  xy: 1607, 6
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+left_pinky
+  rotate: true
+  xy: 1684, 32
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+left_pointer
+  rotate: true
+  xy: 1684, 65
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+left_sleeve
+  rotate: true
+  xy: 1235, 82
+  size: 83, 111
+  orig: 83, 111
+  offset: 0, 0
+  index: -1
+left_thumb
+  rotate: true
+  xy: 454, 2
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 709, 5
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+right_boot
+  rotate: false
+  xy: 488, 13
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+right_coat
+  rotate: true
+  xy: 2, 7
+  size: 158, 329
+  orig: 158, 329
+  offset: 0, 0
+  index: -1
+right_collar
+  rotate: true
+  xy: 333, 38
+  size: 127, 153
+  orig: 127, 153
+  offset: 0, 0
+  index: -1
+right_cuff
+  rotate: true
+  xy: 1235, 3
+  size: 77, 96
+  orig: 77, 96
+  offset: 0, 0
+  index: -1
+right_glove
+  rotate: true
+  xy: 1072, 5
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+right_sleeve
+  rotate: true
+  xy: 1348, 21
+  size: 79, 134
+  orig: 79, 134
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1348, 102
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+shirt
+  rotate: true
+  xy: 749, 11
+  size: 65, 321
+  orig: 65, 321
+  offset: 0, 0
+  index: -1
+skull
+  rotate: true
+  xy: 635, 66
+  size: 99, 112
+  orig: 99, 112
+  offset: 0, 0
+  index: -1

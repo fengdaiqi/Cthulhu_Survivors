@@ -1,0 +1,13 @@
+
+fungal_artillery.sprite.escape_cloud.png
+size: 522,781
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud01
+  rotate: false
+  xy: 2, 2
+  size: 518, 777
+  orig: 518, 777
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+templar_melee_mb.sprite.attack_eye.png
+size: 1089,823
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_eye
+  rotate: true
+  xy: 2, 2
+  size: 819, 1020
+  orig: 819, 1020
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1024, 464
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

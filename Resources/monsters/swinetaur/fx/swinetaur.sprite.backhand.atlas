@@ -1,0 +1,13 @@
+
+swinetaur.sprite.backhand.png
+size: 826,405
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hand_trail
+  rotate: false
+  xy: 2, 2
+  size: 822, 401
+  orig: 822, 401
+  offset: 0, 0
+  index: -1

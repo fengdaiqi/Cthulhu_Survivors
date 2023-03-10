@@ -1,0 +1,2 @@
+commonfx: .deathfx death_medium
+skill: .id "battlecell_bam" .anim "attack_melee" .fx "bam" .targfx "bam_target"

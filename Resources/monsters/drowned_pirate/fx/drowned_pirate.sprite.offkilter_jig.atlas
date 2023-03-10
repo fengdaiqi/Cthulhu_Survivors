@@ -1,0 +1,27 @@
+
+drowned_pirate.sprite.offkilter_jig.png
+size: 1834,299
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rim_light
+  rotate: true
+  xy: 1344, 2
+  size: 295, 488
+  orig: 295, 488
+  offset: 0, 0
+  index: -1
+tentacles
+  rotate: false
+  xy: 2, 116
+  size: 827, 181
+  orig: 827, 181
+  offset: 0, 0
+  index: -1
+white_glow
+  rotate: false
+  xy: 831, 14
+  size: 511, 283
+  orig: 511, 283
+  offset: 0, 0
+  index: -1

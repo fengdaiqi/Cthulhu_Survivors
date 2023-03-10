@@ -1,0 +1,125 @@
+
+formless_ranged.sprite.combat.png
+size: 1164,405
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 547, 224
+  size: 456, 179
+  orig: 456, 179
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 36
+  size: 367, 543
+  orig: 367, 543
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: true
+  xy: 1045, 10
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: true
+  xy: 1088, 12
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 936, 2
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+eye04
+  rotate: false
+  xy: 1132, 258
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+eye05
+  rotate: true
+  xy: 1088, 44
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+eye06
+  rotate: true
+  xy: 974, 8
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+eye07
+  rotate: false
+  xy: 1132, 232
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 547, 3
+  size: 307, 219
+  orig: 307, 219
+  offset: 0, 0
+  index: -1
+mouth_bottom
+  rotate: true
+  xy: 1128, 5
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+mouth_top
+  rotate: false
+  xy: 1002, 3
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1005, 46
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+sphincter
+  rotate: true
+  xy: 1070, 289
+  size: 114, 92
+  orig: 114, 92
+  offset: 0, 0
+  index: -1
+tentacle01
+  rotate: false
+  xy: 856, 5
+  size: 78, 217
+  orig: 78, 217
+  offset: 0, 0
+  index: -1
+tentacle02
+  rotate: false
+  xy: 936, 39
+  size: 64, 183
+  orig: 64, 183
+  offset: 0, 0
+  index: -1
+tentacle06
+  rotate: false
+  xy: 1070, 78
+  size: 60, 209
+  orig: 60, 209
+  offset: 0, 0
+  index: -1

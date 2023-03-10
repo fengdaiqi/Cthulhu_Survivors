@@ -1,0 +1,4 @@
+commonfx: .deathfx death_large
+skill: .id "rend" .anim "attack_claw" .fx "rend" .targchestfx "blood_splatter"
+skill: .id "howl" .anim "attack_howl" .fx "howl" .targchestfx "stress_cloud" .area_pos_offset -150 -35 .target_area_pos_offset 225 0
+skill: .id "skull_toss" .anim "attack_claw" .fx "skull_toss" .targchestfx "skull_toss_target"

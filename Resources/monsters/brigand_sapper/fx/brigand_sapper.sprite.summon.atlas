@@ -1,0 +1,76 @@
+
+brigand_sapper.sprite.summon.png
+size: 1125,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura
+  rotate: true
+  xy: 2, 5
+  size: 460, 469
+  orig: 460, 469
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 473, 101
+  size: 533, 364
+  orig: 533, 364
+  offset: 0, 0
+  index: -1
+shard01
+  rotate: false
+  xy: 906, 46
+  size: 89, 53
+  orig: 89, 53
+  offset: 0, 0
+  index: -1
+shard02
+  rotate: false
+  xy: 997, 29
+  size: 126, 60
+  orig: 126, 60
+  offset: 0, 0
+  index: -1
+shard03
+  rotate: false
+  xy: 473, 36
+  size: 235, 63
+  orig: 235, 63
+  offset: 0, 0
+  index: -1
+shard04
+  rotate: false
+  xy: 710, 60
+  size: 194, 39
+  orig: 194, 39
+  offset: 0, 0
+  index: -1
+shard05
+  rotate: false
+  xy: 710, 16
+  size: 135, 42
+  orig: 135, 42
+  offset: 0, 0
+  index: -1
+shard06
+  rotate: true
+  xy: 1008, 266
+  size: 199, 109
+  orig: 199, 109
+  offset: 0, 0
+  index: -1
+shard07
+  rotate: true
+  xy: 1008, 91
+  size: 173, 105
+  orig: 173, 105
+  offset: 0, 0
+  index: -1
+shard08
+  rotate: false
+  xy: 847, 2
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1

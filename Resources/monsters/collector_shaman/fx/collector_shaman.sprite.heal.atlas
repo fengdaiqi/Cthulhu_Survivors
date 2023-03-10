@@ -1,0 +1,27 @@
+
+collector_shaman.sprite.heal.png
+size: 737,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cross
+  rotate: false
+  xy: 314, 89
+  size: 223, 223
+  orig: 223, 223
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 539, 116
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+spikes
+  rotate: false
+  xy: 2, 2
+  size: 310, 310
+  orig: 310, 310
+  offset: 0, 0
+  index: -1

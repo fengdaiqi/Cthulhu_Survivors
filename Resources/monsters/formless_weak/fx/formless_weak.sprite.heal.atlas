@@ -1,0 +1,13 @@
+
+formless_weak.sprite.heal.png
+size: 344,385
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 2
+  size: 340, 381
+  orig: 340, 381
+  offset: 0, 0
+  index: -1

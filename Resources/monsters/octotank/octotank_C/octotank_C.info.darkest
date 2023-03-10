@@ -1,0 +1,13 @@
+display: .size 1
+enemy_type: .id "eldritch"
+stats: .hp 49 .def 21.25% .prot 0.5 .spd 2 .stun_resist 65% .poison_resist 50% .bleed_resist 100% .debuff_resist 50% .move_resist 90%
+skill: .id "octo_cestus" .type "melee" .atk 97.5% .dmg 5 10 .crit 14%  .effect "Bleed 3" .launch 4321 .target 12
+skill: .id "octo_guard" .type "" .atk 0% .dmg 0 0 .crit 0%  .effect "Clear Guard Performer" "Clear Guard Target" "Octo Guard 1" "OctoDefend 1" .launch 4321 .target @4321 .self_target_valid False .is_crit_valid False
+personality: .prefskill -1
+loot: .code "A" .count 1
+initiative: .number_of_turns_per_round 1
+monster_brain: .id octotank_C
+death_class: .monster_class_id corpse_C .is_valid_on_crit False .type "corpse" 
+life_link: .base_class "siren"
+battle_modifier: .accelerate_stall_penalty True .disable_stall_penalty False .can_surprise True .can_be_surprised True .always_surprise False .always_be_surprised False
+wave_spawning: .prefers_front True

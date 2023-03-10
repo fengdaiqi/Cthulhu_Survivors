@@ -1,0 +1,62 @@
+
+unclean_giant.sprite.poison_spores_target.png
+size: 803,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud01
+  rotate: false
+  xy: 2, 13
+  size: 438, 393
+  orig: 438, 393
+  offset: 0, 0
+  index: -1
+mushrooms01
+  rotate: false
+  xy: 442, 142
+  size: 162, 125
+  orig: 162, 125
+  offset: 0, 0
+  index: -1
+mushrooms02
+  rotate: true
+  xy: 442, 269
+  size: 137, 188
+  orig: 137, 188
+  offset: 0, 0
+  index: -1
+mushrooms03
+  rotate: true
+  xy: 632, 230
+  size: 176, 129
+  orig: 176, 129
+  offset: 0, 0
+  index: -1
+spore01
+  rotate: true
+  xy: 556, 2
+  size: 111, 127
+  orig: 111, 127
+  offset: 0, 0
+  index: -1
+spore02
+  rotate: true
+  xy: 606, 115
+  size: 113, 154
+  orig: 113, 154
+  offset: 0, 0
+  index: -1
+spore03
+  rotate: true
+  xy: 685, 4
+  size: 109, 116
+  orig: 109, 116
+  offset: 0, 0
+  index: -1
+spore04
+  rotate: false
+  xy: 442, 6
+  size: 112, 134
+  orig: 112, 134
+  offset: 0, 0
+  index: -1

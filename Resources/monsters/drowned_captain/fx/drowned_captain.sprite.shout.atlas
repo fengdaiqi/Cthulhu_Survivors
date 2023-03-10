@@ -1,0 +1,90 @@
+
+drowned_captain.sprite.shout.png
+size: 1545,1194
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 1269, 636
+  size: 219, 261
+  orig: 219, 261
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 1269, 899
+  size: 293, 274
+  orig: 293, 274
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 2
+  size: 1190, 1265
+  orig: 1190, 1265
+  offset: 0, 0
+  index: -1
+spit
+  rotate: false
+  xy: 1269, 467
+  size: 183, 167
+  orig: 183, 167
+  offset: 0, 0
+  index: -1
+spit01
+  rotate: false
+  xy: 1269, 317
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+spit02
+  rotate: false
+  xy: 1377, 437
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+spit03
+  rotate: false
+  xy: 1326, 426
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+spit04
+  rotate: false
+  xy: 1490, 800
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+spit05
+  rotate: false
+  xy: 1269, 350
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+spit06
+  rotate: false
+  xy: 1490, 840
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+spit07
+  rotate: false
+  xy: 1269, 404
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+spit08
+  rotate: true
+  xy: 1454, 596
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1

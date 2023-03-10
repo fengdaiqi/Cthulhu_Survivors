@@ -1,0 +1,55 @@
+
+collector_protect.sprite.attack_guard.png
+size: 3031,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: true
+  xy: 889, 2
+  size: 527, 862
+  orig: 527, 862
+  offset: 0, 0
+  index: -1
+blur
+  rotate: true
+  xy: 2, 2
+  size: 527, 885
+  orig: 527, 885
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2644, 52
+  size: 154, 477
+  orig: 154, 477
+  offset: 0, 0
+  index: -1
+eye_glow
+  rotate: false
+  xy: 2800, 24
+  size: 229, 78
+  orig: 229, 78
+  offset: 0, 0
+  index: -1
+ghost
+  rotate: true
+  xy: 1753, 29
+  size: 500, 889
+  orig: 500, 889
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2952, 172
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+torso_glow
+  rotate: false
+  xy: 2800, 104
+  size: 150, 425
+  orig: 150, 425
+  offset: 0, 0
+  index: -1

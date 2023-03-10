@@ -1,0 +1,20 @@
+
+fishman_crabby.sprite.dead.png
+size: 997,285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead
+  rotate: false
+  xy: 2, 2
+  size: 634, 281
+  orig: 634, 281
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 638, 220
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

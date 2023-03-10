@@ -1,0 +1,83 @@
+
+cauldron_empty.sprite.combat.png
+size: 1382,550
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cauldron
+  rotate: false
+  xy: 2, 57
+  size: 661, 491
+  orig: 661, 491
+  offset: 0, 0
+  index: -1
+embers
+  rotate: false
+  xy: 2, 2
+  size: 329, 53
+  orig: 329, 53
+  offset: 0, 0
+  index: -1
+floating_bubble01
+  rotate: false
+  xy: 1305, 133
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+floating_bubble02
+  rotate: false
+  xy: 1305, 133
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+floating_bubble04
+  rotate: false
+  xy: 1305, 133
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+floating_bubble03
+  rotate: false
+  xy: 1305, 133
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+floating_bubble05
+  rotate: false
+  xy: 1024, 27
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 1100, 20
+  size: 528, 203
+  orig: 528, 203
+  offset: 0, 0
+  index: -1
+glowing_embers
+  rotate: true
+  xy: 1305, 192
+  size: 356, 75
+  orig: 356, 75
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 665, 9
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 665, 74
+  size: 433, 474
+  orig: 433, 474
+  offset: 0, 0
+  index: -1

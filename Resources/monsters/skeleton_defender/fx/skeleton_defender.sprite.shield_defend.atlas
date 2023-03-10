@@ -1,0 +1,20 @@
+
+skeleton_defender.sprite.shield_defend.png
+size: 853,453
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rim_light
+  rotate: false
+  xy: 540, 6
+  size: 311, 445
+  orig: 311, 445
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 2
+  size: 449, 536
+  orig: 449, 536
+  offset: 0, 0
+  index: -1

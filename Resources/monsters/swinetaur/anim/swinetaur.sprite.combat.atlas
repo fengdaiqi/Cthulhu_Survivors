@@ -1,0 +1,202 @@
+
+swinetaur.sprite.combat.png
+size: 2401,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armor_shard01
+  rotate: true
+  xy: 1049, 3
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+armor_shard02
+  rotate: true
+  xy: 796, 3
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+armor_shard03
+  rotate: false
+  xy: 857, 5
+  size: 68, 78
+  orig: 68, 78
+  offset: 0, 0
+  index: -1
+armor_shard04
+  rotate: true
+  xy: 1101, 4
+  size: 95, 52
+  orig: 95, 52
+  offset: 0, 0
+  index: -1
+armor_shard05
+  rotate: false
+  xy: 1966, 8
+  size: 106, 60
+  orig: 106, 60
+  offset: 0, 0
+  index: -1
+armor_shard06
+  rotate: true
+  xy: 1155, 8
+  size: 91, 48
+  orig: 91, 48
+  offset: 0, 0
+  index: -1
+arrow01
+  rotate: true
+  xy: 2350, 105
+  size: 123, 49
+  orig: 123, 49
+  offset: 0, 0
+  index: -1
+arrow02
+  rotate: false
+  xy: 530, 3
+  size: 108, 31
+  orig: 108, 31
+  offset: 0, 0
+  index: -1
+arrow03
+  rotate: false
+  xy: 1850, 7
+  size: 114, 61
+  orig: 114, 61
+  offset: 0, 0
+  index: -1
+belly
+  rotate: false
+  xy: 2, 5
+  size: 526, 437
+  orig: 526, 437
+  offset: 0, 0
+  index: -1
+bottom_chain
+  rotate: false
+  xy: 1707, 4
+  size: 91, 45
+  orig: 91, 45
+  offset: 0, 0
+  index: -1
+center_shield
+  rotate: false
+  xy: 1543, 27
+  size: 162, 201
+  orig: 162, 201
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: false
+  xy: 1205, 4
+  size: 202, 187
+  orig: 202, 187
+  offset: 0, 0
+  index: -1
+lance
+  rotate: false
+  xy: 1409, 230
+  size: 982, 212
+  orig: 982, 212
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 1169, 193
+  size: 220, 249
+  orig: 220, 249
+  offset: 0, 0
+  index: -1
+left_back_leg
+  rotate: false
+  xy: 1850, 70
+  size: 120, 158
+  orig: 120, 158
+  offset: 0, 0
+  index: -1
+left_front_leg
+  rotate: false
+  xy: 2244, 92
+  size: 104, 136
+  orig: 104, 136
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: false
+  xy: 2074, 2
+  size: 84, 73
+  orig: 84, 73
+  offset: 0, 0
+  index: -1
+left_shield
+  rotate: false
+  xy: 1972, 77
+  size: 128, 151
+  orig: 128, 151
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 530, 36
+  size: 264, 406
+  orig: 264, 406
+  offset: 0, 0
+  index: -1
+right_front_leg
+  rotate: false
+  xy: 2102, 85
+  size: 140, 143
+  orig: 140, 143
+  offset: 0, 0
+  index: -1
+right_pauldron
+  rotate: true
+  xy: 1707, 51
+  size: 177, 141
+  orig: 177, 141
+  offset: 0, 0
+  index: -1
+right_shield
+  rotate: false
+  xy: 1409, 14
+  size: 132, 214
+  orig: 132, 214
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 796, 85
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 2286, 6
+  size: 55, 84
+  orig: 55, 84
+  offset: 0, 0
+  index: -1
+top_chain
+  rotate: false
+  xy: 2160, 14
+  size: 124, 69
+  orig: 124, 69
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 861, 101
+  size: 306, 341
+  orig: 306, 341
+  offset: 0, 0
+  index: -1
+visor
+  rotate: false
+  xy: 927, 2
+  size: 120, 97
+  orig: 120, 97
+  offset: 0, 0
+  index: -1

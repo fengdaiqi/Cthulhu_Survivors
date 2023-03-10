@@ -1,0 +1,20 @@
+
+swinetaur.sprite.attack_backhand.png
+size: 950,812
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_backhand
+  rotate: false
+  xy: 2, 2
+  size: 881, 808
+  orig: 881, 808
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 885, 453
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

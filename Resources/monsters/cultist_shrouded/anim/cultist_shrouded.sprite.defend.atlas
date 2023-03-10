@@ -1,0 +1,20 @@
+
+cultist_shrouded.sprite.defend.png
+size: 685,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 2
+  size: 506, 616
+  orig: 506, 616
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 620, 151
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

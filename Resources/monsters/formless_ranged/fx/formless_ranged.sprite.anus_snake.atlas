@@ -1,0 +1,48 @@
+
+formless_ranged.sprite.anus_snake.png
+size: 608,296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slime01
+  rotate: true
+  xy: 483, 2
+  size: 292, 123
+  orig: 292, 123
+  offset: 0, 0
+  index: -1
+slime02
+  rotate: false
+  xy: 2, 134
+  size: 479, 160
+  orig: 479, 160
+  offset: 0, 0
+  index: -1
+spray01
+  rotate: false
+  xy: 2, 54
+  size: 187, 78
+  orig: 187, 78
+  offset: 0, 0
+  index: -1
+spray02
+  rotate: true
+  xy: 366, 5
+  size: 127, 112
+  orig: 127, 112
+  offset: 0, 0
+  index: -1
+spray03
+  rotate: false
+  xy: 2, 2
+  size: 147, 50
+  orig: 147, 50
+  offset: 0, 0
+  index: -1
+spray04
+  rotate: false
+  xy: 191, 70
+  size: 173, 62
+  orig: 173, 62
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+drowned_captain.sprite.defend.png
+size: 1334,1188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 2
+  size: 1184, 1265
+  orig: 1184, 1265
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1269, 829
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

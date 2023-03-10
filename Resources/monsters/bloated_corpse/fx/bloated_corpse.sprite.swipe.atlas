@@ -1,0 +1,27 @@
+
+bloated_corpse.sprite.swipe.png
+size: 737,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rim_light
+  rotate: false
+  xy: 560, 36
+  size: 175, 190
+  orig: 175, 190
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 299, 23
+  size: 259, 203
+  orig: 259, 203
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 2, 2
+  size: 224, 295
+  orig: 224, 295
+  offset: 0, 0
+  index: -1

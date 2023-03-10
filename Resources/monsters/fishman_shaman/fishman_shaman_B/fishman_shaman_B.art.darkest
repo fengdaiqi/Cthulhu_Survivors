@@ -1,0 +1,5 @@
+commonfx: .deathfx death_medium
+skill: .id "fish_stresscast" .anim "attack_ranged" .fx "stress" .targchestfx "stress_cloud"
+skill: .id "call_of_the_deep" .anim "attack_ranged" .fx "call_of_the_deep" .targfx "call_of_the_deep_target" .can_display_performer_selection_after_turn false
+skill: .id "shaman_heal" .anim "attack_ranged" .fx "heal" .targfx "heal_target" .can_display_performer_selection_after_turn false
+skill: .id "shaman_stab" .anim "attack_knife" .fx "stab" .targchestfx "blood_splatter"

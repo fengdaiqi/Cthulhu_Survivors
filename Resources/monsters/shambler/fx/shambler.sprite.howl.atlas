@@ -1,0 +1,34 @@
+
+shambler.sprite.howl.png
+size: 1448,1282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black_howl
+  rotate: false
+  xy: 999, 199
+  size: 389, 578
+  orig: 389, 578
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 2, 2
+  size: 539, 994
+  orig: 539, 994
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 543
+  size: 737, 995
+  orig: 737, 995
+  offset: 0, 0
+  index: -1
+white_howl
+  rotate: false
+  xy: 999, 779
+  size: 447, 501
+  orig: 447, 501
+  offset: 0, 0
+  index: -1

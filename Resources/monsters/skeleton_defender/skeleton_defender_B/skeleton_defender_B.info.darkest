@@ -1,0 +1,15 @@
+display: .size 1
+enemy_type: .id "unholy"
+stats: .hp 21 .def 8.75% .prot 0.45 .spd 1 .stun_resist 45% .poison_resist 30% .bleed_resist 220% .debuff_resist 35% .move_resist 70%
+skill: .id "axe_strike" .type "melee" .atk 78.75% .dmg 4 7 .crit 12%  .effect "Defender Axeblade Debuff 3" .launch 21 .target 12
+skill: .id "shield_bash" .type "melee" .atk 88.75% .dmg 3 5 .crit 12%  .effect "Stun 3" "Push 1C" .launch 21 .target 12
+skill: .id "axe_strike_weak" .type "melee" .atk 48.75% .dmg 3 5 .crit 0%  .launch 34 .target 12 .move 0 1 .is_crit_valid False
+skill: .id "shield_defend" .type "" .atk 0% .dmg 0 0 .crit 0%  .effect "Clear Guard Performer" "Clear Guard Target" "Skeleton Guard 1" "Skeleton Defend 1" .launch 4321 .target @4321 .self_target_valid False .is_crit_valid False
+personality: .prefskill -1
+loot: .code "A" .count 1
+initiative: .number_of_turns_per_round 1
+monster_brain: .id skeleton_defender_B
+death_class: .monster_class_id corpse_B .is_valid_on_crit False .type "corpse" 
+life_link: .base_class "necromancer"
+battle_modifier: .accelerate_stall_penalty False .disable_stall_penalty False .can_surprise True .can_be_surprised True .always_surprise False .always_be_surprised False
+wave_spawning: .prefers_front True

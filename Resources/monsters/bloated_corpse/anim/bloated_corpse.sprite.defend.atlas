@@ -1,0 +1,20 @@
+
+bloated_corpse.sprite.defend.png
+size: 668,450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 2
+  size: 446, 599
+  orig: 446, 599
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 603, 91
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

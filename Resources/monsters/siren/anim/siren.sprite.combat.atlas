@@ -1,0 +1,111 @@
+
+siren.sprite.combat.png
+size: 2144,502
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 498, 692
+  orig: 498, 692
+  offset: 0, 0
+  index: -1
+conch
+  rotate: true
+  xy: 1490, 10
+  size: 197, 226
+  orig: 197, 226
+  offset: 0, 0
+  index: -1
+dorsal_fins
+  rotate: true
+  xy: 696, 158
+  size: 342, 389
+  orig: 342, 389
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 696, 11
+  size: 146, 145
+  orig: 146, 145
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1877, 12
+  size: 226, 265
+  orig: 226, 265
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 1877, 240
+  size: 236, 260
+  orig: 236, 260
+  offset: 0, 0
+  index: -1
+left_fins
+  rotate: true
+  xy: 844, 9
+  size: 69, 199
+  orig: 69, 199
+  offset: 0, 0
+  index: -1
+left_hair
+  rotate: false
+  xy: 1446, 67
+  size: 37, 126
+  orig: 37, 126
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 1087, 195
+  size: 305, 401
+  orig: 305, 401
+  offset: 0, 0
+  index: -1
+right_fins
+  rotate: false
+  xy: 1718, 6
+  size: 149, 201
+  orig: 149, 201
+  offset: 0, 0
+  index: -1
+right_hair
+  rotate: true
+  xy: 1490, 209
+  size: 291, 385
+  orig: 291, 385
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1087, 130
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+starfish
+  rotate: true
+  xy: 1287, 49
+  size: 79, 96
+  orig: 79, 96
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 844, 80
+  size: 228, 76
+  orig: 228, 76
+  offset: 0, 0
+  index: -1
+tail_fins
+  rotate: true
+  xy: 1074, 23
+  size: 105, 211
+  orig: 105, 211
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+formless_melee.sprite.attack_melee.png
+size: 764,753
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_melee
+  rotate: true
+  xy: 2, 2
+  size: 749, 695
+  orig: 749, 695
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 699, 394
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

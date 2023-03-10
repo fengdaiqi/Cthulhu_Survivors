@@ -1,0 +1,468 @@
+
+drowned_captain.sprite.combat.png
+size: 3493,1043
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boat
+  rotate: true
+  xy: 2, 169
+  size: 872, 1242
+  orig: 872, 1242
+  offset: 0, 0
+  index: -1
+captain_bandana
+  rotate: true
+  xy: 1925, 120
+  size: 184, 188
+  orig: 184, 188
+  offset: 0, 0
+  index: -1
+captain_beard
+  rotate: true
+  xy: 1462, 72
+  size: 135, 206
+  orig: 135, 206
+  offset: 0, 0
+  index: -1
+captain_bell
+  rotate: false
+  xy: 1462, 209
+  size: 206, 341
+  orig: 206, 341
+  offset: 0, 0
+  index: -1
+captain_breath
+  rotate: false
+  xy: 3206, 422
+  size: 146, 148
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+captain_chains_right_arm01
+  rotate: false
+  xy: 2895, 250
+  size: 209, 66
+  orig: 209, 66
+  offset: 0, 0
+  index: -1
+captain_chains_right_arm02
+  rotate: false
+  xy: 556, 12
+  size: 322, 90
+  orig: 322, 90
+  offset: 0, 0
+  index: -1
+captain_chains_right_arm03
+  rotate: false
+  xy: 1192, 13
+  size: 166, 138
+  orig: 166, 138
+  offset: 0, 0
+  index: -1
+captain_chains_waist01
+  rotate: false
+  xy: 2659, 182
+  size: 153, 67
+  orig: 153, 67
+  offset: 0, 0
+  index: -1
+captain_chains_waist02
+  rotate: true
+  xy: 2258, 2
+  size: 133, 59
+  orig: 133, 59
+  offset: 0, 0
+  index: -1
+captain_clapper
+  rotate: false
+  xy: 3419, 115
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+captain_hat
+  rotate: false
+  xy: 1670, 134
+  size: 253, 134
+  orig: 253, 134
+  offset: 0, 0
+  index: -1
+captain_left_arm
+  rotate: true
+  xy: 2895, 318
+  size: 122, 232
+  orig: 122, 232
+  offset: 0, 0
+  index: -1
+captain_left_coat
+  rotate: true
+  xy: 2114, 420
+  size: 130, 309
+  orig: 130, 309
+  offset: 0, 0
+  index: -1
+captain_left_collar
+  rotate: true
+  xy: 2703, 463
+  size: 107, 262
+  orig: 107, 262
+  offset: 0, 0
+  index: -1
+captain_left_cuff
+  rotate: true
+  xy: 3297, 290
+  size: 123, 157
+  orig: 123, 157
+  offset: 0, 0
+  index: -1
+captain_left_epaulet
+  rotate: false
+  xy: 3128, 19
+  size: 95, 120
+  orig: 95, 120
+  offset: 0, 0
+  index: -1
+captain_left_hand
+  rotate: false
+  xy: 1360, 63
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+captain_left_shirt
+  rotate: true
+  xy: 1462, 25
+  size: 45, 120
+  orig: 45, 120
+  offset: 0, 0
+  index: -1
+captain_right_arm
+  rotate: false
+  xy: 1900, 306
+  size: 212, 244
+  orig: 212, 244
+  offset: 0, 0
+  index: -1
+captain_right_collar
+  rotate: true
+  xy: 2114, 311
+  size: 107, 312
+  orig: 107, 312
+  offset: 0, 0
+  index: -1
+captain_right_cuff
+  rotate: true
+  xy: 2894, 131
+  size: 117, 141
+  orig: 117, 141
+  offset: 0, 0
+  index: -1
+captain_right_epaulet
+  rotate: true
+  xy: 3130, 141
+  size: 120, 122
+  orig: 120, 122
+  offset: 0, 0
+  index: -1
+captain_right_hand
+  rotate: true
+  xy: 3294, 87
+  size: 81, 123
+  orig: 81, 123
+  offset: 0, 0
+  index: -1
+captain_right_shirt
+  rotate: false
+  xy: 3254, 130
+  size: 38, 131
+  orig: 38, 131
+  offset: 0, 0
+  index: -1
+captain_shirt_bottom
+  rotate: false
+  xy: 2115, 137
+  size: 262, 172
+  orig: 262, 172
+  offset: 0, 0
+  index: -1
+captain_shirt_top
+  rotate: false
+  xy: 1246, 203
+  size: 214, 347
+  orig: 214, 347
+  offset: 0, 0
+  index: -1
+captain_skull
+  rotate: false
+  xy: 2115, 2
+  size: 141, 133
+  orig: 141, 133
+  offset: 0, 0
+  index: -1
+debris
+  rotate: false
+  xy: 1246, 552
+  size: 1184, 489
+  orig: 1184, 489
+  offset: 0, 0
+  index: -1
+drunk_bandana
+  rotate: true
+  xy: 2659, 51
+  size: 129, 146
+  orig: 129, 146
+  offset: 0, 0
+  index: -1
+drunk_bottle_rum
+  rotate: true
+  xy: 2379, 22
+  size: 92, 160
+  orig: 92, 160
+  offset: 0, 0
+  index: -1
+drunk_bottle_whisky
+  rotate: true
+  xy: 3129, 263
+  size: 157, 166
+  orig: 157, 166
+  offset: 0, 0
+  index: -1
+drunk_breath
+  rotate: true
+  xy: 3354, 415
+  size: 162, 137
+  orig: 162, 137
+  offset: 0, 0
+  index: -1
+drunk_chains_bottom01
+  rotate: false
+  xy: 290, 5
+  size: 264, 162
+  orig: 264, 162
+  offset: 0, 0
+  index: -1
+drunk_chains_bottom02
+  rotate: false
+  xy: 2379, 164
+  size: 218, 138
+  orig: 218, 138
+  offset: 0, 0
+  index: -1
+drunk_chains_bottom03
+  rotate: false
+  xy: 2432, 477
+  size: 269, 93
+  orig: 269, 93
+  offset: 0, 0
+  index: -1
+drunk_chains_left01
+  rotate: true
+  xy: 2319, 4
+  size: 131, 58
+  orig: 131, 58
+  offset: 0, 0
+  index: -1
+drunk_chains_left02
+  rotate: true
+  xy: 3071, 18
+  size: 122, 55
+  orig: 122, 55
+  offset: 0, 0
+  index: -1
+drunk_chains_right01
+  rotate: true
+  xy: 2807, 2
+  size: 127, 134
+  orig: 127, 134
+  offset: 0, 0
+  index: -1
+drunk_chains_right02
+  rotate: false
+  xy: 2541, 16
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+drunk_chains_right03
+  rotate: false
+  xy: 3388, 12
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+drunk_chains_top01
+  rotate: false
+  xy: 2428, 304
+  size: 234, 171
+  orig: 234, 171
+  offset: 0, 0
+  index: -1
+drunk_chains_top02
+  rotate: false
+  xy: 1670, 58
+  size: 253, 74
+  orig: 253, 74
+  offset: 0, 0
+  index: -1
+drunk_chains_top03
+  rotate: false
+  xy: 3297, 170
+  size: 150, 118
+  orig: 150, 118
+  offset: 0, 0
+  index: -1
+drunk_jaw
+  rotate: true
+  xy: 880, 54
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+drunk_left_hand
+  rotate: true
+  xy: 3225, 34
+  size: 94, 62
+  orig: 94, 62
+  offset: 0, 0
+  index: -1
+drunk_left_shoulder
+  rotate: true
+  xy: 2814, 167
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+drunk_neck
+  rotate: false
+  xy: 1360, 2
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+drunk_ribs
+  rotate: true
+  xy: 1413, 10
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+drunk_right_arm
+  rotate: true
+  xy: 915, 32
+  size: 135, 275
+  orig: 135, 275
+  offset: 0, 0
+  index: -1
+drunk_shirt
+  rotate: false
+  xy: 1584, 13
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+drunk_skull
+  rotate: true
+  xy: 2943, 2
+  size: 127, 126
+  orig: 127, 126
+  offset: 0, 0
+  index: -1
+fatty _skull
+  rotate: true
+  xy: 2, 9
+  size: 158, 286
+  orig: 158, 286
+  offset: 0, 0
+  index: -1
+fatty_breath
+  rotate: false
+  xy: 2664, 251
+  size: 229, 210
+  orig: 229, 210
+  offset: 0, 0
+  index: -1
+fatty_chains_waist01
+  rotate: false
+  xy: 1246, 153
+  size: 211, 48
+  orig: 211, 48
+  offset: 0, 0
+  index: -1
+fatty_chains_waist02
+  rotate: false
+  xy: 2379, 116
+  size: 196, 46
+  orig: 196, 46
+  offset: 0, 0
+  index: -1
+fatty_hook
+  rotate: false
+  xy: 2432, 572
+  size: 855, 469
+  orig: 855, 469
+  offset: 0, 0
+  index: -1
+fatty_hook_tatters
+  rotate: false
+  xy: 2599, 180
+  size: 58, 122
+  orig: 58, 122
+  offset: 0, 0
+  index: -1
+fatty_left_arm
+  rotate: true
+  xy: 1925, 2
+  size: 116, 188
+  orig: 116, 188
+  offset: 0, 0
+  index: -1
+fatty_left_forearm
+  rotate: true
+  xy: 3289, 579
+  size: 106, 199
+  orig: 106, 199
+  offset: 0, 0
+  index: -1
+fatty_left_hand
+  rotate: false
+  xy: 3037, 142
+  size: 91, 106
+  orig: 91, 106
+  offset: 0, 0
+  index: -1
+fatty_right_arm
+  rotate: false
+  xy: 3289, 687
+  size: 196, 354
+  orig: 196, 354
+  offset: 0, 0
+  index: -1
+fatty_right_hand
+  rotate: false
+  xy: 3289, 4
+  size: 97, 81
+  orig: 97, 81
+  offset: 0, 0
+  index: -1
+fatty_shirt_bottom
+  rotate: false
+  xy: 2967, 442
+  size: 237, 128
+  orig: 237, 128
+  offset: 0, 0
+  index: -1
+fatty_shirt_top
+  rotate: false
+  xy: 1670, 270
+  size: 228, 280
+  orig: 228, 280
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 556, 104
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

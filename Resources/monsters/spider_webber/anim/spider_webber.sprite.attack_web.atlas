@@ -1,0 +1,20 @@
+
+spider_webber.sprite.attack_web.png
+size: 465,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_web
+  rotate: false
+  xy: 2, 2
+  size: 396, 396
+  orig: 396, 396
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 400, 41
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

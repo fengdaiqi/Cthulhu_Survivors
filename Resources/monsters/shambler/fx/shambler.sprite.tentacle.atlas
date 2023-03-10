@@ -1,0 +1,27 @@
+
+shambler.sprite.tentacle.png
+size: 2601,1096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rim_light
+  rotate: true
+  xy: 1168, 69
+  size: 1025, 997
+  orig: 1025, 997
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 89
+  size: 1164, 1005
+  orig: 1164, 1005
+  offset: 0, 0
+  index: -1
+tentacle_trail
+  rotate: true
+  xy: 2167, 2
+  size: 1092, 432
+  orig: 1092, 432
+  offset: 0, 0
+  index: -1

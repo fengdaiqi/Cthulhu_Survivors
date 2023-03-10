@@ -1,0 +1,20 @@
+
+skeleton_arbalist.sprite.attack_crossbow.png
+size: 515,562
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_crossbow
+  rotate: true
+  xy: 2, 2
+  size: 493, 511
+  orig: 493, 511
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 497
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+cultist_orgiastic.sprite.heal.png
+size: 629,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: true
+  xy: 344, 46
+  size: 205, 170
+  orig: 205, 170
+  offset: 0, 0
+  index: -1
+blood_trail01
+  rotate: false
+  xy: 344, 12
+  size: 72, 32
+  orig: 72, 32
+  offset: 0, 0
+  index: -1
+blood_trail02
+  rotate: true
+  xy: 516, 82
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+flesh_chunk01
+  rotate: true
+  xy: 418, 11
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+flesh_chunk02
+  rotate: false
+  xy: 465, 2
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+flesh_chunk03
+  rotate: false
+  xy: 492, 14
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 2, 15
+  size: 340, 236
+  orig: 340, 236
+  offset: 0, 0
+  index: -1
+splatter
+  rotate: true
+  xy: 516, 138
+  size: 113, 111
+  orig: 113, 111
+  offset: 0, 0
+  index: -1

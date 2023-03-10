@@ -1,0 +1,20 @@
+
+cell_battle.sprite.attack_melee.png
+size: 758,481
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_melee
+  rotate: true
+  xy: 2, 2
+  size: 477, 689
+  orig: 477, 689
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 693, 122
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

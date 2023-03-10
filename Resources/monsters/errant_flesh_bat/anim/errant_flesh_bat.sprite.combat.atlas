@@ -1,0 +1,76 @@
+
+errant_flesh_bat.sprite.combat.png
+size: 1198,509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 621, 207
+  size: 280, 300
+  orig: 280, 300
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 11
+  size: 617, 496
+  orig: 617, 496
+  offset: 0, 0
+  index: -1
+left_lower_wing
+  rotate: true
+  xy: 621, 2
+  size: 138, 158
+  orig: 138, 158
+  offset: 0, 0
+  index: -1
+left_tentacle
+  rotate: false
+  xy: 1090, 17
+  size: 97, 57
+  orig: 97, 57
+  offset: 0, 0
+  index: -1
+left_upper_wing
+  rotate: true
+  xy: 980, 76
+  size: 210, 216
+  orig: 210, 216
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 925, 29
+  size: 43, 111
+  orig: 43, 111
+  offset: 0, 0
+  index: -1
+right_lower_wing
+  rotate: true
+  xy: 781, 8
+  size: 132, 142
+  orig: 132, 142
+  offset: 0, 0
+  index: -1
+right_tentacle
+  rotate: false
+  xy: 970, 17
+  size: 118, 57
+  orig: 118, 57
+  offset: 0, 0
+  index: -1
+right_upper_wing
+  rotate: false
+  xy: 903, 288
+  size: 262, 219
+  orig: 262, 219
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 621, 142
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

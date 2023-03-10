@@ -1,0 +1,3 @@
+commonfx: .deathfx death_medium
+skill: .id "perfect_bloodsteal" .anim "attack_melee" .fx "bloodsteal" .targfx "bloodsteal_target" .area_pos_offset 0 -25
+skill: .id "perfect_reveal" .anim "attack_maw" .fx "reveal" .targchestfx "stress_cloud" .area_pos_offset 0 -10

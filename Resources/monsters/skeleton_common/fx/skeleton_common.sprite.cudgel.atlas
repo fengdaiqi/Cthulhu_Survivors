@@ -1,0 +1,13 @@
+
+skeleton_common.sprite.cudgel.png
+size: 619,285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cudgel_trail
+  rotate: false
+  xy: 2, 2
+  size: 615, 281
+  orig: 615, 281
+  offset: 0, 0
+  index: -1

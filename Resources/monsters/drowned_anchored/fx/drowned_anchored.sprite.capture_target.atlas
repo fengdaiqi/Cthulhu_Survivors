@@ -1,0 +1,146 @@
+
+drowned_anchored.sprite.capture_target.png
+size: 1621,555
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anchor
+  rotate: false
+  xy: 567, 169
+  size: 294, 384
+  orig: 294, 384
+  offset: 0, 0
+  index: -1
+bubble01
+  rotate: true
+  xy: 1564, 193
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+bubble02
+  rotate: false
+  xy: 1541, 303
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+bubble03
+  rotate: false
+  xy: 1541, 252
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+chain01
+  rotate: false
+  xy: 1174, 18
+  size: 297, 98
+  orig: 297, 98
+  offset: 0, 0
+  index: -1
+chain02
+  rotate: false
+  xy: 1216, 252
+  size: 323, 142
+  orig: 323, 142
+  offset: 0, 0
+  index: -1
+chain03
+  rotate: false
+  xy: 1191, 118
+  size: 322, 132
+  orig: 322, 132
+  offset: 0, 0
+  index: -1
+chain04
+  rotate: false
+  xy: 863, 140
+  size: 326, 112
+  orig: 326, 112
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 105
+  size: 563, 448
+  orig: 563, 448
+  offset: 0, 0
+  index: -1
+ground
+  rotate: false
+  xy: 2, 4
+  size: 507, 99
+  orig: 507, 99
+  offset: 0, 0
+  index: -1
+seaweed01
+  rotate: true
+  xy: 567, 56
+  size: 49, 246
+  orig: 49, 246
+  offset: 0, 0
+  index: -1
+seaweed02
+  rotate: false
+  xy: 1558, 367
+  size: 56, 186
+  orig: 56, 186
+  offset: 0, 0
+  index: -1
+seaweed03
+  rotate: false
+  xy: 1515, 40
+  size: 47, 210
+  orig: 47, 210
+  offset: 0, 0
+  index: -1
+seaweed04
+  rotate: true
+  xy: 567, 107
+  size: 60, 285
+  orig: 60, 285
+  offset: 0, 0
+  index: -1
+seaweed05
+  rotate: true
+  xy: 511, 2
+  size: 52, 192
+  orig: 52, 192
+  offset: 0, 0
+  index: -1
+seaweed06
+  rotate: true
+  xy: 705, 20
+  size: 34, 108
+  orig: 34, 108
+  offset: 0, 0
+  index: -1
+shadow01
+  rotate: false
+  xy: 854, 17
+  size: 318, 121
+  orig: 318, 121
+  offset: 0, 0
+  index: -1
+shadow02
+  rotate: false
+  xy: 863, 391
+  size: 343, 162
+  orig: 343, 162
+  offset: 0, 0
+  index: -1
+shadow03
+  rotate: false
+  xy: 1208, 396
+  size: 348, 157
+  orig: 348, 157
+  offset: 0, 0
+  index: -1
+shadow04
+  rotate: false
+  xy: 863, 254
+  size: 351, 135
+  orig: 351, 135
+  offset: 0, 0
+  index: -1

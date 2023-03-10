@@ -1,0 +1,83 @@
+
+brigand_cannon.sprite.combat.png
+size: 2263,725
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cannon
+  rotate: false
+  xy: 766, 311
+  size: 1012, 412
+  orig: 1012, 412
+  offset: 0, 0
+  index: -1
+flares
+  rotate: true
+  xy: 1462, 130
+  size: 179, 145
+  orig: 179, 145
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 12
+  size: 762, 711
+  orig: 762, 711
+  offset: 0, 0
+  index: -1
+fuse
+  rotate: true
+  xy: 2057, 2
+  size: 96, 109
+  orig: 96, 109
+  offset: 0, 0
+  index: -1
+left_heraldry
+  rotate: true
+  xy: 2057, 100
+  size: 134, 164
+  orig: 134, 164
+  offset: 0, 0
+  index: -1
+plow
+  rotate: false
+  xy: 1200, 4
+  size: 260, 305
+  orig: 260, 305
+  offset: 0, 0
+  index: -1
+right_heraldry
+  rotate: true
+  xy: 1609, 164
+  size: 145, 163
+  orig: 145, 163
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 766, 15
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+shield
+  rotate: true
+  xy: 766, 80
+  size: 229, 432
+  orig: 229, 432
+  offset: 0, 0
+  index: -1
+spike
+  rotate: true
+  xy: 1462, 24
+  size: 104, 593
+  orig: 104, 593
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 1780, 236
+  size: 481, 487
+  orig: 481, 487
+  offset: 0, 0
+  index: -1

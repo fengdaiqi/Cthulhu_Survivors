@@ -1,0 +1,55 @@
+
+madman.sprite.doomsay.png
+size: 1430,446
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 45
+  size: 585, 399
+  orig: 585, 399
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 1030, 229
+  size: 215, 244
+  orig: 215, 244
+  offset: 0, 0
+  index: -1
+tentacle01
+  rotate: true
+  xy: 1089, 36
+  size: 191, 185
+  orig: 191, 185
+  offset: 0, 0
+  index: -1
+tentacle02_03
+  rotate: false
+  xy: 589, 227
+  size: 439, 217
+  orig: 439, 217
+  offset: 0, 0
+  index: -1
+tentacle04_05
+  rotate: false
+  xy: 589, 21
+  size: 498, 204
+  orig: 498, 204
+  offset: 0, 0
+  index: -1
+tentacle05
+  rotate: false
+  xy: 1276, 2
+  size: 152, 69
+  orig: 152, 69
+  offset: 0, 0
+  index: -1
+tentacle06
+  rotate: true
+  xy: 1276, 73
+  size: 371, 152
+  orig: 371, 152
+  offset: 0, 0
+  index: -1

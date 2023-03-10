@@ -1,0 +1,34 @@
+
+errant_flesh_bat.sprite.spit.png
+size: 1458,673
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadows
+  rotate: false
+  xy: 2, 19
+  size: 855, 652
+  orig: 855, 652
+  offset: 0, 0
+  index: -1
+spit01
+  rotate: true
+  xy: 859, 2
+  size: 229, 355
+  orig: 229, 355
+  offset: 0, 0
+  index: -1
+spit02
+  rotate: false
+  xy: 859, 233
+  size: 317, 438
+  orig: 317, 438
+  offset: 0, 0
+  index: -1
+spit03
+  rotate: true
+  xy: 1178, 252
+  size: 419, 278
+  orig: 419, 278
+  offset: 0, 0
+  index: -1

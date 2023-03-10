@@ -1,0 +1,20 @@
+
+templar_ranged.sprite.pinch.png
+size: 845,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+claw_trail
+  rotate: false
+  xy: 446, 144
+  size: 397, 109
+  orig: 397, 109
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 2, 2
+  size: 442, 251
+  orig: 442, 251
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+carrion_eater.sprite.combat.png
+size: 832,394
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big_tooth01
+  rotate: false
+  xy: 739, 240
+  size: 77, 60
+  orig: 77, 60
+  offset: 0, 0
+  index: -1
+big_tooth02
+  rotate: false
+  xy: 739, 302
+  size: 61, 90
+  orig: 61, 90
+  offset: 0, 0
+  index: -1
+big_tooth03
+  rotate: true
+  xy: 678, 78
+  size: 80, 58
+  orig: 80, 58
+  offset: 0, 0
+  index: -1
+big_tooth04
+  rotate: true
+  xy: 738, 88
+  size: 82, 51
+  orig: 82, 51
+  offset: 0, 0
+  index: -1
+big_tooth05
+  rotate: true
+  xy: 737, 172
+  size: 66, 79
+  orig: 66, 79
+  offset: 0, 0
+  index: -1
+big_tooth06
+  rotate: false
+  xy: 678, 13
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+end
+  rotate: false
+  xy: 580, 249
+  size: 157, 143
+  orig: 157, 143
+  offset: 0, 0
+  index: -1
+middle
+  rotate: true
+  xy: 580, 66
+  size: 181, 96
+  orig: 181, 96
+  offset: 0, 0
+  index: -1
+right_leg01
+  rotate: true
+  xy: 744, 20
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+right_leg02
+  rotate: true
+  xy: 580, 2
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+right_leg03
+  rotate: false
+  xy: 678, 160
+  size: 57, 87
+  orig: 57, 87
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 515, 35
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+small_tooth01
+  rotate: false
+  xy: 642, 24
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+small_tooth02
+  rotate: false
+  xy: 802, 314
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+small_tooth03
+  rotate: true
+  xy: 791, 144
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+small_tooth04
+  rotate: false
+  xy: 515, 2
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+small_tooth05
+  rotate: true
+  xy: 802, 352
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+top
+  rotate: true
+  xy: 2, 8
+  size: 384, 511
+  orig: 384, 511
+  offset: 0, 0
+  index: -1

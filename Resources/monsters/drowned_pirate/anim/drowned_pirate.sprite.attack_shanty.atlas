@@ -1,0 +1,20 @@
+
+drowned_pirate.sprite.attack_shanty.png
+size: 858,495
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_shanty
+  rotate: true
+  xy: 2, 2
+  size: 491, 789
+  orig: 491, 789
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 793, 136
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

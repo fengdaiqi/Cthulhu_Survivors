@@ -1,0 +1,20 @@
+
+swine_skiver.sprite.goring_flight.png
+size: 770,376
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: false
+  xy: 480, 82
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 476, 372
+  orig: 476, 372
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+necromancer.sprite.curse_target.png
+size: 736,1282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black_aura
+  rotate: false
+  xy: 279, 2
+  size: 423, 419
+  orig: 423, 419
+  offset: 0, 0
+  index: -1
+black_tombstone
+  rotate: false
+  xy: 2, 112
+  size: 275, 840
+  orig: 275, 840
+  offset: 0, 0
+  index: -1
+white_aura
+  rotate: true
+  xy: 279, 423
+  size: 529, 455
+  orig: 529, 455
+  offset: 0, 0
+  index: -1
+white_tombstone
+  rotate: true
+  xy: 2, 954
+  size: 326, 695
+  orig: 326, 695
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+ancestor_heart.sprite.stress.png
+size: 3261,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: true
+  xy: 2672, 68
+  size: 494, 587
+  orig: 494, 587
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 1866, 150
+  size: 412, 804
+  orig: 412, 804
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 21
+  size: 541, 1071
+  orig: 541, 1071
+  offset: 0, 0
+  index: -1
+tentacle
+  rotate: false
+  xy: 1075, 2
+  size: 789, 560
+  orig: 789, 560
+  offset: 0, 0
+  index: -1

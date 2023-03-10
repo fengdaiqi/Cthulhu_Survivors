@@ -1,0 +1,20 @@
+
+carrion_eater.sprite.defend.png
+size: 696,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 2
+  size: 436, 627
+  orig: 436, 627
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 631, 81
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

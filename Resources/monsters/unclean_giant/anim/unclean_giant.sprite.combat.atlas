@@ -1,0 +1,139 @@
+
+unclean_giant.sprite.combat.png
+size: 1730,542
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: false
+  xy: 1502, 370
+  size: 226, 170
+  orig: 226, 170
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1502, 76
+  size: 216, 292
+  orig: 216, 292
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 2, 38
+  size: 130, 502
+  orig: 130, 502
+  offset: 0, 0
+  index: -1
+left_foot
+  rotate: true
+  xy: 428, 15
+  size: 139, 52
+  orig: 139, 52
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 134, 43
+  size: 111, 292
+  orig: 111, 292
+  offset: 0, 0
+  index: -1
+log
+  rotate: false
+  xy: 134, 156
+  size: 731, 384
+  orig: 731, 384
+  offset: 0, 0
+  index: -1
+loincloth
+  rotate: false
+  xy: 932, 189
+  size: 249, 351
+  orig: 249, 351
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: true
+  xy: 790, 36
+  size: 118, 224
+  orig: 118, 224
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 1016, 6
+  size: 309, 181
+  orig: 309, 181
+  offset: 0, 0
+  index: -1
+right_foot
+  rotate: false
+  xy: 1502, 25
+  size: 107, 49
+  orig: 107, 49
+  offset: 0, 0
+  index: -1
+right_forearm
+  rotate: false
+  xy: 1327, 4
+  size: 173, 196
+  orig: 173, 196
+  offset: 0, 0
+  index: -1
+right_index
+  rotate: true
+  xy: 207, 4
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: true
+  xy: 482, 30
+  size: 124, 306
+  orig: 124, 306
+  offset: 0, 0
+  index: -1
+right_middle
+  rotate: true
+  xy: 148, 2
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+right_pinky
+  rotate: true
+  xy: 1611, 26
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+right_thumb
+  rotate: false
+  xy: 125, 2
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+rope
+  rotate: true
+  xy: 2, 2
+  size: 34, 121
+  orig: 34, 121
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 867, 183
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 1183, 202
+  size: 315, 338
+  orig: 315, 338
+  offset: 0, 0
+  index: -1

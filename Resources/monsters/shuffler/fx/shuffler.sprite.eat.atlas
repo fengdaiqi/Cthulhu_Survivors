@@ -1,0 +1,20 @@
+
+shuffler.sprite.eat.png
+size: 1096,1328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rim_light
+  rotate: false
+  xy: 2, 436
+  size: 944, 890
+  orig: 944, 890
+  offset: 0, 0
+  index: -1
+tentacle_trail
+  rotate: false
+  xy: 2, 2
+  size: 1092, 432
+  orig: 1092, 432
+  offset: 0, 0
+  index: -1

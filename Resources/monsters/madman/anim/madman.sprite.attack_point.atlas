@@ -1,0 +1,20 @@
+
+madman.sprite.attack_point.png
+size: 659,539
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_point
+  rotate: false
+  xy: 2, 2
+  size: 590, 535
+  orig: 590, 535
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 594, 180
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

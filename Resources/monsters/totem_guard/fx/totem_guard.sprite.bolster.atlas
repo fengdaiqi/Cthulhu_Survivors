@@ -1,0 +1,41 @@
+
+totem_guard.sprite.bolster.png
+size: 692,1201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire
+  rotate: false
+  xy: 2, 392
+  size: 688, 353
+  orig: 688, 353
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 2, 2
+  size: 388, 268
+  orig: 388, 268
+  offset: 0, 0
+  index: -1
+left_tentacles
+  rotate: false
+  xy: 455, 109
+  size: 157, 281
+  orig: 157, 281
+  offset: 0, 0
+  index: -1
+right_tentacles
+  rotate: false
+  xy: 272, 16
+  size: 181, 374
+  orig: 181, 374
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 2, 747
+  size: 452, 654
+  orig: 452, 654
+  offset: 0, 0
+  index: -1

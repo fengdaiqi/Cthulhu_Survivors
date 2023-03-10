@@ -1,0 +1,55 @@
+
+ancestor_pod.sprite.combat.png
+size: 2829,973
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: true
+  xy: 2382, 145
+  size: 239, 445
+  orig: 239, 445
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 969, 2119
+  orig: 969, 2119
+  offset: 0, 0
+  index: -1
+fleshy_bit
+  rotate: true
+  xy: 2123, 664
+  size: 307, 479
+  orig: 307, 479
+  offset: 0, 0
+  index: -1
+suckers_bottom
+  rotate: true
+  xy: 2382, 386
+  size: 249, 440
+  orig: 249, 440
+  offset: 0, 0
+  index: -1
+suckers_top
+  rotate: false
+  xy: 2123, 117
+  size: 257, 545
+  orig: 257, 545
+  offset: 0, 0
+  index: -1
+tentacle_top01
+  rotate: false
+  xy: 2604, 637
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+tentacle_top02
+  rotate: true
+  xy: 2604, 784
+  size: 187, 188
+  orig: 187, 188
+  offset: 0, 0
+  index: -1

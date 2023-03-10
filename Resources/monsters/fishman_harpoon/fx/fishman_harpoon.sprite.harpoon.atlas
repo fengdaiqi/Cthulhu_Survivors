@@ -1,0 +1,13 @@
+
+fishman_harpoon.sprite.harpoon.png
+size: 730,195
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+harpoon_trail
+  rotate: false
+  xy: 2, 2
+  size: 726, 191
+  orig: 726, 191
+  offset: 0, 0
+  index: -1

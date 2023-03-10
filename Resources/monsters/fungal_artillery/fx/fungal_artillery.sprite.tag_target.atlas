@@ -1,0 +1,20 @@
+
+fungal_artillery.sprite.tag_target.png
+size: 811,539
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud
+  rotate: true
+  xy: 2, 2
+  size: 535, 619
+  orig: 535, 619
+  offset: 0, 0
+  index: -1
+spikes
+  rotate: false
+  xy: 623, 341
+  size: 186, 196
+  orig: 186, 196
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,5 @@
+commonfx: .deathfx death_medium
+skill: .id "artillery_tag" .anim "attack_melee" .fx "tag" .targchestfx "tag_target" .area_pos_offset 0 25 .target_area_pos_offset 0 25
+skill: .id "artillery_blight" .anim "attack_melee" .fx "blight" .targfx "blight_target" .area_pos_offset 0 25 .target_area_pos_offset 0 25
+skill: .id "escape_cloud" .anim "defend" .fx "escape_cloud" .area_pos_offset 0 25 .target_area_pos_offset 0 25
+defending_area_pos_offset: .offset 0 25

@@ -1,0 +1,20 @@
+
+virago_hateful.sprite.attack_doll.png
+size: 854,509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_doll
+  rotate: true
+  xy: 2, 2
+  size: 505, 785
+  orig: 505, 785
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 789, 150
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

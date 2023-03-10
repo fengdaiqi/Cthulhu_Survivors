@@ -1,0 +1,20 @@
+
+swine_piglet.sprite.mark_one.png
+size: 969,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rim_light
+  rotate: false
+  xy: 550, 2
+  size: 417, 503
+  orig: 417, 503
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 35
+  size: 470, 546
+  orig: 470, 546
+  offset: 0, 0
+  index: -1

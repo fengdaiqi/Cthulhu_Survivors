@@ -1,0 +1,13 @@
+
+errant_flesh_dog.sprite.bite.png
+size: 474,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bite
+  rotate: false
+  xy: 2, 2
+  size: 470, 261
+  orig: 470, 261
+  offset: 0, 0
+  index: -1

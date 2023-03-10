@@ -1,0 +1,20 @@
+
+skeleton_captain.sprite.dead.png
+size: 631,387
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead
+  rotate: false
+  xy: 2, 2
+  size: 562, 383
+  orig: 562, 383
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 566, 28
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

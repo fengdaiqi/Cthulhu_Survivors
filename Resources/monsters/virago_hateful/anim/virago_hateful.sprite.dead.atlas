@@ -1,0 +1,20 @@
+
+virago_hateful.sprite.dead.png
+size: 387,433
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead
+  rotate: true
+  xy: 2, 2
+  size: 364, 383
+  orig: 364, 383
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 368
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

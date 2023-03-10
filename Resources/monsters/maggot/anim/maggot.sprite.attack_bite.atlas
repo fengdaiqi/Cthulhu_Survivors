@@ -1,0 +1,20 @@
+
+maggot.sprite.attack_bite.png
+size: 515,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_bite
+  rotate: false
+  xy: 2, 14
+  size: 446, 345
+  orig: 446, 345
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 450, 2
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,4 @@
+commonfx: .deathfx death_medium
+skill: .id "curse_vulnerability" .anim "attack_spell" .fx "curse_vulnerability" .targchestfx "curse_vulnerability_target" .area_pos_offset 0 25 .target_area_pos_offset 0 25
+skill: .id "fetid_censer" .anim "attack_ranged" .fx "fetid_censer" .targfx "fetid_censer_target" .area_pos_offset -50 25 .target_area_pos_offset 50 25
+skill: .id "embrace_the_dark" .anim "attack_spell" .fx "embrace_the_dark" .targchestfx "stress_cloud" .area_pos_offset -50 25 .target_area_pos_offset 50 25

@@ -1,0 +1,20 @@
+
+jellyfish.sprite.attack_sting.png
+size: 836,704
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_sting
+  rotate: false
+  xy: 2, 2
+  size: 767, 700
+  orig: 767, 700
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 771, 345
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

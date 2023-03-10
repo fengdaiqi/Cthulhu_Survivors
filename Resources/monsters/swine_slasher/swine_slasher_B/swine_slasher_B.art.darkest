@@ -1,0 +1,2 @@
+commonfx: .deathfx death_medium
+skill: .id "hook_where_it_hurts" .anim "attack_hook" .fx "hook_where_it_hurts" .targchestfx "blood_splatter"

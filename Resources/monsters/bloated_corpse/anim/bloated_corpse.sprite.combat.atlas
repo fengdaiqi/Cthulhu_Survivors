@@ -1,0 +1,76 @@
+
+bloated_corpse.sprite.combat.png
+size: 305,1042
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: true
+  xy: 2, 380
+  size: 194, 207
+  orig: 194, 207
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 159, 326
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+left_ear
+  rotate: true
+  xy: 273, 1018
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 159, 94
+  size: 118, 120
+  orig: 118, 120
+  offset: 0, 0
+  index: -1
+pants
+  rotate: false
+  xy: 2, 576
+  size: 234, 205
+  orig: 234, 205
+  offset: 0, 0
+  index: -1
+ribs
+  rotate: false
+  xy: 211, 318
+  size: 81, 104
+  orig: 81, 104
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 2, 2
+  size: 155, 376
+  orig: 155, 376
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: true
+  xy: 159, 214
+  size: 102, 129
+  orig: 102, 129
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 238, 424
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 2, 783
+  size: 257, 269
+  orig: 257, 269
+  offset: 0, 0
+  index: -1

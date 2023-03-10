@@ -1,0 +1,97 @@
+
+swine_prince.sprite.combat.png
+size: 3939,830
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+brain
+  rotate: false
+  xy: 2, 8
+  size: 216, 147
+  orig: 216, 147
+  offset: 0, 0
+  index: -1
+cleaver
+  rotate: false
+  xy: 1926, 261
+  size: 895, 567
+  orig: 895, 567
+  offset: 0, 0
+  index: -1
+crown
+  rotate: true
+  xy: 3643, 193
+  size: 342, 294
+  orig: 342, 294
+  offset: 0, 0
+  index: -1
+guts
+  rotate: false
+  xy: 3264, 537
+  size: 610, 291
+  orig: 610, 291
+  offset: 0, 0
+  index: -1
+handle
+  rotate: true
+  xy: 220, 24
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 2823, 271
+  size: 439, 557
+  orig: 439, 557
+  offset: 0, 0
+  index: -1
+left_ribs
+  rotate: false
+  xy: 1926, 8
+  size: 803, 251
+  orig: 803, 251
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 2, 157
+  size: 671, 1170
+  orig: 671, 1170
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: true
+  xy: 2915, 2
+  size: 267, 301
+  orig: 267, 301
+  offset: 0, 0
+  index: -1
+right_ribs
+  rotate: false
+  xy: 3264, 141
+  size: 377, 394
+  orig: 377, 394
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 220, 92
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+spikes
+  rotate: true
+  xy: 2731, 40
+  size: 219, 182
+  orig: 219, 182
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 1174, 31
+  size: 750, 797
+  orig: 750, 797
+  offset: 0, 0
+  index: -1

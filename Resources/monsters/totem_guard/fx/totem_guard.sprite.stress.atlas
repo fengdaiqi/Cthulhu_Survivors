@@ -1,0 +1,55 @@
+
+totem_guard.sprite.stress.png
+size: 845,1043
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: true
+  xy: 2, 2
+  size: 585, 399
+  orig: 585, 399
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 2, 589
+  size: 452, 654
+  orig: 452, 654
+  offset: 0, 0
+  index: -1
+tentacle01
+  rotate: true
+  xy: 658, 477
+  size: 191, 185
+  orig: 191, 185
+  offset: 0, 0
+  index: -1
+tentacle02_03
+  rotate: true
+  xy: 609, 36
+  size: 439, 217
+  orig: 439, 217
+  offset: 0, 0
+  index: -1
+tentacle04_05
+  rotate: true
+  xy: 403, 89
+  size: 498, 204
+  orig: 498, 204
+  offset: 0, 0
+  index: -1
+tentacle05
+  rotate: false
+  xy: 403, 18
+  size: 152, 69
+  orig: 152, 69
+  offset: 0, 0
+  index: -1
+tentacle06
+  rotate: true
+  xy: 658, 670
+  size: 371, 152
+  orig: 371, 152
+  offset: 0, 0
+  index: -1

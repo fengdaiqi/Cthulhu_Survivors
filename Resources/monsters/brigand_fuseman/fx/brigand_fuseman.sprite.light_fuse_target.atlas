@@ -1,0 +1,34 @@
+
+brigand_fuseman.sprite.light_fuse_target.png
+size: 210,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 35
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+spark01
+  rotate: false
+  xy: 149, 120
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+spark02
+  rotate: true
+  xy: 149, 58
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+spark03
+  rotate: true
+  xy: 149, 2
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1

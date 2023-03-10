@@ -1,0 +1,13 @@
+
+fishman_harpoon.sprite.cutlass.png
+size: 353,606
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cutlass_trail
+  rotate: false
+  xy: 2, 2
+  size: 349, 602
+  orig: 349, 602
+  offset: 0, 0
+  index: -1

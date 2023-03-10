@@ -1,0 +1,13 @@
+display: .size 2
+enemy_type: .id "eldritch"
+stats: .hp 59 .def 8.75% .prot 0.5 .spd 1 .stun_resist 70% .poison_resist 30% .bleed_resist 80% .debuff_resist 40% .move_resist 70%
+skill: .id "the_pinch" .type "melee" .atk 88.75% .dmg 1 2 .crit 12%  .effect "Crabby Bleed 2" "Crabby Pinch Debuff 3" .launch 321 .target 123
+skill: .id "pincer_smack" .type "melee" .atk 88.75% .dmg 5 9 .crit 12%  .effect "Stun 3" "Push 3C" .launch 21 .target 12
+personality: .prefskill -1
+loot: .code "A" .count 2
+initiative: .number_of_turns_per_round 1
+monster_brain: .id fishman_crabby_B
+death_class: .monster_class_id corpse_large_B .is_valid_on_crit False .type "corpse" 
+life_link: .base_class "siren"
+battle_modifier: .accelerate_stall_penalty False .disable_stall_penalty True .can_surprise True .can_be_surprised True .always_surprise False .always_be_surprised False
+wave_spawning: .prefers_front True

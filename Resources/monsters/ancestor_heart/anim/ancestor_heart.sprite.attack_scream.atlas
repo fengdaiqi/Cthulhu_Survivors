@@ -1,0 +1,13 @@
+
+ancestor_heart.sprite.attack_scream.png
+size: 1800,2245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_scream
+  rotate: false
+  xy: 2, 2
+  size: 1796, 2241
+  orig: 1796, 2241
+  offset: 0, 0
+  index: -1

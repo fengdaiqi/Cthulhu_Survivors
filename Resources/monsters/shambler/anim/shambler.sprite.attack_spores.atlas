@@ -1,0 +1,20 @@
+
+shambler.sprite.attack_spores.png
+size: 1446,1183
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_spores
+  rotate: true
+  xy: 2, 2
+  size: 1179, 1377
+  orig: 1179, 1377
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1381, 824
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

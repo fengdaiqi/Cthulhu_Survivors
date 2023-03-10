@@ -1,0 +1,146 @@
+
+formless_melee.sprite.combat.png
+size: 1087,533
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: true
+  xy: 2, 48
+  size: 483, 125
+  orig: 483, 125
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 838, 161
+  size: 150, 176
+  orig: 150, 176
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 104, 5
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: false
+  xy: 1016, 165
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 504, 18
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+eye04
+  rotate: false
+  xy: 1056, 137
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+eye05
+  rotate: true
+  xy: 1059, 255
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+eye06
+  rotate: false
+  xy: 1016, 237
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+eye07
+  rotate: true
+  xy: 1016, 135
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+eye08
+  rotate: false
+  xy: 1056, 170
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 129, 70
+  size: 405, 461
+  orig: 405, 461
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 838, 313
+  size: 230, 218
+  orig: 230, 218
+  offset: 0, 0
+  index: -1
+left_ear
+  rotate: true
+  xy: 47, 4
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+mouth_bottom
+  rotate: false
+  xy: 1016, 205
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+mouth_top
+  rotate: false
+  xy: 2, 2
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+rags
+  rotate: false
+  xy: 553, 2
+  size: 262, 137
+  orig: 262, 137
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 536, 141
+  size: 390, 300
+  orig: 390, 300
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 145, 5
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+teeth
+  rotate: false
+  xy: 1016, 278
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: true
+  xy: 817, 21
+  size: 118, 189
+  orig: 118, 189
+  offset: 0, 0
+  index: -1

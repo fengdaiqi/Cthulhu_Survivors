@@ -1,0 +1,6 @@
+commonfx: .deathfx death_medium
+skill: .id "cell_reconstruct" .anim "attack_heal" .fx "heal" .targfx "heal_target" .can_display_performer_selection_after_turn false 
+skill: .id "cell_teleport" .anim "attack_teleport" .fx "teleport"
+skill: .id "cell_shuffle" .anim "attack_ranged" .fx "shuffle"
+
+

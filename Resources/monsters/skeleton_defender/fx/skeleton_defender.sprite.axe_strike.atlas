@@ -1,0 +1,13 @@
+
+skeleton_defender.sprite.axe_strike.png
+size: 652,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+axe_trail
+  rotate: false
+  xy: 2, 2
+  size: 648, 217
+  orig: 648, 217
+  offset: 0, 0
+  index: -1

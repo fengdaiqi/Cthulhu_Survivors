@@ -1,0 +1,20 @@
+
+cauldron_full.sprite.defend.png
+size: 1198,813
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 2
+  size: 809, 1129
+  orig: 809, 1129
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1133, 454
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

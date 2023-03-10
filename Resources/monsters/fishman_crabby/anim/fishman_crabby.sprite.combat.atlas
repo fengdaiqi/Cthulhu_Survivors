@@ -1,0 +1,244 @@
+
+fishman_crabby.sprite.combat.png
+size: 590,2060
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barnacles
+  rotate: false
+  xy: 2, 1099
+  size: 430, 221
+  orig: 430, 221
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 1322
+  size: 422, 487
+  orig: 422, 487
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 335, 576
+  size: 242, 181
+  orig: 242, 181
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 361, 759
+  size: 176, 227
+  orig: 176, 227
+  offset: 0, 0
+  index: -1
+left_back_leg
+  rotate: false
+  xy: 147, 66
+  size: 139, 208
+  orig: 139, 208
+  offset: 0, 0
+  index: -1
+left_claw
+  rotate: false
+  xy: 2, 1746
+  size: 573, 312
+  orig: 573, 312
+  offset: 0, 0
+  index: -1
+left_eye
+  rotate: false
+  xy: 569, 1330
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+left_mandible
+  rotate: false
+  xy: 434, 1233
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+left_middle_leg
+  rotate: true
+  xy: 2, 276
+  size: 171, 273
+  orig: 171, 273
+  offset: 0, 0
+  index: -1
+left_upper_leg
+  rotate: false
+  xy: 434, 937
+  size: 153, 290
+  orig: 153, 290
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 491, 1623
+  size: 121, 92
+  orig: 121, 92
+  offset: 0, 0
+  index: -1
+neck02
+  rotate: true
+  xy: 491, 1555
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+pulley01
+  rotate: false
+  xy: 491, 1229
+  size: 72, 100
+  orig: 72, 100
+  offset: 0, 0
+  index: -1
+pulley02
+  rotate: true
+  xy: 288, 78
+  size: 104, 98
+  orig: 104, 98
+  offset: 0, 0
+  index: -1
+pulley03
+  rotate: true
+  xy: 124, 11
+  size: 48, 98
+  orig: 48, 98
+  offset: 0, 0
+  index: -1
+right_back_leg
+  rotate: false
+  xy: 2, 61
+  size: 143, 213
+  orig: 143, 213
+  offset: 0, 0
+  index: -1
+right_claw
+  rotate: true
+  xy: 2, 958
+  size: 139, 381
+  orig: 139, 381
+  offset: 0, 0
+  index: -1
+right_eye
+  rotate: true
+  xy: 385, 1064
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+right_mandible
+  rotate: false
+  xy: 434, 1277
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+right_middle_leg
+  rotate: true
+  xy: 305, 438
+  size: 136, 279
+  orig: 136, 279
+  offset: 0, 0
+  index: -1
+right_shoulder
+  rotate: true
+  xy: 424, 234
+  size: 202, 162
+  orig: 202, 162
+  offset: 0, 0
+  index: -1
+right_upper_leg
+  rotate: true
+  xy: 2, 449
+  size: 136, 301
+  orig: 136, 301
+  offset: 0, 0
+  index: -1
+rope01
+  rotate: true
+  xy: 491, 1362
+  size: 42, 80
+  orig: 42, 80
+  offset: 0, 0
+  index: -1
+rope02
+  rotate: false
+  xy: 491, 1406
+  size: 81, 147
+  orig: 81, 147
+  offset: 0, 0
+  index: -1
+rope03
+  rotate: true
+  xy: 388, 64
+  size: 118, 190
+  orig: 118, 190
+  offset: 0, 0
+  index: -1
+rope04
+  rotate: true
+  xy: 277, 289
+  size: 147, 145
+  orig: 147, 145
+  offset: 0, 0
+  index: -1
+rope05
+  rotate: true
+  xy: 2, 10
+  size: 49, 120
+  orig: 49, 120
+  offset: 0, 0
+  index: -1
+rope06
+  rotate: true
+  xy: 491, 1331
+  size: 29, 76
+  orig: 29, 76
+  offset: 0, 0
+  index: -1
+rope07
+  rotate: true
+  xy: 288, 184
+  size: 103, 121
+  orig: 103, 121
+  offset: 0, 0
+  index: -1
+rope08
+  rotate: false
+  xy: 385, 1003
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+rope09
+  rotate: true
+  xy: 224, 2
+  size: 62, 127
+  orig: 62, 127
+  offset: 0, 0
+  index: -1
+rope10
+  rotate: true
+  xy: 565, 1301
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 893
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: true
+  xy: 2, 587
+  size: 304, 331
+  orig: 304, 331
+  offset: 0, 0
+  index: -1

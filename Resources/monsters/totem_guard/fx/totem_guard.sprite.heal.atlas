@@ -1,0 +1,27 @@
+
+totem_guard.sprite.heal.png
+size: 1463,547
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: true
+  xy: 1235, 157
+  size: 388, 226
+  orig: 388, 226
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 579, 93
+  size: 452, 654
+  orig: 452, 654
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 2, 2
+  size: 543, 575
+  orig: 543, 575
+  offset: 0, 0
+  index: -1

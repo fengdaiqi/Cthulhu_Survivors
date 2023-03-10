@@ -1,0 +1,13 @@
+
+swine_reaver.sprite.butcher_cut.png
+size: 741,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cleaver_trail
+  rotate: false
+  xy: 2, 2
+  size: 737, 235
+  orig: 737, 235
+  offset: 0, 0
+  index: -1

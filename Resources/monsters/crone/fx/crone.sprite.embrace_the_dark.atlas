@@ -1,0 +1,27 @@
+
+crone.sprite.embrace_the_dark.png
+size: 678,353
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura
+  rotate: true
+  xy: 2, 2
+  size: 349, 363
+  orig: 349, 363
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 548, 167
+  size: 184, 128
+  orig: 184, 128
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 367, 4
+  size: 347, 179
+  orig: 347, 179
+  offset: 0, 0
+  index: -1

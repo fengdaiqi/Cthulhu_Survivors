@@ -1,0 +1,62 @@
+
+skeleton_bearer.sprite.unholy_rally.png
+size: 1164,1175
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black_smoke
+  rotate: true
+  xy: 397, 2
+  size: 517, 492
+  orig: 517, 492
+  offset: 0, 0
+  index: -1
+claw01
+  rotate: true
+  xy: 891, 464
+  size: 99, 218
+  orig: 99, 218
+  offset: 0, 0
+  index: -1
+claw02
+  rotate: true
+  xy: 888, 1078
+  size: 95, 274
+  orig: 95, 274
+  offset: 0, 0
+  index: -1
+claw_marks
+  rotate: false
+  xy: 888, 565
+  size: 272, 511
+  orig: 272, 511
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 2, 15
+  size: 393, 724
+  orig: 393, 724
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 741
+  size: 432, 884
+  orig: 432, 884
+  offset: 0, 0
+  index: -1
+skeleton01
+  rotate: true
+  xy: 397, 521
+  size: 218, 459
+  orig: 218, 459
+  offset: 0, 0
+  index: -1
+skeleton02
+  rotate: false
+  xy: 891, 35
+  size: 155, 427
+  orig: 155, 427
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,15 @@
+display: .size 2
+enemy_type: .id "eldritch"
+enemy_type: .id "beast"
+stats: .hp 75 .def 40% .prot 0 .spd 7 .stun_resist 55% .poison_resist 200% .bleed_resist 55% .debuff_resist 30% .move_resist 55%
+skill: .id "peck" .type "melee" .atk 87.5% .dmg 6 10 .crit 16%  .effect "Crow Bleed 1" .launch 4321 .target 1234 .move 0 4 .ignore_stealth true
+skill: .id "caw" .type "ranged" .atk 87.5% .dmg 1 1 .crit 2%  .effect "Crow Caw 1" .launch 4321 .target 1234 .ignore_stealth true
+skill: .id "flutter" .type "ranged" .atk 87.5% .dmg 1 1 .crit 2%  .effect "Crow Flutter 1" "Self Speed 2" .launch 4321 .target ~1234 .move 4 0 .ignore_stealth true
+skill: .id "distract" .type "ranged" .atk 87.5% .dmg 1 1 .crit 2%  .effect "Crow Distract 1" "Fungal Disease" .launch 4321 .target 1234 .extra_targets_count 1 .extra_targets_chance 0.25 .ignore_stealth true
+skill: .id "escape" .type "ranged" .atk 135.5% .dmg 1 1 .crit 2%  .effect "Crow Shriek 1" "kill_self_queued" .launch 4321 .target ~1234 .can_be_riposted false .ignore_stealth true
+personality: .prefskill -1
+loot: .code "NONE" .count 0
+initiative: .number_of_turns_per_round 3
+monster_brain: .id crow_A
+tag: .id "boss"
+battle_modifier: .accelerate_stall_penalty False .disable_stall_penalty True .can_surprise False .can_be_surprised False .always_surprise False .always_be_surprised False .disabled_act_out_combat_start_turn_types retreat_from_combat

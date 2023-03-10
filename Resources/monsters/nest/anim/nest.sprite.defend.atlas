@@ -1,0 +1,20 @@
+
+nest.sprite.defend.png
+size: 1219,577
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: false
+  xy: 2, 2
+  size: 1150, 573
+  orig: 1150, 573
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1154, 218
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+collector_protect.sprite.crush.png
+size: 1329,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+burst01
+  rotate: false
+  xy: 1194, 37
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+burst02
+  rotate: false
+  xy: 2, 36
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+burst_large
+  rotate: false
+  xy: 1194, 114
+  size: 133, 132
+  orig: 133, 132
+  offset: 0, 0
+  index: -1
+lightning01
+  rotate: true
+  xy: 2, 113
+  size: 133, 732
+  orig: 133, 732
+  offset: 0, 0
+  index: -1
+mace_glow
+  rotate: false
+  xy: 736, 2
+  size: 242, 244
+  orig: 242, 244
+  offset: 0, 0
+  index: -1
+ring
+  rotate: true
+  xy: 980, 27
+  size: 219, 212
+  orig: 219, 212
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+totem_attack.sprite.combat.png
+size: 769,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 150, 51
+  size: 271, 86
+  orig: 271, 86
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 701, 113
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: true
+  xy: 701, 71
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 740, 78
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+eye04
+  rotate: false
+  xy: 626, 60
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+flesh
+  rotate: false
+  xy: 432, 86
+  size: 267, 436
+  orig: 267, 436
+  offset: 0, 0
+  index: -1
+growth01
+  rotate: false
+  xy: 594, 55
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+growth02
+  rotate: false
+  xy: 740, 44
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+growth03
+  rotate: true
+  xy: 650, 47
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+growth04
+  rotate: true
+  xy: 515, 48
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+pillar
+  rotate: false
+  xy: 2, 139
+  size: 428, 383
+  orig: 428, 383
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 701, 165
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+tentacle01
+  rotate: true
+  xy: 2, 4
+  size: 133, 146
+  orig: 133, 146
+  offset: 0, 0
+  index: -1
+tentacle02
+  rotate: false
+  xy: 423, 2
+  size: 90, 82
+  orig: 90, 82
+  offset: 0, 0
+  index: -1

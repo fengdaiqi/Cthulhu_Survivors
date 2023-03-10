@@ -1,0 +1,20 @@
+
+errant_flesh_bat.sprite.push_target.png
+size: 599,375
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: true
+  xy: 340, 23
+  size: 350, 257
+  orig: 350, 257
+  offset: 0, 0
+  index: -1
+slam
+  rotate: false
+  xy: 2, 2
+  size: 336, 371
+  orig: 336, 371
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,7 @@
+commonfx: .deathfx death_large_boss
+skill: .id "peck" .anim "attack_peck" .fx "peck" .targchestfx "blood_splatter"
+skill: .id "caw" .anim "attack_caw" .fx "caw" .targchestfx "stress_cloud"
+skill: .id "flutter" .anim "attack_caw" .fx "call_the_murder" .targchestfx "call_the_murder_target" .area_pos_offset -150 0 .target_area_pos_offset 225 0
+skill: .id "distract" .anim "attack_caw" .fx "regurgitate" .targchestfx "regurgitate_target"
+skill: .id "escape" .anim "attack_escape" .fx "shriek" .area_pos_offset -150 0 .target_area_pos_offset 225 0 .reset_source_stance false .hide_performer_health true
+rendering: .sort_position_z_rank_override -1

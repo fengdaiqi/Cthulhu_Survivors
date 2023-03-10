@@ -1,0 +1,20 @@
+
+formless_melee.sprite.defend.png
+size: 751,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 2
+  size: 560, 682
+  orig: 560, 682
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 686, 205
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

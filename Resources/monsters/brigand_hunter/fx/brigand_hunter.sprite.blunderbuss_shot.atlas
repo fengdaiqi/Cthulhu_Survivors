@@ -1,0 +1,104 @@
+
+brigand_hunter.sprite.blunderbuss_shot.png
+size: 1230,401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_ranged
+  rotate: true
+  xy: 2, 5
+  size: 394, 578
+  orig: 394, 578
+  offset: 0, 0
+  index: -1
+muzzle_flash
+  rotate: true
+  xy: 582, 4
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 864, 199
+  size: 260, 200
+  orig: 260, 200
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 582, 101
+  size: 298, 280
+  orig: 298, 280
+  offset: 0, 0
+  index: -1
+shot
+  rotate: false
+  xy: 647, 62
+  size: 151, 37
+  orig: 151, 37
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 864, 13
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+smoke_orange
+  rotate: true
+  xy: 1047, 13
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+sparks01
+  rotate: true
+  xy: 679, 23
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+sparks02
+  rotate: false
+  xy: 708, 2
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+sparks03
+  rotate: true
+  xy: 647, 23
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+sparks04
+  rotate: false
+  xy: 647, 2
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+sparks05
+  rotate: true
+  xy: 708, 27
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+sparks06
+  rotate: true
+  xy: 736, 35
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+sparks07
+  rotate: false
+  xy: 737, 7
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+octotank.sprite.guard_target.png
+size: 715,412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+halo
+  rotate: false
+  xy: 443, 103
+  size: 270, 307
+  orig: 270, 307
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 2
+  size: 408, 439
+  orig: 408, 439
+  offset: 0, 0
+  index: -1

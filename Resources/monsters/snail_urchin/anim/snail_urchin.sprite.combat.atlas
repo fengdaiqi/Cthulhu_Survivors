@@ -1,0 +1,27 @@
+
+snail_urchin.sprite.combat.png
+size: 775,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 18
+  size: 385, 341
+  orig: 385, 341
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 710, 2
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+shell
+  rotate: false
+  xy: 389, 22
+  size: 319, 337
+  orig: 319, 337
+  offset: 0, 0
+  index: -1

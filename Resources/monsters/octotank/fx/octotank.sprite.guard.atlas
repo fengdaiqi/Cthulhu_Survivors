@@ -1,0 +1,34 @@
+
+octotank.sprite.guard.png
+size: 1422,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 683, 2
+  size: 338, 503
+  orig: 338, 503
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 1023, 120
+  size: 142, 394
+  orig: 142, 394
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 37
+  size: 468, 679
+  orig: 468, 679
+  offset: 0, 0
+  index: -1
+shield
+  rotate: true
+  xy: 1023, 264
+  size: 241, 397
+  orig: 241, 397
+  offset: 0, 0
+  index: -1

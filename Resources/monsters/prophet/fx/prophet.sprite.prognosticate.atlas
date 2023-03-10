@@ -1,0 +1,55 @@
+
+prophet.sprite.prognosticate.png
+size: 3281,612
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: true
+  xy: 1195, 60
+  size: 550, 537
+  orig: 550, 537
+  offset: 0, 0
+  index: -1
+inner_ring
+  rotate: false
+  xy: 2889, 223
+  size: 390, 387
+  orig: 390, 387
+  offset: 0, 0
+  index: -1
+outer_ring
+  rotate: true
+  xy: 1734, 136
+  size: 474, 473
+  orig: 474, 473
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 2209, 20
+  size: 590, 365
+  orig: 590, 365
+  offset: 0, 0
+  index: -1
+ring_shadow
+  rotate: false
+  xy: 641, 37
+  size: 552, 573
+  orig: 552, 573
+  offset: 0, 0
+  index: -1
+rubble
+  rotate: false
+  xy: 2576, 45
+  size: 311, 565
+  orig: 311, 565
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 637, 608
+  orig: 637, 608
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+fungal_artillery.sprite.blight_target.png
+size: 1009,620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud
+  rotate: true
+  xy: 2, 9
+  size: 609, 648
+  orig: 609, 648
+  offset: 0, 0
+  index: -1
+debris
+  rotate: false
+  xy: 652, 540
+  size: 303, 78
+  orig: 303, 78
+  offset: 0, 0
+  index: -1
+ground
+  rotate: true
+  xy: 652, 48
+  size: 490, 54
+  orig: 490, 54
+  offset: 0, 0
+  index: -1
+spine01
+  rotate: false
+  xy: 708, 2
+  size: 117, 150
+  orig: 117, 150
+  offset: 0, 0
+  index: -1
+spine02
+  rotate: true
+  xy: 708, 386
+  size: 152, 225
+  orig: 152, 225
+  offset: 0, 0
+  index: -1
+spine03
+  rotate: true
+  xy: 708, 278
+  size: 106, 188
+  orig: 106, 188
+  offset: 0, 0
+  index: -1
+spore01
+  rotate: false
+  xy: 827, 25
+  size: 111, 127
+  orig: 111, 127
+  offset: 0, 0
+  index: -1
+spore02
+  rotate: true
+  xy: 864, 154
+  size: 112, 134
+  orig: 112, 134
+  offset: 0, 0
+  index: -1
+spore03
+  rotate: false
+  xy: 898, 268
+  size: 109, 116
+  orig: 109, 116
+  offset: 0, 0
+  index: -1
+spore04
+  rotate: true
+  xy: 708, 163
+  size: 113, 154
+  orig: 113, 154
+  offset: 0, 0
+  index: -1

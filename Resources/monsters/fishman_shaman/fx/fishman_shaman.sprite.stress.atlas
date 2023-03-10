@@ -1,0 +1,34 @@
+
+fishman_shaman.sprite.stress.png
+size: 1478,662
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura
+  rotate: false
+  xy: 1202, 357
+  size: 274, 303
+  orig: 274, 303
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 764, 2
+  size: 658, 436
+  orig: 658, 436
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 6
+  size: 654, 760
+  orig: 654, 760
+  offset: 0, 0
+  index: -1
+stress_halo
+  rotate: false
+  xy: 1202, 161
+  size: 212, 194
+  orig: 212, 194
+  offset: 0, 0
+  index: -1

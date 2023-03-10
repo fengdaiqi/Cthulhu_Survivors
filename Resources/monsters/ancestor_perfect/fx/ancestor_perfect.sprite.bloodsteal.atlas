@@ -1,0 +1,69 @@
+
+ancestor_perfect.sprite.bloodsteal.png
+size: 2284,370
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+left_hand_glow
+  rotate: false
+  xy: 2, 4
+  size: 450, 364
+  orig: 450, 364
+  offset: 0, 0
+  index: -1
+left_ring
+  rotate: true
+  xy: 2120, 207
+  size: 161, 162
+  orig: 161, 162
+  offset: 0, 0
+  index: -1
+left_ring_glow
+  rotate: false
+  xy: 1652, 14
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+left_smoke
+  rotate: true
+  xy: 1275, 10
+  size: 358, 375
+  orig: 358, 375
+  offset: 0, 0
+  index: -1
+right_hand_glow
+  rotate: false
+  xy: 454, 22
+  size: 431, 346
+  orig: 431, 346
+  offset: 0, 0
+  index: -1
+right_ring
+  rotate: false
+  xy: 2120, 63
+  size: 160, 142
+  orig: 160, 142
+  offset: 0, 0
+  index: -1
+right_ring_glow
+  rotate: false
+  xy: 1763, 24
+  size: 97, 94
+  orig: 97, 94
+  offset: 0, 0
+  index: -1
+right_smoke
+  rotate: false
+  xy: 887, 2
+  size: 386, 366
+  orig: 386, 366
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 1652, 120
+  size: 466, 248
+  orig: 466, 248
+  offset: 0, 0
+  index: -1

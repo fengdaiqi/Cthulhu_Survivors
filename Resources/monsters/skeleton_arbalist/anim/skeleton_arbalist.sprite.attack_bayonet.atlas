@@ -1,0 +1,20 @@
+
+skeleton_arbalist.sprite.attack_bayonet.png
+size: 704,545
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_bayonet
+  rotate: false
+  xy: 2, 2
+  size: 635, 541
+  orig: 635, 541
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 639, 186
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

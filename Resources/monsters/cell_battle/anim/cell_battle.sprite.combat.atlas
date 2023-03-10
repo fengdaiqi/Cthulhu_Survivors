@@ -1,0 +1,132 @@
+
+cell_battle.sprite.combat.png
+size: 1075,296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 11
+  size: 283, 670
+  orig: 283, 670
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: true
+  xy: 1033, 253
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: false
+  xy: 995, 119
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: true
+  xy: 995, 186
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+eye04
+  rotate: false
+  xy: 995, 147
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+eye05
+  rotate: false
+  xy: 1043, 204
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+eye06
+  rotate: true
+  xy: 987, 49
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+eye07
+  rotate: false
+  xy: 940, 16
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+eye08
+  rotate: false
+  xy: 987, 84
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+eye09
+  rotate: false
+  xy: 1043, 168
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+eye10
+  rotate: false
+  xy: 987, 13
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+growth01
+  rotate: true
+  xy: 793, 16
+  size: 61, 77
+  orig: 61, 77
+  offset: 0, 0
+  index: -1
+growth02
+  rotate: false
+  xy: 940, 60
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 674, 231
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+tentacle01
+  rotate: false
+  xy: 674, 79
+  size: 207, 150
+  orig: 207, 150
+  offset: 0, 0
+  index: -1
+tentacle02
+  rotate: false
+  xy: 883, 120
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+tentacle03
+  rotate: false
+  xy: 674, 7
+  size: 117, 70
+  orig: 117, 70
+  offset: 0, 0
+  index: -1
+tentacle04
+  rotate: true
+  xy: 883, 2
+  size: 116, 55
+  orig: 116, 55
+  offset: 0, 0
+  index: -1

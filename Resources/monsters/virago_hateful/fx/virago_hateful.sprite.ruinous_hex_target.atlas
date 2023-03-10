@@ -1,0 +1,41 @@
+
+virago_hateful.sprite.ruinous_hex_target.png
+size: 1413,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dagger
+  rotate: false
+  xy: 1131, 272
+  size: 231, 218
+  orig: 231, 218
+  offset: 0, 0
+  index: -1
+hole
+  rotate: false
+  xy: 1342, 179
+  size: 69, 91
+  orig: 69, 91
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 1131, 33
+  size: 237, 209
+  orig: 237, 209
+  offset: 0, 0
+  index: -1
+trail
+  rotate: false
+  xy: 2, 2
+  size: 568, 488
+  orig: 568, 488
+  offset: 0, 0
+  index: -1
+trail_shadow
+  rotate: false
+  xy: 572, 13
+  size: 557, 477
+  orig: 557, 477
+  offset: 0, 0
+  index: -1

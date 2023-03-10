@@ -1,0 +1,20 @@
+
+errant_flesh_dog.sprite.attack_bite.png
+size: 809,569
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_bite
+  rotate: false
+  xy: 2, 2
+  size: 740, 565
+  orig: 740, 565
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 744, 210
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

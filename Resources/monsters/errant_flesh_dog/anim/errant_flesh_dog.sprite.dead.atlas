@@ -1,0 +1,20 @@
+
+errant_flesh_dog.sprite.dead.png
+size: 725,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead
+  rotate: false
+  xy: 2, 2
+  size: 362, 275
+  orig: 362, 275
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 366, 214
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

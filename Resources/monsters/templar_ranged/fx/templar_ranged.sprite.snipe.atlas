@@ -1,0 +1,27 @@
+
+templar_ranged.sprite.snipe.png
+size: 1126,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: false
+  xy: 828, 35
+  size: 296, 223
+  orig: 296, 223
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 470, 23
+  size: 235, 356
+  orig: 235, 356
+  offset: 0, 0
+  index: -1
+spike_trail
+  rotate: false
+  xy: 2, 2
+  size: 466, 256
+  orig: 466, 256
+  offset: 0, 0
+  index: -1

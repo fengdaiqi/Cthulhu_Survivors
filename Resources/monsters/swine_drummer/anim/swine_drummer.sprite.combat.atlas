@@ -1,0 +1,104 @@
+
+swine_drummer.sprite.combat.png
+size: 2224,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banner
+  rotate: true
+  xy: 1050, 98
+  size: 153, 266
+  orig: 153, 266
+  offset: 0, 0
+  index: -1
+drum
+  rotate: false
+  xy: 2045, 49
+  size: 177, 202
+  orig: 177, 202
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 1675, 10
+  size: 116, 263
+  orig: 116, 263
+  offset: 0, 0
+  index: -1
+left_drumstick
+  rotate: true
+  xy: 1555, 128
+  size: 123, 259
+  orig: 123, 259
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 1332, 2
+  size: 104, 166
+  orig: 104, 166
+  offset: 0, 0
+  index: -1
+left_strap
+  rotate: true
+  xy: 1500, 7
+  size: 99, 173
+  orig: 99, 173
+  offset: 0, 0
+  index: -1
+loincloth
+  rotate: true
+  xy: 385, 26
+  size: 225, 334
+  orig: 225, 334
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 721, 82
+  size: 169, 327
+  orig: 169, 327
+  offset: 0, 0
+  index: -1
+right_drumstick
+  rotate: true
+  xy: 1318, 108
+  size: 143, 235
+  orig: 143, 235
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: true
+  xy: 1816, 144
+  size: 107, 227
+  orig: 107, 227
+  offset: 0, 0
+  index: -1
+right_strap
+  rotate: true
+  xy: 1080, 5
+  size: 91, 250
+  orig: 91, 250
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 721, 17
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 2, 12
+  size: 239, 381
+  orig: 239, 381
+  offset: 0, 0
+  index: -1
+tusks
+  rotate: false
+  xy: 1940, 30
+  size: 101, 112
+  orig: 101, 112
+  offset: 0, 0
+  index: -1

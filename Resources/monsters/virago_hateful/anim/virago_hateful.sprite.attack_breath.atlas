@@ -1,0 +1,20 @@
+
+virago_hateful.sprite.attack_breath.png
+size: 708,659
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_breath
+  rotate: false
+  xy: 2, 2
+  size: 639, 655
+  orig: 639, 655
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 643, 300
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

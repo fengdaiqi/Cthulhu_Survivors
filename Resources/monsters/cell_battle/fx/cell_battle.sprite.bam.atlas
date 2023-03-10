@@ -1,0 +1,41 @@
+
+cell_battle.sprite.bam.png
+size: 608,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud
+  rotate: true
+  xy: 2, 2
+  size: 298, 354
+  orig: 298, 354
+  offset: 0, 0
+  index: -1
+goo01
+  rotate: false
+  xy: 358, 26
+  size: 92, 274
+  orig: 92, 274
+  offset: 0, 0
+  index: -1
+goo02
+  rotate: false
+  xy: 452, 46
+  size: 154, 49
+  orig: 154, 49
+  offset: 0, 0
+  index: -1
+goo03
+  rotate: true
+  xy: 452, 97
+  size: 203, 121
+  orig: 203, 121
+  offset: 0, 0
+  index: -1
+goo04
+  rotate: false
+  xy: 452, 9
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1

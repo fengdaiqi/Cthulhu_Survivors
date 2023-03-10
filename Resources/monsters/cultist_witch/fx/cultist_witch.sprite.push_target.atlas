@@ -1,0 +1,34 @@
+
+cultist_witch.sprite.push_target.png
+size: 1985,355
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura
+  rotate: false
+  xy: 1732, 25
+  size: 251, 328
+  orig: 251, 328
+  offset: 0, 0
+  index: -1
+flash
+  rotate: true
+  xy: 1218, 2
+  size: 351, 512
+  orig: 351, 512
+  offset: 0, 0
+  index: -1
+portal
+  rotate: true
+  xy: 602, 76
+  size: 277, 614
+  orig: 277, 614
+  offset: 0, 0
+  index: -1
+tentacle
+  rotate: false
+  xy: 2, 2
+  size: 598, 351
+  orig: 598, 351
+  offset: 0, 0
+  index: -1

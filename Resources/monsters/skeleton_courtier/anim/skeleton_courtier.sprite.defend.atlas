@@ -1,0 +1,20 @@
+
+skeleton_courtier.sprite.defend.png
+size: 595,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 27
+  size: 332, 526
+  orig: 332, 526
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 530, 2
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

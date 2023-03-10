@@ -1,0 +1,27 @@
+
+errant_flesh_dog.sprite.bite_target.png
+size: 849,485
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: true
+  xy: 465, 268
+  size: 215, 382
+  orig: 215, 382
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 461, 481
+  orig: 461, 481
+  offset: 0, 0
+  index: -1
+teeth
+  rotate: false
+  xy: 465, 21
+  size: 244, 245
+  orig: 244, 245
+  offset: 0, 0
+  index: -1

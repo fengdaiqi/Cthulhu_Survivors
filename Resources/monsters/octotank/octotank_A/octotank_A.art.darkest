@@ -1,0 +1,3 @@
+commonfx: .deathfx death_large
+skill: .id "octo_cestus" .anim "attack_cestus" .fx "cestus" .targchestfx "blood_splatter"
+skill: .id "octo_guard" .anim "attack_shield" .fx "guard" .targheadfx "guard_target" .can_display_performer_selection_after_turn false 

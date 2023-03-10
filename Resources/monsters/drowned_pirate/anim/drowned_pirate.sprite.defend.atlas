@@ -1,0 +1,20 @@
+
+drowned_pirate.sprite.defend.png
+size: 839,589
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 2
+  size: 585, 770
+  orig: 585, 770
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 774, 230
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

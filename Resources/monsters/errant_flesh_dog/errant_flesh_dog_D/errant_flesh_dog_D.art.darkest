@@ -1,0 +1,5 @@
+commonfx: .deathfx death_medium
+skill: .id "errant_bite" .anim "attack_bite" .fx "bite" .targchestfx "bite_target" .area_pos_offset 0 10
+skill: .id "errant_nip" .anim "attack_tentacles" .targchestfx "blood_splatter" .area_pos_offset 0 10
+skill: .id "errant_pull" .anim "attack_tentacles" .fx "pull" .area_pos_offset -50 10
+defending_area_pos_offset: .offset 0 20

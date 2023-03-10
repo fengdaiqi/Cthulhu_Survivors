@@ -1,0 +1,3 @@
+commonfx: .deathfx death_small
+skill: .id "head_guard" .anim "attack_guard" .fx "guard" .area_pos_offset 0 -40 .target_area_pos_offset 50 -50 .can_display_performer_selection_after_turn false
+skill: .id "head_crush" .anim "attack_guard" .fx "crush" .targfx "crush_target" .area_pos_offset 0 -40

@@ -1,0 +1,139 @@
+
+formless_guard.sprite.combat.png
+size: 925,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 17
+  size: 530, 132
+  orig: 530, 132
+  offset: 0, 0
+  index: -1
+mouth01_bottom
+  rotate: true
+  xy: 841, 4
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+mouth01_top
+  rotate: true
+  xy: 872, 136
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+mouth02_bottom
+  rotate: false
+  xy: 782, 62
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+mouth02_top
+  rotate: true
+  xy: 851, 70
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+rib12
+  rotate: false
+  xy: 872, 243
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+rib13
+  rotate: true
+  xy: 782, 2
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+rib14
+  rotate: false
+  xy: 872, 178
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+rib15
+  rotate: true
+  xy: 690, 152
+  size: 25, 63
+  orig: 25, 63
+  offset: 0, 0
+  index: -1
+rib16
+  rotate: false
+  xy: 907, 117
+  size: 16, 59
+  orig: 16, 59
+  offset: 0, 0
+  index: -1
+rib17
+  rotate: true
+  xy: 718, 25
+  size: 26, 61
+  orig: 26, 61
+  offset: 0, 0
+  index: -1
+rib18
+  rotate: true
+  xy: 636, 5
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 690, 179
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+spine_bottom
+  rotate: true
+  xy: 2, 151
+  size: 385, 686
+  orig: 385, 686
+  offset: 0, 0
+  index: -1
+spine_middle
+  rotate: false
+  xy: 755, 136
+  size: 115, 199
+  orig: 115, 199
+  offset: 0, 0
+  index: -1
+spine_top
+  rotate: false
+  xy: 755, 337
+  size: 152, 199
+  orig: 152, 199
+  offset: 0, 0
+  index: -1
+tentacle01
+  rotate: true
+  xy: 636, 37
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+tentacle02
+  rotate: true
+  xy: 534, 2
+  size: 147, 100
+  orig: 147, 100
+  offset: 0, 0
+  index: -1
+tentacle03
+  rotate: false
+  xy: 718, 53
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1

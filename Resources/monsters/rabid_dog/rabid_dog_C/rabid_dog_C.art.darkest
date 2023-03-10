@@ -1,0 +1,3 @@
+commonfx: .deathfx death_medium
+skill: .id "rabid_rush" .anim "attack_melee" .fx "rabid_rush" .targchestfx "blood_splatter" .area_pos_offset 0 30 .target_area_pos_offset 0 30
+defending_area_pos_offset: .offset 0 25

@@ -1,0 +1,20 @@
+
+prophet.sprite.attack_debris.png
+size: 1121,820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_debris
+  rotate: true
+  xy: 2, 2
+  size: 816, 1052
+  orig: 816, 1052
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1056, 461
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

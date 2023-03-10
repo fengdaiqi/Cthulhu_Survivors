@@ -1,0 +1,20 @@
+
+ghoul.sprite.attack_howl.png
+size: 911,784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_howl
+  rotate: false
+  xy: 2, 2
+  size: 842, 780
+  orig: 842, 780
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 846, 425
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

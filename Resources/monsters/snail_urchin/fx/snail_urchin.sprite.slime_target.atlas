@@ -1,0 +1,41 @@
+
+snail_urchin.sprite.slime_target.png
+size: 644,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slime01
+  rotate: false
+  xy: 521, 3
+  size: 121, 222
+  orig: 121, 222
+  offset: 0, 0
+  index: -1
+slime02
+  rotate: true
+  xy: 2, 2
+  size: 35, 71
+  orig: 35, 71
+  offset: 0, 0
+  index: -1
+slime03
+  rotate: false
+  xy: 382, 3
+  size: 137, 222
+  orig: 137, 222
+  offset: 0, 0
+  index: -1
+slime04
+  rotate: true
+  xy: 75, 5
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+slime05
+  rotate: false
+  xy: 2, 39
+  size: 378, 186
+  orig: 378, 186
+  offset: 0, 0
+  index: -1

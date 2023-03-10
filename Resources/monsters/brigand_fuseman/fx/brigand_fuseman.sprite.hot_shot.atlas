@@ -1,0 +1,48 @@
+
+brigand_fuseman.sprite.hot_shot.png
+size: 565,322
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flame
+  rotate: false
+  xy: 342, 228
+  size: 148, 92
+  orig: 148, 92
+  offset: 0, 0
+  index: -1
+orange_sparks
+  rotate: false
+  xy: 364, 48
+  size: 105, 95
+  orig: 105, 95
+  offset: 0, 0
+  index: -1
+red_sparks
+  rotate: false
+  xy: 342, 145
+  size: 149, 81
+  orig: 149, 81
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 2, 2
+  size: 360, 76
+  orig: 360, 76
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 493, 38
+  size: 282, 70
+  orig: 282, 70
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 2, 80
+  size: 338, 240
+  orig: 338, 240
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+swine_piglet.sprite.combat.png
+size: 414,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bandana
+  rotate: true
+  xy: 361, 379
+  size: 163, 41
+  orig: 163, 41
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 248, 10
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: -1
+left_flag
+  rotate: false
+  xy: 290, 399
+  size: 69, 78
+  orig: 69, 78
+  offset: 0, 0
+  index: -1
+left_forearm
+  rotate: false
+  xy: 255, 99
+  size: 97, 82
+  orig: 97, 82
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: false
+  xy: 335, 32
+  size: 73, 65
+  orig: 73, 65
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 151, 182
+  size: 76, 102
+  orig: 76, 102
+  offset: 0, 0
+  index: -1
+loincloth
+  rotate: true
+  xy: 151, 17
+  size: 163, 95
+  orig: 163, 95
+  offset: 0, 0
+  index: -1
+mane
+  rotate: false
+  xy: 290, 258
+  size: 122, 65
+  orig: 122, 65
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 2, 60
+  size: 147, 196
+  orig: 147, 196
+  offset: 0, 0
+  index: -1
+right_flag
+  rotate: true
+  xy: 290, 325
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: true
+  xy: 255, 183
+  size: 73, 101
+  orig: 73, 101
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 479
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 2, 260
+  size: 217, 286
+  orig: 217, 286
+  offset: 0, 0
+  index: -1
+tusks
+  rotate: false
+  xy: 2, 2
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1

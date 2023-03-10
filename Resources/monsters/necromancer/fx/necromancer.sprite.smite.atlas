@@ -1,0 +1,13 @@
+
+necromancer.sprite.smite.png
+size: 757,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rim_light
+  rotate: false
+  xy: 2, 2
+  size: 753, 242
+  orig: 753, 242
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+prophet.sprite.eye_on_you.png
+size: 1399,1238
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+outer_ring
+  rotate: false
+  xy: 923, 763
+  size: 474, 473
+  orig: 474, 473
+  offset: 0, 0
+  index: -1
+pyramid
+  rotate: true
+  xy: 612, 907
+  size: 329, 295
+  orig: 329, 295
+  offset: 0, 0
+  index: -1
+pyramid_rim
+  rotate: false
+  xy: 923, 15
+  size: 363, 322
+  orig: 363, 322
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 2, 2
+  size: 595, 365
+  orig: 595, 365
+  offset: 0, 0
+  index: -1
+ring_shadow
+  rotate: false
+  xy: 369, 44
+  size: 552, 553
+  orig: 552, 553
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 599
+  size: 637, 608
+  orig: 637, 608
+  offset: 0, 0
+  index: -1
+stress_crown
+  rotate: false
+  xy: 923, 339
+  size: 468, 422
+  orig: 468, 422
+  offset: 0, 0
+  index: -1

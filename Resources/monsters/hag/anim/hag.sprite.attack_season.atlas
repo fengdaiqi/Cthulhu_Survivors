@@ -1,0 +1,20 @@
+
+hag.sprite.attack_season.png
+size: 1227,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_season
+  rotate: true
+  xy: 2, 2
+  size: 1008, 1158
+  orig: 1008, 1158
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1162, 653
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

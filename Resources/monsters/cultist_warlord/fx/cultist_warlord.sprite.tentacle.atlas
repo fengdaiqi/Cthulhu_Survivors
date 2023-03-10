@@ -1,0 +1,20 @@
+
+cultist_warlord.sprite.tentacle.png
+size: 1012,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rim_light
+  rotate: false
+  xy: 2, 15
+  size: 564, 349
+  orig: 564, 349
+  offset: 0, 0
+  index: -1
+tentacle_trail
+  rotate: false
+  xy: 568, 2
+  size: 442, 362
+  orig: 442, 362
+  offset: 0, 0
+  index: -1

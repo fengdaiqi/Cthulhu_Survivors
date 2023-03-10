@@ -1,0 +1,20 @@
+
+totem_guard.sprite.dead.png
+size: 482,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead
+  rotate: false
+  xy: 2, 3
+  size: 413, 356
+  orig: 413, 356
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 417, 2
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

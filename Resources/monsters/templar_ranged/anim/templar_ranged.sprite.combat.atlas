@@ -1,0 +1,230 @@
+
+templar_ranged.sprite.combat.png
+size: 2079,593
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+helmet
+  rotate: false
+  xy: 1330, 40
+  size: 137, 130
+  orig: 137, 130
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 1536, 351
+  size: 240, 541
+  orig: 240, 541
+  offset: 0, 0
+  index: -1
+left_claw_eye01
+  rotate: false
+  xy: 2057, 313
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+left_claw_eye02
+  rotate: false
+  xy: 2038, 186
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+left_claw_eye03
+  rotate: true
+  xy: 38, 4
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+left_claw_eye04
+  rotate: false
+  xy: 1229, 2
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+left_claw_eye05
+  rotate: false
+  xy: 1310, 51
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+left_claw_eye06
+  rotate: true
+  xy: 2, 2
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+left_claw_eye07
+  rotate: true
+  xy: 1007, 5
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+left_claw_eye08
+  rotate: true
+  xy: 1510, 148
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+left_leg_back
+  rotate: true
+  xy: 971, 33
+  size: 72, 139
+  orig: 72, 139
+  offset: 0, 0
+  index: -1
+left_leg_front
+  rotate: true
+  xy: 1469, 19
+  size: 108, 245
+  orig: 108, 245
+  offset: 0, 0
+  index: -1
+left_leg_upper01
+  rotate: false
+  xy: 1716, 25
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+left_leg_upper02
+  rotate: false
+  xy: 1229, 42
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 1536, 129
+  size: 244, 220
+  orig: 244, 220
+  offset: 0, 0
+  index: -1
+right_claw_eye01
+  rotate: false
+  xy: 1310, 77
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+right_claw_eye02
+  rotate: false
+  xy: 1901, 18
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+right_claw_eye03
+  rotate: false
+  xy: 1274, 72
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+right_claw_eye04
+  rotate: false
+  xy: 1469, 131
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+right_claw_eye05
+  rotate: false
+  xy: 1043, 5
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+right_claw_eye06
+  rotate: false
+  xy: 971, 2
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+right_claw_eye07
+  rotate: false
+  xy: 1934, 26
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+right_claw_eye08
+  rotate: true
+  xy: 1274, 43
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+right_leg_back
+  rotate: true
+  xy: 1782, 53
+  size: 153, 254
+  orig: 153, 254
+  offset: 0, 0
+  index: -1
+right_leg_front
+  rotate: true
+  xy: 1782, 208
+  size: 141, 273
+  orig: 141, 273
+  offset: 0, 0
+  index: -1
+right_leg_upper
+  rotate: false
+  xy: 1112, 6
+  size: 115, 99
+  orig: 115, 99
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 971, 107
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 2, 32
+  size: 559, 967
+  orig: 559, 967
+  offset: 0, 0
+  index: -1
+tail_eye01
+  rotate: false
+  xy: 1855, 8
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+tail_eye02
+  rotate: true
+  xy: 1772, 2
+  size: 49, 81
+  orig: 49, 81
+  offset: 0, 0
+  index: -1
+tail_eye03
+  rotate: false
+  xy: 73, 7
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 971, 172
+  size: 419, 563
+  orig: 419, 563
+  offset: 0, 0
+  index: -1

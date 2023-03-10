@@ -1,0 +1,41 @@
+
+cultist_shrouded.sprite.combat.png
+size: 1165,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+left_robes
+  rotate: true
+  xy: 789, 145
+  size: 112, 374
+  orig: 112, 374
+  offset: 0, 0
+  index: -1
+right_robes
+  rotate: true
+  xy: 406, 75
+  size: 182, 381
+  orig: 182, 381
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 406, 10
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+tentacles
+  rotate: true
+  xy: 789, 47
+  size: 96, 297
+  orig: 96, 297
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 2, 2
+  size: 255, 402
+  orig: 255, 402
+  offset: 0, 0
+  index: -1

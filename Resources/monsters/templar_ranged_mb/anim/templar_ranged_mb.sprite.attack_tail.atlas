@@ -1,0 +1,20 @@
+
+templar_ranged_mb.sprite.attack_tail.png
+size: 1026,826
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_tail
+  rotate: true
+  xy: 2, 2
+  size: 822, 957
+  orig: 822, 957
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 961, 467
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

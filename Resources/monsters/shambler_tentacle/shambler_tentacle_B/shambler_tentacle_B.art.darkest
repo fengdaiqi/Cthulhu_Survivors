@@ -1,0 +1,3 @@
+commonfx: .deathfx death_small
+skill: .id "tentacle_slap" .anim "attack_melee" .fx "slap" .targchestfx "blood_splatter"
+defending_area_pos_offset: .offset 0 25

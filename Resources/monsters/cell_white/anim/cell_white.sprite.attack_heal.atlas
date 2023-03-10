@@ -1,0 +1,20 @@
+
+cell_white.sprite.attack_heal.png
+size: 639,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_heal
+  rotate: true
+  xy: 2, 2
+  size: 463, 570
+  orig: 463, 570
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 574, 108
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

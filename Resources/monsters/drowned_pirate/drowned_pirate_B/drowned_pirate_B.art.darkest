@@ -1,0 +1,3 @@
+commonfx: .deathfx death_medium
+skill: .id "maddening_shanty" .anim "attack_shanty" .fx "maddening_shanty" .targchestfx "maddening_shanty_target"
+skill: .id "offkilter_jig" .anim "attack_jig" .fx "offkilter_jig" .targchestfx "maddening_shanty_target" .area_pos_offset -150 0 .target_area_pos_offset 225 0

@@ -1,0 +1,34 @@
+
+brigand_fuseman.sprite.light_fuse.png
+size: 1010,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flame
+  rotate: false
+  xy: 898, 122
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 388, 2
+  size: 283, 244
+  orig: 283, 244
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 673, 19
+  size: 223, 227
+  orig: 223, 227
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 2, 95
+  size: 384, 151
+  orig: 384, 151
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+cell_white.sprite.teleport.png
+size: 606,421
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura
+  rotate: false
+  xy: 2, 2
+  size: 430, 417
+  orig: 430, 417
+  offset: 0, 0
+  index: -1
+spores01
+  rotate: false
+  xy: 434, 201
+  size: 121, 218
+  orig: 121, 218
+  offset: 0, 0
+  index: -1
+spores02
+  rotate: false
+  xy: 535, 88
+  size: 69, 111
+  orig: 69, 111
+  offset: 0, 0
+  index: -1
+spores03
+  rotate: false
+  xy: 434, 88
+  size: 99, 111
+  orig: 99, 111
+  offset: 0, 0
+  index: -1
+spores04
+  rotate: true
+  xy: 434, 6
+  size: 80, 119
+  orig: 80, 119
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+skeleton_bearer.sprite.into_the_ranks.png
+size: 710,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dagger_trail
+  rotate: false
+  xy: 2, 2
+  size: 706, 287
+  orig: 706, 287
+  offset: 0, 0
+  index: -1

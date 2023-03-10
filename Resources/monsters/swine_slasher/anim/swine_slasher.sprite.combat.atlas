@@ -1,0 +1,97 @@
+
+swine_slasher.sprite.combat.png
+size: 779,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chain
+  rotate: true
+  xy: 308, 243
+  size: 32, 77
+  orig: 32, 77
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: true
+  xy: 2, 237
+  size: 307, 304
+  orig: 307, 304
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 407, 107
+  size: 168, 212
+  orig: 168, 212
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 464, 10
+  size: 95, 193
+  orig: 95, 193
+  offset: 0, 0
+  index: -1
+lock
+  rotate: true
+  xy: 722, 487
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+loincloth
+  rotate: false
+  xy: 621, 202
+  size: 153, 178
+  orig: 153, 178
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 2, 67
+  size: 168, 403
+  orig: 168, 403
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: false
+  xy: 659, 11
+  size: 117, 189
+  orig: 117, 189
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+shield
+  rotate: true
+  xy: 540, 382
+  size: 162, 180
+  orig: 162, 180
+  offset: 0, 0
+  index: -1
+snout
+  rotate: true
+  xy: 540, 312
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 308, 277
+  size: 230, 267
+  orig: 230, 267
+  offset: 0, 0
+  index: -1
+tusks
+  rotate: false
+  xy: 361, 24
+  size: 101, 41
+  orig: 101, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+brigand_hunter.sprite.attack_ranged.png
+size: 647,398
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_ranged
+  rotate: true
+  xy: 2, 2
+  size: 394, 578
+  orig: 394, 578
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 582, 39
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

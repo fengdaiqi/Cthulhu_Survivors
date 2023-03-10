@@ -1,0 +1,13 @@
+
+templar_ranged_mb.sprite.gaze_target.png
+size: 587,587
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+halo
+  rotate: false
+  xy: 2, 2
+  size: 583, 583
+  orig: 583, 583
+  offset: 0, 0
+  index: -1

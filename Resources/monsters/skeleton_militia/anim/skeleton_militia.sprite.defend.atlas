@@ -1,0 +1,20 @@
+
+skeleton_militia.sprite.defend.png
+size: 577,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 24
+  size: 335, 508
+  orig: 335, 508
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 512, 2
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

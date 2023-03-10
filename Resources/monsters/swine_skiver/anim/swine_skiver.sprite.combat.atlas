@@ -1,0 +1,167 @@
+
+swine_skiver.sprite.combat.png
+size: 1966,311
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+besagew
+  rotate: true
+  xy: 1724, 231
+  size: 78, 89
+  orig: 78, 89
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: true
+  xy: 1801, 129
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 1669, 6
+  size: 113, 147
+  orig: 113, 147
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: true
+  xy: 1724, 158
+  size: 71, 87
+  orig: 71, 87
+  offset: 0, 0
+  index: -1
+left_index
+  rotate: false
+  xy: 819, 11
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+left_middle
+  rotate: false
+  xy: 860, 12
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+left_pinky
+  rotate: false
+  xy: 1724, 121
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+left_thumb
+  rotate: false
+  xy: 901, 12
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+left_tusk
+  rotate: false
+  xy: 1759, 125
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+mask
+  rotate: true
+  xy: 971, 74
+  size: 235, 213
+  orig: 235, 213
+  offset: 0, 0
+  index: -1
+quiver
+  rotate: false
+  xy: 1186, 95
+  size: 180, 214
+  orig: 180, 214
+  offset: 0, 0
+  index: -1
+rags_bottom
+  rotate: true
+  xy: 1818, 188
+  size: 121, 137
+  orig: 121, 137
+  offset: 0, 0
+  index: -1
+rags_top
+  rotate: true
+  xy: 1598, 121
+  size: 188, 124
+  orig: 188, 124
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 2, 4
+  size: 253, 305
+  orig: 253, 305
+  offset: 0, 0
+  index: -1
+right_tusk
+  rotate: false
+  xy: 938, 13
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 998, 9
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+snout
+  rotate: false
+  xy: 1516, 3
+  size: 151, 105
+  orig: 151, 105
+  offset: 0, 0
+  index: -1
+spear01
+  rotate: false
+  xy: 1368, 102
+  size: 104, 207
+  orig: 104, 207
+  offset: 0, 0
+  index: -1
+spear02
+  rotate: true
+  xy: 1357, 2
+  size: 91, 157
+  orig: 91, 157
+  offset: 0, 0
+  index: -1
+spear03
+  rotate: false
+  xy: 819, 60
+  size: 150, 249
+  orig: 150, 249
+  offset: 0, 0
+  index: -1
+spear04
+  rotate: false
+  xy: 1474, 110
+  size: 122, 199
+  orig: 122, 199
+  offset: 0, 0
+  index: -1
+strap
+  rotate: false
+  xy: 1828, 23
+  size: 136, 163
+  orig: 136, 163
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 257, 11
+  size: 298, 560
+  orig: 298, 560
+  offset: 0, 0
+  index: -1

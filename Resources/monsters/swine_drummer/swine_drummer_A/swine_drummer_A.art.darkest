@@ -1,0 +1,3 @@
+commonfx: .deathfx death_medium
+skill: .id "drum_fear" .anim "attack_ranged" .targheadfx "drum_fear_target" .area_pos_offset -150 0 .target_area_pos_offset 150 0
+skill: .id "drum_debuff" .anim "attack_ranged" .targchestfx "drum_debuff_target"

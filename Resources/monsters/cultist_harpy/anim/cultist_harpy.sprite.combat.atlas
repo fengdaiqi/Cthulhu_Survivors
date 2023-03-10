@@ -1,0 +1,118 @@
+
+cultist_harpy.sprite.combat.png
+size: 1138,310
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: true
+  xy: 864, 47
+  size: 132, 120
+  orig: 132, 120
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 1005, 158
+  size: 131, 85
+  orig: 131, 85
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 873, 182
+  size: 79, 61
+  orig: 79, 61
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 986, 54
+  size: 102, 119
+  orig: 102, 119
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: false
+  xy: 814, 181
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+left_symbol
+  rotate: false
+  xy: 712, 173
+  size: 50, 135
+  orig: 50, 135
+  offset: 0, 0
+  index: -1
+left_tassels
+  rotate: false
+  xy: 764, 177
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 396, 2
+  size: 86, 194
+  orig: 86, 194
+  offset: 0, 0
+  index: -1
+right_symbol
+  rotate: false
+  xy: 732, 39
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+right_tassels
+  rotate: false
+  xy: 954, 183
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+robes
+  rotate: false
+  xy: 2, 14
+  size: 337, 294
+  orig: 337, 294
+  offset: 0, 0
+  index: -1
+rope_belt
+  rotate: true
+  xy: 592, 13
+  size: 139, 138
+  orig: 139, 138
+  offset: 0, 0
+  index: -1
+scepter
+  rotate: false
+  xy: 341, 14
+  size: 53, 294
+  orig: 53, 294
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 764, 245
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+shroud
+  rotate: true
+  xy: 592, 154
+  size: 154, 118
+  orig: 154, 118
+  offset: 0, 0
+  index: -1
+skull_helmet
+  rotate: true
+  xy: 396, 90
+  size: 218, 194
+  orig: 218, 194
+  offset: 0, 0
+  index: -1

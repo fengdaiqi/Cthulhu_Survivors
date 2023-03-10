@@ -1,0 +1,3 @@
+commonfx: .deathfx death_medium
+skill: .id "fish_cutlass" .anim "attack_cutlass" .fx "cutlass" .targchestfx "blood_splatter"
+skill: .id "fish_harpoon" .anim "attack_harpoon" .fx "harpoon" .targchestfx "blood_splatter"

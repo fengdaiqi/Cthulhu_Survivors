@@ -1,0 +1,20 @@
+
+skeleton_defender.sprite.attack_shield.png
+size: 716,623
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_shield
+  rotate: false
+  xy: 2, 2
+  size: 647, 619
+  orig: 647, 619
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 651, 264
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

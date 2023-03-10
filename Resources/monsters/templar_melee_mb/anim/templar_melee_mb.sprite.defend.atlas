@@ -1,0 +1,20 @@
+
+templar_melee_mb.sprite.defend.png
+size: 1086,693
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 2
+  size: 689, 1017
+  orig: 689, 1017
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1021, 334
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

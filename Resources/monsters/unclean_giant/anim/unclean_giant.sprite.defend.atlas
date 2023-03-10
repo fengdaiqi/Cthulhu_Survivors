@@ -1,0 +1,20 @@
+
+unclean_giant.sprite.defend.png
+size: 980,717
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 2
+  size: 713, 911
+  orig: 713, 911
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 915, 358
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

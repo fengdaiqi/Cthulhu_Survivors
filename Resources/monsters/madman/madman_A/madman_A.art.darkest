@@ -1,0 +1,3 @@
+commonfx: .deathfx death_medium
+skill: .id "accusation" .anim "attack_point" .fx "accusation" .targchestfx "stress_cloud"
+skill: .id "doomsay" .anim "attack_shout" .fx "doomsay" .targchestfx "stress_cloud" .area_pos_offset -150 0 .target_area_pos_offset 225 0

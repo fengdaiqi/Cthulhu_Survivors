@@ -1,0 +1,20 @@
+
+shuffler.sprite.attack_howl.png
+size: 1506,1084
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_howl
+  rotate: false
+  xy: 2, 2
+  size: 1437, 1080
+  orig: 1437, 1080
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1441, 725
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

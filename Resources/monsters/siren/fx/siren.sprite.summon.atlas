@@ -1,0 +1,27 @@
+
+siren.sprite.summon.png
+size: 960,641
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 649, 112
+  size: 162, 157
+  orig: 162, 157
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 649, 271
+  size: 309, 368
+  orig: 309, 368
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 645, 637
+  orig: 645, 637
+  offset: 0, 0
+  index: -1

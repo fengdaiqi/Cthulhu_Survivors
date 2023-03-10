@@ -1,0 +1,27 @@
+
+collector_protect.sprite.crush_target.png
+size: 485,736
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lightning01
+  rotate: false
+  xy: 350, 2
+  size: 133, 732
+  orig: 133, 732
+  offset: 0, 0
+  index: -1
+lightning02
+  rotate: false
+  xy: 179, 11
+  size: 169, 723
+  orig: 169, 723
+  offset: 0, 0
+  index: -1
+lightning03
+  rotate: false
+  xy: 2, 10
+  size: 175, 724
+  orig: 175, 724
+  offset: 0, 0
+  index: -1

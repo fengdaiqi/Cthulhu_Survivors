@@ -1,0 +1,13 @@
+display: .size 1
+enemy_type: .id "unholy"
+stats: .hp 16 .def 21.25% .prot 0 .spd 3 .stun_resist 50% .poison_resist 50% .bleed_resist 240% .debuff_resist 55% .move_resist 50%
+skill: .id "cudgel" .type "melee" .atk 82.5% .dmg 3 8 .crit 9%  .effect "Rabble Bump Debuff 5" .launch 321 .target 12
+skill: .id "cudgel_weak" .type "melee" .atk 62.5% .dmg 3 8 .crit 0%  .launch 4 .target 12 .move 0 1 .is_crit_valid False
+personality: .prefskill -1
+loot: .code "C" .count 1
+initiative: .number_of_turns_per_round 1
+monster_brain: .id skeleton_rabble_C
+death_class: .monster_class_id corpse_C .is_valid_on_crit False .type "corpse" 
+life_link: .base_class "necromancer"
+battle_modifier: .accelerate_stall_penalty True .disable_stall_penalty False .can_surprise True .can_be_surprised True .always_surprise False .always_be_surprised False
+wave_spawning: .prefers_front True

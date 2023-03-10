@@ -1,0 +1,97 @@
+
+templar_melee.sprite.slam.png
+size: 1000,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust
+  rotate: false
+  xy: 2, 63
+  size: 922, 460
+  orig: 922, 460
+  offset: 0, 0
+  index: -1
+ray01
+  rotate: false
+  xy: 632, 26
+  size: 178, 35
+  orig: 178, 35
+  offset: 0, 0
+  index: -1
+ray02
+  rotate: false
+  xy: 2, 14
+  size: 430, 47
+  orig: 430, 47
+  offset: 0, 0
+  index: -1
+ray03
+  rotate: true
+  xy: 926, 256
+  size: 267, 57
+  orig: 267, 57
+  offset: 0, 0
+  index: -1
+ray04
+  rotate: false
+  xy: 434, 18
+  size: 196, 43
+  orig: 196, 43
+  offset: 0, 0
+  index: -1
+ray05
+  rotate: false
+  xy: 812, 20
+  size: 126, 41
+  orig: 126, 41
+  offset: 0, 0
+  index: -1
+ray06
+  rotate: true
+  xy: 926, 63
+  size: 191, 35
+  orig: 191, 35
+  offset: 0, 0
+  index: -1
+rubble01
+  rotate: false
+  xy: 985, 511
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+rubble02
+  rotate: false
+  xy: 963, 167
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+rubble03
+  rotate: false
+  xy: 632, 2
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+rubble04
+  rotate: false
+  xy: 963, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+rubble05
+  rotate: true
+  xy: 940, 20
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+rubble06
+  rotate: false
+  xy: 963, 195
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1

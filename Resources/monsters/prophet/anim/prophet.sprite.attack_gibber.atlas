@@ -1,0 +1,20 @@
+
+prophet.sprite.attack_gibber.png
+size: 1085,839
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_gibber
+  rotate: true
+  xy: 2, 2
+  size: 835, 1016
+  orig: 835, 1016
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1020, 480
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

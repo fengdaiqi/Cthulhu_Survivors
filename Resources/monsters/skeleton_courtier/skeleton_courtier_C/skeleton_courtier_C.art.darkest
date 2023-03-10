@@ -1,0 +1,3 @@
+commonfx: .deathfx death_medium
+skill: .id "tempting_goblet" .anim "attack_goblet" .fx "tempting_goblet" .targchestfx "blood_splatter"
+skill: .id "dagger_jab" .anim "attack_dagger" .fx "dagger_jab" .targchestfx "blood_splatter"

@@ -1,0 +1,5 @@
+commonfx: .deathfx death_large
+skill: .id "pig_spear" .anim "attack_charge" .fx "pig_spear" .targchestfx "blood_splatter" .area_pos_offset -100 0 .target_area_pos_offset 150 0
+skill: .id "bull_rush" .anim "attack_charge" .fx "pig_spear" .targchestfx "blood_splatter"
+skill: .id "trot_retreat" .anim "defend" .fx "trot_retreat" .targchestfx "blood_splatter"
+skill: .id "backhand" .anim "attack_backhand" .fx "backhand" .targchestfx "blood_splatter" .area_pos_offset -50 0 .target_area_pos_offset 50 0

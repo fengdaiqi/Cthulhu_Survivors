@@ -1,0 +1,27 @@
+
+totem_attack.sprite.maul.png
+size: 1082,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood
+  rotate: false
+  xy: 738, 24
+  size: 157, 172
+  orig: 157, 172
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 2, 2
+  size: 734, 380
+  orig: 734, 380
+  offset: 0, 0
+  index: -1
+spikes
+  rotate: false
+  xy: 738, 198
+  size: 342, 184
+  orig: 342, 184
+  offset: 0, 0
+  index: -1

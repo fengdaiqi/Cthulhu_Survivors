@@ -1,0 +1,90 @@
+
+swine_skiver.sprite.cripple_them_target.png
+size: 1278,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood_bottom
+  rotate: true
+  xy: 1037, 6
+  size: 102, 97
+  orig: 102, 97
+  offset: 0, 0
+  index: -1
+blood_top
+  rotate: true
+  xy: 782, 105
+  size: 146, 220
+  orig: 146, 220
+  offset: 0, 0
+  index: -1
+bright_blood_bottom
+  rotate: true
+  xy: 1223, 138
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+bright_blood_top
+  rotate: true
+  xy: 1154, 188
+  size: 63, 108
+  orig: 63, 108
+  offset: 0, 0
+  index: -1
+dust01
+  rotate: false
+  xy: 2, 2
+  size: 248, 249
+  orig: 248, 249
+  offset: 0, 0
+  index: -1
+dust02
+  rotate: true
+  xy: 252, 3
+  size: 248, 244
+  orig: 248, 244
+  offset: 0, 0
+  index: -1
+ground01
+  rotate: false
+  xy: 1004, 164
+  size: 148, 87
+  orig: 148, 87
+  offset: 0, 0
+  index: -1
+ground02
+  rotate: false
+  xy: 1136, 41
+  size: 136, 67
+  orig: 136, 67
+  offset: 0, 0
+  index: -1
+spear01
+  rotate: true
+  xy: 498, 98
+  size: 153, 282
+  orig: 153, 282
+  offset: 0, 0
+  index: -1
+spear02
+  rotate: true
+  xy: 817, 39
+  size: 64, 218
+  orig: 64, 218
+  offset: 0, 0
+  index: -1
+spear_bottom
+  rotate: true
+  xy: 1004, 110
+  size: 52, 217
+  orig: 52, 217
+  offset: 0, 0
+  index: -1
+spear_top
+  rotate: true
+  xy: 498, 13
+  size: 83, 317
+  orig: 83, 317
+  offset: 0, 0
+  index: -1

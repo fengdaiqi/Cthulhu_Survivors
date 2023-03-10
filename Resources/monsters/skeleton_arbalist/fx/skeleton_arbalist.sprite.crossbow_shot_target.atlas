@@ -1,0 +1,27 @@
+
+skeleton_arbalist.sprite.crossbow_shot_target.png
+size: 513,101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bolt
+  rotate: false
+  xy: 321, 46
+  size: 190, 53
+  orig: 190, 53
+  offset: 0, 0
+  index: -1
+bolt_trail
+  rotate: false
+  xy: 2, 2
+  size: 317, 97
+  orig: 317, 97
+  offset: 0, 0
+  index: -1
+hole
+  rotate: false
+  xy: 321, 6
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1

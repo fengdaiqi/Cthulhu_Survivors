@@ -1,0 +1,76 @@
+
+fishman_crabby.sprite.pincer_smack_target.png
+size: 562,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+inner_glow
+  rotate: false
+  xy: 2, 2
+  size: 198, 199
+  orig: 198, 199
+  offset: 0, 0
+  index: -1
+inner_rays
+  rotate: false
+  xy: 309, 256
+  size: 251, 252
+  orig: 251, 252
+  offset: 0, 0
+  index: -1
+outer_glow
+  rotate: true
+  xy: 309, 7
+  size: 247, 250
+  orig: 247, 250
+  offset: 0, 0
+  index: -1
+outer_rays
+  rotate: false
+  xy: 2, 203
+  size: 305, 305
+  orig: 305, 305
+  offset: 0, 0
+  index: -1
+stars01
+  rotate: false
+  xy: 202, 99
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+stars02
+  rotate: false
+  xy: 202, 144
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+stars03
+  rotate: false
+  xy: 202, 144
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+stars04
+  rotate: false
+  xy: 202, 144
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+stars06
+  rotate: false
+  xy: 202, 144
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+stars05
+  rotate: false
+  xy: 266, 171
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1

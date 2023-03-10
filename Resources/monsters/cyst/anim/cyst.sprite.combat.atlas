@@ -1,0 +1,153 @@
+
+cyst.sprite.combat.png
+size: 2890,1138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_bottom
+  rotate: true
+  xy: 1517, 23
+  size: 1113, 873
+  orig: 1113, 873
+  offset: 0, 0
+  index: -1
+body_top
+  rotate: false
+  xy: 2, 2
+  size: 1513, 1134
+  orig: 1513, 1134
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: true
+  xy: 2847, 767
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: true
+  xy: 2693, 443
+  size: 133, 140
+  orig: 133, 140
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: true
+  xy: 2693, 578
+  size: 158, 121
+  orig: 158, 121
+  offset: 0, 0
+  index: -1
+eye04
+  rotate: false
+  xy: 2794, 761
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+eye05
+  rotate: false
+  xy: 2794, 816
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+eye06
+  rotate: false
+  xy: 2839, 728
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+eye07
+  rotate: true
+  xy: 2794, 865
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+eye08
+  rotate: false
+  xy: 2693, 738
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+eye09
+  rotate: false
+  xy: 2794, 1041
+  size: 89, 95
+  orig: 89, 95
+  offset: 0, 0
+  index: -1
+eye10
+  rotate: true
+  xy: 2847, 817
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+eye11
+  rotate: true
+  xy: 2853, 881
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+left_lower_tentacle_end
+  rotate: false
+  xy: 2794, 916
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+left_lower_tentacle_start
+  rotate: true
+  xy: 2684, 144
+  size: 297, 202
+  orig: 297, 202
+  offset: 0, 0
+  index: -1
+left_middle_tentacle
+  rotate: true
+  xy: 2392, 292
+  size: 271, 290
+  orig: 271, 290
+  offset: 0, 0
+  index: -1
+left_top_tentacle
+  rotate: false
+  xy: 2392, 74
+  size: 276, 216
+  orig: 276, 216
+  offset: 0, 0
+  index: -1
+right_lower_tentacle
+  rotate: true
+  xy: 2392, 840
+  size: 296, 335
+  orig: 296, 335
+  offset: 0, 0
+  index: -1
+right_top_tentacle
+  rotate: true
+  xy: 2392, 565
+  size: 273, 299
+  orig: 273, 299
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2729, 779
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+tooth
+  rotate: false
+  xy: 2794, 966
+  size: 81, 73
+  orig: 81, 73
+  offset: 0, 0
+  index: -1

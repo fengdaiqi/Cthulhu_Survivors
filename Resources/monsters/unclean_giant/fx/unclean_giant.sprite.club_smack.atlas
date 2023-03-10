@@ -1,0 +1,13 @@
+
+unclean_giant.sprite.club_smack.png
+size: 761,411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+club_trail
+  rotate: false
+  xy: 2, 2
+  size: 757, 407
+  orig: 757, 407
+  offset: 0, 0
+  index: -1

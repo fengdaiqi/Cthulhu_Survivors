@@ -1,0 +1,55 @@
+
+collector_shaman.sprite.attack_heal.png
+size: 2841,394
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: true
+  xy: 2, 17
+  size: 375, 776
+  orig: 375, 776
+  offset: 0, 0
+  index: -1
+blur
+  rotate: true
+  xy: 780, 10
+  size: 382, 762
+  orig: 382, 762
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2311, 232
+  size: 160, 470
+  orig: 160, 470
+  offset: 0, 0
+  index: -1
+eye_glow
+  rotate: true
+  xy: 2761, 2
+  size: 228, 78
+  orig: 228, 78
+  offset: 0, 0
+  index: -1
+ghost
+  rotate: true
+  xy: 1544, 38
+  size: 354, 765
+  orig: 354, 765
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2311, 6
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+torso_glow
+  rotate: true
+  xy: 2311, 71
+  size: 159, 448
+  orig: 159, 448
+  offset: 0, 0
+  index: -1

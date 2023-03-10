@@ -1,0 +1,34 @@
+
+fishman_shaman.sprite.call_of_the_deep_target.png
+size: 872,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: true
+  xy: 2, 2
+  size: 518, 559
+  orig: 518, 559
+  offset: 0, 0
+  index: -1
+tentacle01
+  rotate: false
+  xy: 563, 165
+  size: 201, 355
+  orig: 201, 355
+  offset: 0, 0
+  index: -1
+tentacle02
+  rotate: true
+  xy: 563, 39
+  size: 124, 228
+  orig: 124, 228
+  offset: 0, 0
+  index: -1
+tentacle03
+  rotate: false
+  xy: 766, 395
+  size: 104, 125
+  orig: 104, 125
+  offset: 0, 0
+  index: -1

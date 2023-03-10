@@ -1,0 +1,4 @@
+commonfx: .deathfx death_medium
+skill: .id "jellyfish_sting" .anim "attack_sting" .fx "sting" .targfx "sting_target"
+skill: .id "jellyfish_rend" .anim "attack_rend" .fx "rend" .targchestfx "rend_target"
+

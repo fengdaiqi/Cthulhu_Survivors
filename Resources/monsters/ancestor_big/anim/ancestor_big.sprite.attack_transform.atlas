@@ -1,0 +1,27 @@
+
+ancestor_big.sprite.attack_transform.png
+size: 2611,1010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big
+  rotate: false
+  xy: 2123, 24
+  size: 421, 984
+  orig: 421, 984
+  offset: 0, 0
+  index: -1
+pod
+  rotate: true
+  xy: 2, 2
+  size: 1006, 2119
+  orig: 1006, 2119
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2546, 651
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

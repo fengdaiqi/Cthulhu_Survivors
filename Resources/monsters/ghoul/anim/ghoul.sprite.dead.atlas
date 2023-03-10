@@ -1,0 +1,20 @@
+
+ghoul.sprite.dead.png
+size: 933,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead
+  rotate: false
+  xy: 2, 2
+  size: 570, 259
+  orig: 570, 259
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 574, 198
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

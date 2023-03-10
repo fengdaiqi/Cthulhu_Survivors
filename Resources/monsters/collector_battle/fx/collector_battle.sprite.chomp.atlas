@@ -1,0 +1,13 @@
+
+collector_battle.sprite.chomp.png
+size: 781,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dagger_trail
+  rotate: false
+  xy: 2, 2
+  size: 777, 199
+  orig: 777, 199
+  offset: 0, 0
+  index: -1

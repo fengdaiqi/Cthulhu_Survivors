@@ -1,0 +1,27 @@
+
+ancestor_big.sprite.contemplate.png
+size: 1812,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 797, 2
+  size: 590, 534
+  orig: 590, 534
+  offset: 0, 0
+  index: -1
+rays
+  rotate: false
+  xy: 2, 2
+  size: 793, 534
+  orig: 793, 534
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 1389, 103
+  size: 421, 433
+  orig: 421, 433
+  offset: 0, 0
+  index: -1

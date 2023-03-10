@@ -1,0 +1,258 @@
+
+brigand_sapper.sprite.combat.png
+size: 794,1039
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: true
+  xy: 193, 76
+  size: 69, 84
+  orig: 69, 84
+  offset: 0, 0
+  index: -1
+belt_shield
+  rotate: true
+  xy: 588, 362
+  size: 142, 173
+  orig: 142, 173
+  offset: 0, 0
+  index: -1
+bomb01
+  rotate: false
+  xy: 601, 12
+  size: 106, 109
+  orig: 106, 109
+  offset: 0, 0
+  index: -1
+bomb02
+  rotate: true
+  xy: 193, 147
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+bomb03
+  rotate: true
+  xy: 193, 19
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 380, 668
+  size: 148, 215
+  orig: 148, 215
+  offset: 0, 0
+  index: -1
+knot01
+  rotate: false
+  xy: 763, 463
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+knot02
+  rotate: false
+  xy: 763, 578
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 588, 506
+  size: 143, 173
+  orig: 143, 173
+  offset: 0, 0
+  index: -1
+left_forearm
+  rotate: true
+  xy: 481, 5
+  size: 122, 118
+  orig: 122, 118
+  offset: 0, 0
+  index: -1
+left_glove
+  rotate: false
+  xy: 588, 235
+  size: 165, 125
+  orig: 165, 125
+  offset: 0, 0
+  index: -1
+left_greaves
+  rotate: false
+  xy: 2, 4
+  size: 129, 226
+  orig: 129, 226
+  offset: 0, 0
+  index: -1
+left_pants
+  rotate: true
+  xy: 597, 651
+  size: 120, 176
+  orig: 120, 176
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 755, 230
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+rags
+  rotate: true
+  xy: 2, 575
+  size: 241, 376
+  orig: 241, 376
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 598, 773
+  size: 192, 264
+  orig: 192, 264
+  offset: 0, 0
+  index: -1
+right_greaves
+  rotate: false
+  xy: 296, 2
+  size: 122, 249
+  orig: 122, 249
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: false
+  xy: 601, 123
+  size: 119, 110
+  orig: 119, 110
+  offset: 0, 0
+  index: -1
+right_index
+  rotate: false
+  xy: 722, 189
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+right_middle
+  rotate: true
+  xy: 755, 277
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+right_pants
+  rotate: true
+  xy: 380, 507
+  size: 159, 206
+  orig: 159, 206
+  offset: 0, 0
+  index: -1
+right_pinky
+  rotate: false
+  xy: 763, 543
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+right_thumb
+  rotate: false
+  xy: 763, 614
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+sash01
+  rotate: true
+  xy: 763, 359
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+sash02
+  rotate: true
+  xy: 763, 489
+  size: 52, 27
+  orig: 52, 27
+  offset: 0, 0
+  index: -1
+sash03
+  rotate: true
+  xy: 755, 325
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+sash04
+  rotate: false
+  xy: 763, 407
+  size: 25, 54
+  orig: 25, 54
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 510
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+shield
+  rotate: true
+  xy: 2, 818
+  size: 219, 594
+  orig: 219, 594
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 2, 232
+  size: 276, 292
+  orig: 276, 292
+  offset: 0, 0
+  index: -1
+wolf_pelt01
+  rotate: true
+  xy: 296, 253
+  size: 252, 290
+  orig: 252, 290
+  offset: 0, 0
+  index: -1
+wolf_pelt02
+  rotate: false
+  xy: 775, 741
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+wolf_pelt03
+  rotate: false
+  xy: 543, 145
+  size: 41, 106
+  orig: 41, 106
+  offset: 0, 0
+  index: -1
+wolf_pelt04
+  rotate: false
+  xy: 481, 129
+  size: 60, 122
+  orig: 60, 122
+  offset: 0, 0
+  index: -1
+wolf_tail01
+  rotate: false
+  xy: 420, 16
+  size: 59, 235
+  orig: 59, 235
+  offset: 0, 0
+  index: -1
+wolf_tail02
+  rotate: false
+  xy: 133, 7
+  size: 58, 223
+  orig: 58, 223
+  offset: 0, 0
+  index: -1

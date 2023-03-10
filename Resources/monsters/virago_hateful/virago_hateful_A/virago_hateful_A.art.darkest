@@ -1,0 +1,4 @@
+commonfx: .deathfx death_medium
+skill: .id "ruinous_hex" .anim "attack_doll" .fx "ruinous_hex" .targchestfx "ruinous_hex_target"
+skill: .id "putrefying_breath" .anim "attack_breath" .fx "putrefying_breath"
+skill: .id "from_death_comes_life" .anim "attack_summon" .fx "from_death_comes_life" .can_display_performer_selection_after_turn false

@@ -1,0 +1,20 @@
+
+brigand_blood.sprite.attack_melee.png
+size: 963,729
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_melee
+  rotate: false
+  xy: 2, 2
+  size: 894, 725
+  orig: 894, 725
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 898, 370
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

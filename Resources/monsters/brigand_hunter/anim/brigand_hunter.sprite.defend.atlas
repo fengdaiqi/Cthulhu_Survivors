@@ -1,0 +1,20 @@
+
+brigand_hunter.sprite.defend.png
+size: 622,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 2
+  size: 368, 553
+  orig: 368, 553
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 557, 13
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

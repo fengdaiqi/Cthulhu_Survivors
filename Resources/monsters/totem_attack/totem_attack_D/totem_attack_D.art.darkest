@@ -1,0 +1,3 @@
+commonfx: .deathfx death_medium
+skill: .id "totem_maul" .anim "attack_melee" .fx "maul" .targchestfx "blood_splatter"
+skill: .id "totem_stun" .anim "attack_melee" .fx "stun" .targchestfx "blood_splatter"

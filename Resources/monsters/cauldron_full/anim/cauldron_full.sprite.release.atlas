@@ -1,0 +1,55 @@
+
+cauldron_full.sprite.release.png
+size: 1930,807
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cauldron
+  rotate: false
+  xy: 873, 276
+  size: 519, 529
+  orig: 519, 529
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 873, 51
+  size: 669, 223
+  orig: 669, 223
+  offset: 0, 0
+  index: -1
+hero
+  rotate: false
+  xy: 1544, 9
+  size: 376, 292
+  orig: 376, 292
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1865, 448
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 2, 2
+  size: 869, 803
+  orig: 869, 803
+  offset: 0, 0
+  index: -1
+splash01
+  rotate: false
+  xy: 1394, 513
+  size: 469, 292
+  orig: 469, 292
+  offset: 0, 0
+  index: -1
+splash02
+  rotate: false
+  xy: 1394, 303
+  size: 444, 208
+  orig: 444, 208
+  offset: 0, 0
+  index: -1

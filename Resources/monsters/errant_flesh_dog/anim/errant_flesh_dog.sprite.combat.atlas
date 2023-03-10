@@ -1,0 +1,90 @@
+
+errant_flesh_dog.sprite.combat.png
+size: 833,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belly
+  rotate: false
+  xy: 473, 247
+  size: 273, 242
+  orig: 273, 242
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 6
+  size: 469, 483
+  orig: 469, 483
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: false
+  xy: 724, 219
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: false
+  xy: 762, 56
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 762, 21
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+eye04
+  rotate: true
+  xy: 801, 58
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+gills
+  rotate: true
+  xy: 724, 74
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+left_back_leg
+  rotate: true
+  xy: 758, 94
+  size: 36, 73
+  orig: 36, 73
+  offset: 0, 0
+  index: -1
+left_front_leg
+  rotate: false
+  xy: 473, 17
+  size: 126, 228
+  orig: 126, 228
+  offset: 0, 0
+  index: -1
+left_middle_leg
+  rotate: true
+  xy: 601, 2
+  size: 70, 159
+  orig: 70, 159
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 748, 132
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+tentacle
+  rotate: true
+  xy: 601, 74
+  size: 171, 121
+  orig: 171, 121
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+spider_spitter.sprite.spit.png
+size: 211,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spit01
+  rotate: false
+  xy: 2, 2
+  size: 149, 105
+  orig: 149, 105
+  offset: 0, 0
+  index: -1
+spit02
+  rotate: true
+  xy: 153, 64
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+spit03
+  rotate: true
+  xy: 153, 20
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+spit04
+  rotate: false
+  xy: 182, 2
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+spit05
+  rotate: false
+  xy: 186, 82
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+spit06
+  rotate: true
+  xy: 182, 24
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+spit07
+  rotate: false
+  xy: 186, 68
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1

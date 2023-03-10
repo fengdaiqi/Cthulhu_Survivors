@@ -1,0 +1,20 @@
+
+necromancer.sprite.attack_melee.png
+size: 1250,882
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_melee
+  rotate: false
+  xy: 2, 2
+  size: 1181, 878
+  orig: 1181, 878
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1185, 523
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

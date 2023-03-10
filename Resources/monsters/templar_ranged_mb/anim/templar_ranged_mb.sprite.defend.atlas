@@ -1,0 +1,20 @@
+
+templar_ranged_mb.sprite.defend.png
+size: 1174,693
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 2
+  size: 689, 1105
+  orig: 689, 1105
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1109, 334
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

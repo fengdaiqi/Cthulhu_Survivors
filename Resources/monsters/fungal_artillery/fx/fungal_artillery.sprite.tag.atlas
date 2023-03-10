@@ -1,0 +1,13 @@
+
+fungal_artillery.sprite.tag.png
+size: 460,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud01
+  rotate: false
+  xy: 2, 2
+  size: 456, 636
+  orig: 456, 636
+  offset: 0, 0
+  index: -1

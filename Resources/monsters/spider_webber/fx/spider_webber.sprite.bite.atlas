@@ -1,0 +1,13 @@
+
+spider_webber.sprite.bite.png
+size: 148,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blight
+  rotate: false
+  xy: 2, 2
+  size: 144, 138
+  orig: 144, 138
+  offset: 0, 0
+  index: -1

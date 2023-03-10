@@ -1,0 +1,4 @@
+commonfx: .deathfx death_large
+skill: .id "club_smack" .anim "attack_melee" .fx "club_smack" .targchestfx "blood_splatter"
+skill: .id "confusion_spores" .anim "attack_ranged" .fx "confusion_spores" .targheadfx "confusion_spores_target" .area_pos_offset 0 -25
+skill: .id "poison_spores" .anim "attack_ranged" .fx "poison_spores" .targfx "poison_spores_target"

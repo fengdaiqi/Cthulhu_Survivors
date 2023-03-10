@@ -1,0 +1,20 @@
+
+fungal_artillery.sprite.attack_melee.png
+size: 543,426
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_melee
+  rotate: true
+  xy: 2, 2
+  size: 422, 474
+  orig: 422, 474
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 478, 67
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

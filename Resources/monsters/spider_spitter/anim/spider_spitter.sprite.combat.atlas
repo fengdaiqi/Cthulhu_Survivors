@@ -1,0 +1,118 @@
+
+spider_spitter.sprite.combat.png
+size: 677,567
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+abdomen
+  rotate: false
+  xy: 2, 244
+  size: 240, 321
+  orig: 240, 321
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 568, 139
+  size: 116, 107
+  orig: 116, 107
+  offset: 0, 0
+  index: -1
+left_fang
+  rotate: true
+  xy: 426, 15
+  size: 30, 88
+  orig: 30, 88
+  offset: 0, 0
+  index: -1
+left_leg01
+  rotate: false
+  xy: 2, 2
+  size: 169, 240
+  orig: 169, 240
+  offset: 0, 0
+  index: -1
+left_leg02
+  rotate: false
+  xy: 503, 257
+  size: 113, 243
+  orig: 113, 243
+  offset: 0, 0
+  index: -1
+left_leg03
+  rotate: true
+  xy: 173, 16
+  size: 71, 251
+  orig: 71, 251
+  offset: 0, 0
+  index: -1
+left_leg04
+  rotate: true
+  xy: 412, 112
+  size: 26, 123
+  orig: 26, 123
+  offset: 0, 0
+  index: -1
+left_mandible
+  rotate: false
+  xy: 618, 471
+  size: 56, 94
+  orig: 56, 94
+  offset: 0, 0
+  index: -1
+right_fang
+  rotate: true
+  xy: 516, 12
+  size: 33, 88
+  orig: 33, 88
+  offset: 0, 0
+  index: -1
+right_leg01
+  rotate: true
+  xy: 426, 47
+  size: 63, 243
+  orig: 63, 243
+  offset: 0, 0
+  index: -1
+right_leg02
+  rotate: true
+  xy: 322, 140
+  size: 115, 244
+  orig: 115, 244
+  offset: 0, 0
+  index: -1
+right_leg03
+  rotate: false
+  xy: 383, 258
+  size: 118, 242
+  orig: 118, 242
+  offset: 0, 0
+  index: -1
+right_leg04
+  rotate: false
+  xy: 244, 267
+  size: 137, 233
+  orig: 137, 233
+  offset: 0, 0
+  index: -1
+right_mandible
+  rotate: true
+  xy: 322, 89
+  size: 49, 88
+  orig: 49, 88
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 244, 502
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+thorax
+  rotate: true
+  xy: 173, 89
+  size: 153, 147
+  orig: 153, 147
+  offset: 0, 0
+  index: -1

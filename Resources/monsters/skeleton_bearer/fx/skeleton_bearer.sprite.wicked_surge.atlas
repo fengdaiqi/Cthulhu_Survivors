@@ -1,0 +1,34 @@
+
+skeleton_bearer.sprite.wicked_surge.png
+size: 1733,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blast
+  rotate: false
+  xy: 1515, 55
+  size: 216, 131
+  orig: 216, 131
+  offset: 0, 0
+  index: -1
+blast_shadow
+  rotate: true
+  xy: 1515, 188
+  size: 276, 146
+  orig: 276, 146
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 996, 2
+  size: 462, 517
+  orig: 462, 517
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 67
+  size: 397, 992
+  orig: 397, 992
+  offset: 0, 0
+  index: -1

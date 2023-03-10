@@ -1,0 +1,20 @@
+
+fishman_harpoon.sprite.attack_harpoon.png
+size: 1099,631
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_harpoon
+  rotate: false
+  xy: 2, 2
+  size: 1030, 627
+  orig: 1030, 627
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1034, 272
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+cultist_brawler.sprite.combat.png
+size: 763,551
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: false
+  xy: 303, 87
+  size: 207, 128
+  orig: 207, 128
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 277, 13
+  size: 97, 72
+  orig: 97, 72
+  offset: 0, 0
+  index: -1
+left_foot
+  rotate: false
+  xy: 217, 108
+  size: 77, 44
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+left_glove
+  rotate: true
+  xy: 2, 2
+  size: 104, 273
+  orig: 104, 273
+  offset: 0, 0
+  index: -1
+left_symbol
+  rotate: false
+  xy: 217, 154
+  size: 84, 138
+  orig: 84, 138
+  offset: 0, 0
+  index: -1
+left_tassels
+  rotate: true
+  xy: 662, 360
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+right_foot
+  rotate: false
+  xy: 376, 38
+  size: 73, 47
+  orig: 73, 47
+  offset: 0, 0
+  index: -1
+right_glove
+  rotate: true
+  xy: 303, 217
+  size: 113, 262
+  orig: 113, 262
+  offset: 0, 0
+  index: -1
+right_symbol
+  rotate: false
+  xy: 567, 169
+  size: 121, 161
+  orig: 121, 161
+  offset: 0, 0
+  index: -1
+right_tassels
+  rotate: false
+  xy: 451, 18
+  size: 41, 67
+  orig: 41, 67
+  offset: 0, 0
+  index: -1
+robes
+  rotate: false
+  xy: 2, 294
+  size: 299, 255
+  orig: 299, 255
+  offset: 0, 0
+  index: -1
+rope_belt
+  rotate: false
+  xy: 631, 402
+  size: 130, 147
+  orig: 130, 147
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 303, 332
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+shroud
+  rotate: false
+  xy: 512, 26
+  size: 206, 141
+  orig: 206, 141
+  offset: 0, 0
+  index: -1
+skull_helmet
+  rotate: false
+  xy: 2, 108
+  size: 213, 184
+  orig: 213, 184
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 303, 397
+  size: 326, 152
+  orig: 326, 152
+  offset: 0, 0
+  index: -1

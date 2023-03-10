@@ -1,0 +1,153 @@
+
+virago_hateful.sprite.from_death_comes_life.png
+size: 841,2082
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+left_hand_aura
+  rotate: false
+  xy: 597, 1222
+  size: 232, 323
+  orig: 232, 323
+  offset: 0, 0
+  index: -1
+left_hand_glow
+  rotate: false
+  xy: 282, 373
+  size: 133, 240
+  orig: 133, 240
+  offset: 0, 0
+  index: -1
+left_hand_rays
+  rotate: false
+  xy: 282, 838
+  size: 54, 129
+  orig: 54, 129
+  offset: 0, 0
+  index: -1
+left_hand_trail
+  rotate: false
+  xy: 349, 895
+  size: 155, 257
+  orig: 155, 257
+  offset: 0, 0
+  index: -1
+left_hand_trail_shadow
+  rotate: false
+  xy: 349, 1154
+  size: 246, 431
+  orig: 246, 431
+  offset: 0, 0
+  index: -1
+mushroom_cloud
+  rotate: false
+  xy: 2, 1587
+  size: 604, 493
+  orig: 604, 493
+  offset: 0, 0
+  index: -1
+mushrooms
+  rotate: true
+  xy: 2, 359
+  size: 608, 278
+  orig: 608, 278
+  offset: 0, 0
+  index: -1
+right_hand_aura
+  rotate: true
+  xy: 504, 113
+  size: 270, 312
+  orig: 270, 312
+  offset: 0, 0
+  index: -1
+right_hand_glow
+  rotate: false
+  xy: 338, 615
+  size: 122, 278
+  orig: 122, 278
+  offset: 0, 0
+  index: -1
+right_hand_rays
+  rotate: false
+  xy: 506, 992
+  size: 51, 160
+  orig: 51, 160
+  offset: 0, 0
+  index: -1
+right_hand_trail
+  rotate: false
+  xy: 597, 932
+  size: 240, 288
+  orig: 240, 288
+  offset: 0, 0
+  index: -1
+right_hand_trail_shadow
+  rotate: true
+  xy: 2, 2
+  size: 355, 500
+  orig: 355, 500
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 462, 464
+  size: 372, 418
+  orig: 372, 418
+  offset: 0, 0
+  index: -1
+rim_light_mushrooms
+  rotate: true
+  xy: 608, 1547
+  size: 533, 231
+  orig: 533, 231
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 969
+  size: 345, 616
+  orig: 345, 616
+  offset: 0, 0
+  index: -1
+spore01
+  rotate: false
+  xy: 506, 884
+  size: 75, 106
+  orig: 75, 106
+  offset: 0, 0
+  index: -1
+spore02
+  rotate: false
+  xy: 574, 385
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+spore05
+  rotate: false
+  xy: 574, 385
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+spore06
+  rotate: false
+  xy: 574, 385
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+spore03
+  rotate: true
+  xy: 417, 380
+  size: 82, 77
+  orig: 82, 77
+  offset: 0, 0
+  index: -1
+spore04
+  rotate: false
+  xy: 496, 385
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1

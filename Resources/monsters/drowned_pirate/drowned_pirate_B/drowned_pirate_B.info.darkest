@@ -1,0 +1,10 @@
+display: .size 1
+enemy_type: .id "unholy"
+stats: .hp 38 .def 19.75% .prot 0 .spd 7 .stun_resist 90% .poison_resist 35% .bleed_resist 120% .debuff_resist 35% .move_resist 25%
+skill: .id "maddening_shanty" .type "ranged" .atk 73.75% .dmg 1 2 .crit 0%  .effect "Madman Snipe Stress 1" "MadMan Stress Debuff 1" .launch 4321 .target 1234 .move 0 4 .is_crit_valid False
+skill: .id "offkilter_jig" .type "ranged" .atk 73.75% .dmg 0 0 .crit 0%  .effect "Madman AOE Stress 2" "Stress AOE DoT 2" .launch 21 .target ~1234 .move 4 0 .is_crit_valid False
+personality: .prefskill -1
+loot: .code "A" .count 1
+initiative: .number_of_turns_per_round 1
+monster_brain: .id drowned_pirate
+battle_modifier: .accelerate_stall_penalty False .disable_stall_penalty False .can_surprise True .can_be_surprised True .always_surprise False .always_be_surprised False

@@ -1,0 +1,13 @@
+
+ancestor_heart.sprite.attack_spores.png
+size: 1673,2245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_spores
+  rotate: false
+  xy: 2, 2
+  size: 1669, 2241
+  orig: 1669, 2241
+  offset: 0, 0
+  index: -1

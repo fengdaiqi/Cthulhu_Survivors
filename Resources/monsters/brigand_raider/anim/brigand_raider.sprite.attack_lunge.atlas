@@ -1,0 +1,20 @@
+
+brigand_raider.sprite.attack_lunge.png
+size: 862,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_lunge
+  rotate: false
+  xy: 2, 2
+  size: 793, 504
+  orig: 793, 504
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 797, 149
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

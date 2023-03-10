@@ -1,0 +1,48 @@
+
+brigand_cannon.sprite.summon.png
+size: 1965,409
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 1770, 51
+  size: 193, 356
+  orig: 193, 356
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 939, 178
+  size: 829, 229
+  orig: 829, 229
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 47
+  size: 935, 360
+  orig: 935, 360
+  offset: 0, 0
+  index: -1
+sparks01
+  rotate: true
+  xy: 1255, 2
+  size: 174, 312
+  orig: 174, 312
+  offset: 0, 0
+  index: -1
+sparks02
+  rotate: true
+  xy: 939, 13
+  size: 163, 314
+  orig: 163, 314
+  offset: 0, 0
+  index: -1
+sparks03
+  rotate: true
+  xy: 1569, 49
+  size: 127, 179
+  orig: 127, 179
+  offset: 0, 0
+  index: -1

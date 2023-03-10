@@ -1,0 +1,20 @@
+
+drowned_captain.sprite.gaffer_hook.png
+size: 1522,1131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hook_trail
+  rotate: true
+  xy: 1269, 490
+  size: 639, 251
+  orig: 639, 251
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 2
+  size: 1127, 1265
+  orig: 1127, 1265
+  offset: 0, 0
+  index: -1

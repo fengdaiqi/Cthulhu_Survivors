@@ -1,0 +1,20 @@
+
+hag.sprite.attack_taste.png
+size: 1128,1066
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_taste
+  rotate: true
+  xy: 2, 2
+  size: 1062, 1059
+  orig: 1062, 1059
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1063, 707
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

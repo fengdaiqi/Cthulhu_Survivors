@@ -1,0 +1,20 @@
+
+ancestor_pod.sprite.emit.png
+size: 1807,1178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+emitters
+  rotate: false
+  xy: 1255, 167
+  size: 550, 1009
+  orig: 550, 1009
+  offset: 0, 0
+  index: -1
+gas
+  rotate: true
+  xy: 2, 2
+  size: 1174, 1251
+  orig: 1174, 1251
+  offset: 0, 0
+  index: -1

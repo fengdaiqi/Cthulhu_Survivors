@@ -1,0 +1,27 @@
+
+cultist_shrouded.sprite.melee.png
+size: 1314,615
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rim_light
+  rotate: false
+  xy: 841, 137
+  size: 264, 476
+  orig: 264, 476
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 837, 611
+  orig: 837, 611
+  offset: 0, 0
+  index: -1
+tentacle_trail
+  rotate: false
+  xy: 1107, 131
+  size: 205, 482
+  orig: 205, 482
+  offset: 0, 0
+  index: -1

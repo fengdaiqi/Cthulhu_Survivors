@@ -1,0 +1,8 @@
+commonfx: .deathfx death_large_boss
+skill: .id "ancestor_fuse_two" .anim "attack_fuse" .fx "fuse" .targfx "fuse_target" .area_pos_offset -100 -125 .target_area_pos_offset 50 0
+skill: .id "ancestor_fuse_all" .anim "attack_fuse" .fx "fuse" .targfx "fuse_target" .area_pos_offset -150 -125 .target_area_pos_offset 150 0
+skill: .id "ancestor_contemplate" .anim "attack_think" .fx "contemplate" .targheadfx "contemplate_target" .area_pos_offset 0 -125
+skill: .id "kill_self" .anim "attack_transform" .reset_source_stance false .reset_target_stance false .area_pos_offset 0 -125 .can_display_skill_name false .can_display_selection false .can_display_performer_selection_after_turn false
+defending_area_pos_offset: .offset 0 -90
+battle_stage: .id big_ancestor
+audio_modifier: .intensity 2

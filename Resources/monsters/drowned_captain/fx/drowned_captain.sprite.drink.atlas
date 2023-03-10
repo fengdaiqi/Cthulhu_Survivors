@@ -1,0 +1,27 @@
+
+drowned_captain.sprite.drink.png
+size: 1660,1200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rim_light
+  rotate: true
+  xy: 1269, 776
+  size: 422, 389
+  orig: 422, 389
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 2
+  size: 1196, 1265
+  orig: 1196, 1265
+  offset: 0, 0
+  index: -1
+stress_halo
+  rotate: false
+  xy: 1269, 504
+  size: 336, 270
+  orig: 336, 270
+  offset: 0, 0
+  index: -1

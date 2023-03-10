@@ -1,0 +1,13 @@
+
+fishman_shaman.sprite.stab.png
+size: 665,359
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knife_trail
+  rotate: false
+  xy: 2, 2
+  size: 661, 355
+  orig: 661, 355
+  offset: 0, 0
+  index: -1

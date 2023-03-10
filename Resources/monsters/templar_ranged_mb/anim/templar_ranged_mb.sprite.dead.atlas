@@ -1,0 +1,20 @@
+
+templar_ranged_mb.sprite.dead.png
+size: 716,383
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead
+  rotate: false
+  xy: 2, 2
+  size: 647, 379
+  orig: 647, 379
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 651, 24
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

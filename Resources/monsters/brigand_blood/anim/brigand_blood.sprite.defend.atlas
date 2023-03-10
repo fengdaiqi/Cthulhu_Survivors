@@ -1,0 +1,20 @@
+
+brigand_blood.sprite.defend.png
+size: 730,615
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 2
+  size: 611, 661
+  orig: 611, 661
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 665, 256
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

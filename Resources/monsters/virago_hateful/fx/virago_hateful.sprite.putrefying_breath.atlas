@@ -1,0 +1,83 @@
+
+virago_hateful.sprite.putrefying_breath.png
+size: 1118,766
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+breath
+  rotate: true
+  xy: 173, 32
+  size: 137, 161
+  orig: 137, 161
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: true
+  xy: 659, 2
+  size: 762, 457
+  orig: 762, 457
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 2, 22
+  size: 147, 169
+  orig: 147, 169
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 171
+  size: 593, 655
+  orig: 593, 655
+  offset: 0, 0
+  index: -1
+spore01
+  rotate: false
+  xy: 417, 134
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+spore03
+  rotate: false
+  xy: 417, 134
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+spore02
+  rotate: true
+  xy: 455, 109
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+spore04
+  rotate: false
+  xy: 377, 132
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+spore05
+  rotate: false
+  xy: 455, 140
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+spore06
+  rotate: true
+  xy: 336, 131
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+spore07
+  rotate: false
+  xy: 487, 139
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

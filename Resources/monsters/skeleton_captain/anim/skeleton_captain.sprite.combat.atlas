@@ -1,0 +1,279 @@
+
+skeleton_captain.sprite.combat.png
+size: 750,1046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cuirass
+  rotate: false
+  xy: 2, 706
+  size: 346, 338
+  orig: 346, 338
+  offset: 0, 0
+  index: -1
+hauberk
+  rotate: false
+  xy: 350, 759
+  size: 394, 123
+  orig: 394, 123
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: false
+  xy: 321, 166
+  size: 151, 163
+  orig: 151, 163
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 685, 120
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+left_glove
+  rotate: false
+  xy: 474, 185
+  size: 114, 147
+  orig: 114, 147
+  offset: 0, 0
+  index: -1
+left_greave
+  rotate: false
+  xy: 452, 489
+  size: 130, 203
+  orig: 130, 203
+  offset: 0, 0
+  index: -1
+left_index
+  rotate: false
+  xy: 455, 5
+  size: 70, 64
+  orig: 70, 64
+  offset: 0, 0
+  index: -1
+left_pauldron01
+  rotate: true
+  xy: 676, 245
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+left_pauldron02
+  rotate: true
+  xy: 2, 3
+  size: 140, 213
+  orig: 140, 213
+  offset: 0, 0
+  index: -1
+left_pinky
+  rotate: false
+  xy: 709, 714
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+left_pointer
+  rotate: true
+  xy: 528, 84
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+left_sabaton
+  rotate: false
+  xy: 321, 6
+  size: 132, 54
+  orig: 132, 54
+  offset: 0, 0
+  index: -1
+left_sleeve01
+  rotate: true
+  xy: 584, 552
+  size: 140, 164
+  orig: 140, 164
+  offset: 0, 0
+  index: -1
+left_sleeve02
+  rotate: true
+  xy: 314, 331
+  size: 145, 136
+  orig: 145, 136
+  offset: 0, 0
+  index: -1
+left_tasset01
+  rotate: true
+  xy: 590, 226
+  size: 106, 84
+  orig: 106, 84
+  offset: 0, 0
+  index: -1
+left_tasset02
+  rotate: false
+  xy: 590, 141
+  size: 93, 83
+  orig: 93, 83
+  offset: 0, 0
+  index: -1
+left_thumb
+  rotate: false
+  xy: 607, 24
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+mace
+  rotate: false
+  xy: 2, 330
+  size: 310, 374
+  orig: 310, 374
+  offset: 0, 0
+  index: -1
+right_glove
+  rotate: false
+  xy: 452, 334
+  size: 163, 153
+  orig: 163, 153
+  offset: 0, 0
+  index: -1
+right_greave
+  rotate: false
+  xy: 190, 154
+  size: 129, 174
+  orig: 129, 174
+  offset: 0, 0
+  index: -1
+right_index
+  rotate: true
+  xy: 711, 909
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+right_pauldron
+  rotate: false
+  xy: 314, 478
+  size: 136, 214
+  orig: 136, 214
+  offset: 0, 0
+  index: -1
+right_pinky
+  rotate: false
+  xy: 538, 155
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+right_pointer
+  rotate: true
+  xy: 711, 976
+  size: 68, 37
+  orig: 68, 37
+  offset: 0, 0
+  index: -1
+right_sabaton
+  rotate: true
+  xy: 685, 157
+  size: 86, 59
+  orig: 86, 59
+  offset: 0, 0
+  index: -1
+right_sleeve01
+  rotate: false
+  xy: 676, 303
+  size: 72, 62
+  orig: 72, 62
+  offset: 0, 0
+  index: -1
+right_sleeve02
+  rotate: false
+  xy: 2, 145
+  size: 186, 183
+  orig: 186, 183
+  offset: 0, 0
+  index: -1
+right_tasset01
+  rotate: true
+  xy: 217, 7
+  size: 145, 102
+  orig: 145, 102
+  offset: 0, 0
+  index: -1
+right_tasset02
+  rotate: false
+  xy: 321, 62
+  size: 126, 102
+  orig: 126, 102
+  offset: 0, 0
+  index: -1
+right_thumb
+  rotate: true
+  xy: 587, 100
+  size: 39, 69
+  orig: 39, 69
+  offset: 0, 0
+  index: -1
+sash01
+  rotate: false
+  xy: 350, 884
+  size: 359, 160
+  orig: 359, 160
+  offset: 0, 0
+  index: -1
+sash02
+  rotate: false
+  xy: 661, 367
+  size: 61, 183
+  orig: 61, 183
+  offset: 0, 0
+  index: -1
+sash03
+  rotate: false
+  xy: 617, 342
+  size: 42, 208
+  orig: 42, 208
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 350, 694
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+skull
+  rotate: true
+  xy: 449, 71
+  size: 93, 77
+  orig: 93, 77
+  offset: 0, 0
+  index: -1
+tatters01
+  rotate: false
+  xy: 724, 488
+  size: 16, 62
+  orig: 16, 62
+  offset: 0, 0
+  index: -1
+tatters02
+  rotate: true
+  xy: 528, 2
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+tatters03
+  rotate: true
+  xy: 474, 166
+  size: 17, 62
+  orig: 17, 62
+  offset: 0, 0
+  index: -1
+tatters04
+  rotate: false
+  xy: 679, 77
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+fungal_bloat.sprite.combat.png
+size: 1423,226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: true
+  xy: 632, 14
+  size: 210, 187
+  orig: 210, 187
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: true
+  xy: 1052, 126
+  size: 98, 276
+  orig: 98, 276
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: false
+  xy: 1330, 110
+  size: 91, 114
+  orig: 91, 114
+  offset: 0, 0
+  index: -1
+left_middle
+  rotate: false
+  xy: 293, 6
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+left_pinky
+  rotate: true
+  xy: 336, 7
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+mushroom01
+  rotate: true
+  xy: 1317, 4
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+mushroom02
+  rotate: true
+  xy: 1052, 73
+  size: 51, 127
+  orig: 51, 127
+  offset: 0, 0
+  index: -1
+mushroom03
+  rotate: false
+  xy: 1317, 46
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+mushroom04
+  rotate: false
+  xy: 1257, 29
+  size: 58, 95
+  orig: 58, 95
+  offset: 0, 0
+  index: -1
+pants
+  rotate: false
+  xy: 821, 67
+  size: 229, 157
+  orig: 229, 157
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 293, 40
+  size: 184, 337
+  orig: 184, 337
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: false
+  xy: 1181, 12
+  size: 74, 112
+  orig: 74, 112
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 821, 2
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 2, 3
+  size: 221, 289
+  orig: 221, 289
+  offset: 0, 0
+  index: -1

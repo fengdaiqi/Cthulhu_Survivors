@@ -1,0 +1,62 @@
+
+shambler.sprite.spores.png
+size: 2432,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mouth_cloud
+  rotate: true
+  xy: 1677, 195
+  size: 827, 452
+  orig: 827, 452
+  offset: 0, 0
+  index: -1
+spore_cloud
+  rotate: false
+  xy: 2, 2
+  size: 1673, 1020
+  orig: 1673, 1020
+  offset: 0, 0
+  index: -1
+spores01
+  rotate: false
+  xy: 2131, 118
+  size: 183, 135
+  orig: 183, 135
+  offset: 0, 0
+  index: -1
+spores02
+  rotate: false
+  xy: 1918, 35
+  size: 173, 158
+  orig: 173, 158
+  offset: 0, 0
+  index: -1
+spores03
+  rotate: false
+  xy: 2131, 434
+  size: 273, 197
+  orig: 273, 197
+  offset: 0, 0
+  index: -1
+spores04
+  rotate: false
+  xy: 2131, 255
+  size: 194, 177
+  orig: 194, 177
+  offset: 0, 0
+  index: -1
+spores05
+  rotate: false
+  xy: 1677, 2
+  size: 239, 191
+  orig: 239, 191
+  offset: 0, 0
+  index: -1
+spores06
+  rotate: true
+  xy: 2131, 633
+  size: 389, 299
+  orig: 389, 299
+  offset: 0, 0
+  index: -1

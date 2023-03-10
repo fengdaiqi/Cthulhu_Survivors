@@ -1,0 +1,20 @@
+
+drowned_pirate.sprite.attack_jig.png
+size: 845,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_jig
+  rotate: true
+  xy: 2, 2
+  size: 528, 776
+  orig: 528, 776
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 780, 173
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

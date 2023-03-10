@@ -1,0 +1,55 @@
+
+jellyfish.sprite.rend.png
+size: 445,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood01
+  rotate: true
+  xy: 285, 7
+  size: 111, 52
+  orig: 111, 52
+  offset: 0, 0
+  index: -1
+blood02
+  rotate: false
+  xy: 107, 9
+  size: 108, 109
+  orig: 108, 109
+  offset: 0, 0
+  index: -1
+blood03
+  rotate: true
+  xy: 217, 19
+  size: 99, 66
+  orig: 99, 66
+  offset: 0, 0
+  index: -1
+blood04
+  rotate: false
+  xy: 339, 60
+  size: 97, 58
+  orig: 97, 58
+  offset: 0, 0
+  index: -1
+blood05
+  rotate: true
+  xy: 339, 3
+  size: 55, 71
+  orig: 55, 71
+  offset: 0, 0
+  index: -1
+blood06
+  rotate: true
+  xy: 2, 2
+  size: 116, 103
+  orig: 116, 103
+  offset: 0, 0
+  index: -1
+blood07
+  rotate: true
+  xy: 412, 25
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1

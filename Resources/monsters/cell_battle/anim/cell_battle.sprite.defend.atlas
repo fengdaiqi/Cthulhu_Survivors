@@ -1,0 +1,20 @@
+
+cell_battle.sprite.defend.png
+size: 762,457
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: true
+  xy: 2, 2
+  size: 453, 693
+  orig: 453, 693
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 697, 98
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

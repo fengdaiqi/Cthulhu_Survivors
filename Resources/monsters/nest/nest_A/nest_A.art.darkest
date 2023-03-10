@@ -1,0 +1,3 @@
+commonfx: .deathfx death_large_boss
+defending_area_pos_offset: .offset 0 50
+rendering: .sort_position_z_rank_override 4

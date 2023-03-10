@@ -1,0 +1,48 @@
+
+ancestor_heart.sprite.stun.png
+size: 1960,1076
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+emitters
+  rotate: false
+  xy: 1474, 492
+  size: 472, 582
+  orig: 472, 582
+  offset: 0, 0
+  index: -1
+gas
+  rotate: false
+  xy: 2, 28
+  size: 1470, 1046
+  orig: 1470, 1046
+  offset: 0, 0
+  index: -1
+motes01
+  rotate: false
+  xy: 1474, 2
+  size: 232, 161
+  orig: 232, 161
+  offset: 0, 0
+  index: -1
+motes02
+  rotate: true
+  xy: 1780, 243
+  size: 247, 178
+  orig: 247, 178
+  offset: 0, 0
+  index: -1
+motes03
+  rotate: true
+  xy: 1780, 243
+  size: 247, 178
+  orig: 247, 178
+  offset: 0, 0
+  index: -1
+motes04
+  rotate: false
+  xy: 1474, 165
+  size: 304, 325
+  orig: 304, 325
+  offset: 0, 0
+  index: -1

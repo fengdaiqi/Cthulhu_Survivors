@@ -1,0 +1,20 @@
+
+swine_reaver.sprite.attack_ranged.png
+size: 1332,610
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_ranged
+  rotate: false
+  xy: 2, 2
+  size: 1263, 606
+  orig: 1263, 606
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1267, 251
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

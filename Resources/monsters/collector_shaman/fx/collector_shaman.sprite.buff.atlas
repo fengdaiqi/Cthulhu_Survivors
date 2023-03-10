@@ -1,0 +1,41 @@
+
+collector_shaman.sprite.buff.png
+size: 512,611
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mace_glow
+  rotate: true
+  xy: 2, 55
+  size: 242, 244
+  orig: 242, 244
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 314, 413
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+spikes
+  rotate: false
+  xy: 2, 299
+  size: 310, 310
+  orig: 310, 310
+  offset: 0, 0
+  index: -1
+sunburst
+  rotate: false
+  xy: 314, 238
+  size: 175, 173
+  orig: 175, 173
+  offset: 0, 0
+  index: -1
+sunburst_glow
+  rotate: true
+  xy: 248, 2
+  size: 234, 242
+  orig: 234, 242
+  offset: 0, 0
+  index: -1

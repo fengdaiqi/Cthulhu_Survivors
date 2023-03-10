@@ -1,0 +1,97 @@
+
+brigand_blood.sprite.combat.png
+size: 771,1051
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: true
+  xy: 339, 67
+  size: 329, 116
+  orig: 329, 116
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 592, 52
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+flail
+  rotate: false
+  xy: 2, 307
+  size: 335, 315
+  orig: 335, 315
+  offset: 0, 0
+  index: -1
+hips
+  rotate: true
+  xy: 689, 508
+  size: 182, 76
+  orig: 182, 76
+  offset: 0, 0
+  index: -1
+hood
+  rotate: true
+  xy: 525, 282
+  size: 205, 221
+  orig: 205, 221
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: false
+  xy: 536, 489
+  size: 151, 266
+  orig: 151, 266
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 592, 162
+  size: 172, 118
+  orig: 172, 118
+  offset: 0, 0
+  index: -1
+pistol
+  rotate: true
+  xy: 339, 398
+  size: 224, 184
+  orig: 224, 184
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: false
+  xy: 457, 77
+  size: 133, 203
+  orig: 133, 203
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: false
+  xy: 536, 757
+  size: 168, 292
+  orig: 168, 292
+  offset: 0, 0
+  index: -1
+sash
+  rotate: false
+  xy: 2, 2
+  size: 328, 303
+  orig: 328, 303
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 706, 692
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 2, 624
+  size: 532, 425
+  orig: 532, 425
+  offset: 0, 0
+  index: -1

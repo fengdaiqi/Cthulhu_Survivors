@@ -1,0 +1,76 @@
+
+errant_flesh_bat.sprite.cough.png
+size: 509,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slime01
+  rotate: false
+  xy: 243, 6
+  size: 115, 81
+  orig: 115, 81
+  offset: 0, 0
+  index: -1
+slime02
+  rotate: false
+  xy: 360, 37
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+slime03
+  rotate: false
+  xy: 360, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+slime04
+  rotate: false
+  xy: 461, 18
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+slime05
+  rotate: false
+  xy: 395, 6
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+slime06
+  rotate: false
+  xy: 243, 89
+  size: 172, 81
+  orig: 172, 81
+  offset: 0, 0
+  index: -1
+slime07
+  rotate: true
+  xy: 417, 46
+  size: 124, 42
+  orig: 124, 42
+  offset: 0, 0
+  index: -1
+slime08
+  rotate: false
+  xy: 2, 3
+  size: 239, 167
+  orig: 239, 167
+  offset: 0, 0
+  index: -1
+slime09
+  rotate: false
+  xy: 461, 117
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+slime10
+  rotate: true
+  xy: 461, 58
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1

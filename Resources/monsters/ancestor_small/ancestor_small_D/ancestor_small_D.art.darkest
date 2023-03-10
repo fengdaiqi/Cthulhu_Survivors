@@ -1,0 +1,8 @@
+commonfx: .deathfx death_medium
+skill: .id "summon_perfect" .anim "attack_summon" .fx "summon" .can_display_performer_selection_after_turn false
+skill: .id "summon_mixed" .anim "attack_summon" .fx "summon" .can_display_performer_selection_after_turn false
+skill: .id "summon_flawed" .anim "attack_summon" .fx "summon" .can_display_performer_selection_after_turn false
+skill: .id "ancestor_aoe_heal" .anim "attack_heal" .fx "heal" .targfx "heal_target" .area_pos_offset 0 -25 .target_area_pos_offset 0 -25 .can_display_performer_selection_after_turn false
+skill: .id "kill_self" .anim "attack_transform" .reset_source_stance false .reset_target_stance false .area_pos_offset 0 -50 .can_display_skill_name false .can_display_selection false .can_display_performer_selection_after_turn false
+battle_stage: .id mirror_image
+audio_modifier: .intensity 2

@@ -1,0 +1,13 @@
+
+ghoul.sprite.skull_toss.png
+size: 687,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+claw_trail
+  rotate: false
+  xy: 2, 2
+  size: 683, 236
+  orig: 683, 236
+  offset: 0, 0
+  index: -1

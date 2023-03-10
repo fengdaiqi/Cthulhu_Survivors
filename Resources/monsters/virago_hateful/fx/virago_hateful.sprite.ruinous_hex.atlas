@@ -1,0 +1,34 @@
+
+virago_hateful.sprite.ruinous_hex.png
+size: 1332,460
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud
+  rotate: false
+  xy: 721, 5
+  size: 383, 453
+  orig: 383, 453
+  offset: 0, 0
+  index: -1
+cloud_glow
+  rotate: false
+  xy: 1106, 170
+  size: 224, 288
+  orig: 224, 288
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 1106, 4
+  size: 191, 164
+  orig: 191, 164
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 2
+  size: 456, 717
+  orig: 456, 717
+  offset: 0, 0
+  index: -1

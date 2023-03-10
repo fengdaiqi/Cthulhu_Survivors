@@ -1,0 +1,62 @@
+
+swine_prince.sprite.marked_one.png
+size: 3991,1310
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_shadow
+  rotate: false
+  xy: 2, 3
+  size: 2342, 1305
+  orig: 2342, 1305
+  offset: 0, 0
+  index: -1
+cleaver_trail
+  rotate: true
+  xy: 2346, 500
+  size: 808, 990
+  orig: 808, 990
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 3777, 24
+  size: 212, 209
+  orig: 212, 209
+  offset: 0, 0
+  index: -1
+head_shadow
+  rotate: true
+  xy: 3338, 235
+  size: 492, 467
+  orig: 492, 467
+  offset: 0, 0
+  index: -1
+long_rays
+  rotate: false
+  xy: 3338, 729
+  size: 572, 579
+  orig: 572, 579
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 2346, 153
+  size: 953, 345
+  orig: 953, 345
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 3541, 3
+  size: 234, 230
+  orig: 234, 230
+  offset: 0, 0
+  index: -1
+short_rays
+  rotate: false
+  xy: 3301, 2
+  size: 238, 231
+  orig: 238, 231
+  offset: 0, 0
+  index: -1

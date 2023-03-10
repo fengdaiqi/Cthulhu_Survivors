@@ -1,0 +1,104 @@
+
+siren.sprite.cell_disrupt.png
+size: 1865,641
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood01
+  rotate: false
+  xy: 934, 173
+  size: 168, 104
+  orig: 168, 104
+  offset: 0, 0
+  index: -1
+blood02
+  rotate: false
+  xy: 1104, 148
+  size: 125, 129
+  orig: 125, 129
+  offset: 0, 0
+  index: -1
+blood03
+  rotate: true
+  xy: 934, 25
+  size: 146, 88
+  orig: 146, 88
+  offset: 0, 0
+  index: -1
+blood04
+  rotate: false
+  xy: 1571, 52
+  size: 84, 94
+  orig: 84, 94
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 649, 279
+  size: 360, 599
+  orig: 360, 599
+  offset: 0, 0
+  index: -1
+rim_light_tentacle01
+  rotate: false
+  xy: 1449, 54
+  size: 120, 92
+  orig: 120, 92
+  offset: 0, 0
+  index: -1
+rim_light_tentacle02
+  rotate: true
+  xy: 1138, 8
+  size: 138, 101
+  orig: 138, 101
+  offset: 0, 0
+  index: -1
+rim_light_tentacle03
+  rotate: false
+  xy: 1678, 91
+  size: 121, 88
+  orig: 121, 88
+  offset: 0, 0
+  index: -1
+rim_light_tentacle04
+  rotate: false
+  xy: 1024, 41
+  size: 112, 105
+  orig: 112, 105
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 645, 637
+  orig: 645, 637
+  offset: 0, 0
+  index: -1
+tentacle01
+  rotate: true
+  xy: 1678, 181
+  size: 458, 185
+  orig: 458, 185
+  offset: 0, 0
+  index: -1
+tentacle02
+  rotate: true
+  xy: 1250, 27
+  size: 612, 197
+  orig: 612, 197
+  offset: 0, 0
+  index: -1
+tentacle03
+  rotate: true
+  xy: 1449, 148
+  size: 491, 227
+  orig: 491, 227
+  offset: 0, 0
+  index: -1
+tentacle04
+  rotate: false
+  xy: 649, 15
+  size: 283, 262
+  orig: 283, 262
+  offset: 0, 0
+  index: -1

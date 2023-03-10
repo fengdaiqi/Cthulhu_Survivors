@@ -1,0 +1,20 @@
+
+cell_white.sprite.attack_teleport.png
+size: 811,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_teleport
+  rotate: true
+  xy: 2, 2
+  size: 460, 742
+  orig: 460, 742
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 746, 105
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

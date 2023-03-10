@@ -1,0 +1,104 @@
+
+brigand_blood.sprite.point_blank_shot.png
+size: 1493,737
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_ranged
+  rotate: false
+  xy: 2, 16
+  size: 947, 719
+  orig: 947, 719
+  offset: 0, 0
+  index: -1
+muzzle_flash
+  rotate: false
+  xy: 951, 23
+  size: 147, 120
+  orig: 147, 120
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 1281, 378
+  size: 357, 159
+  orig: 357, 159
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 951, 145
+  size: 590, 328
+  orig: 590, 328
+  offset: 0, 0
+  index: -1
+shot
+  rotate: false
+  xy: 1100, 71
+  size: 208, 72
+  orig: 208, 72
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 1281, 195
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+smoke_orange
+  rotate: true
+  xy: 1310, 9
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+sparks01
+  rotate: true
+  xy: 1100, 29
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+sparks02
+  rotate: false
+  xy: 1218, 41
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+sparks03
+  rotate: false
+  xy: 1138, 37
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+sparks04
+  rotate: false
+  xy: 1137, 7
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+sparks05
+  rotate: false
+  xy: 1173, 5
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+sparks06
+  rotate: false
+  xy: 1100, 2
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+sparks07
+  rotate: true
+  xy: 1183, 42
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1

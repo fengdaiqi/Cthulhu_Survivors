@@ -1,0 +1,20 @@
+
+swine_skiver.sprite.attack_throw.png
+size: 794,752
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_throw
+  rotate: true
+  xy: 2, 2
+  size: 748, 725
+  orig: 748, 725
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 729, 393
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

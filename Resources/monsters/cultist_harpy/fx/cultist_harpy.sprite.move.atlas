@@ -1,0 +1,20 @@
+
+cultist_harpy.sprite.move.png
+size: 621,324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura
+  rotate: true
+  xy: 2, 2
+  size: 320, 321
+  orig: 320, 321
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: true
+  xy: 325, 22
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1

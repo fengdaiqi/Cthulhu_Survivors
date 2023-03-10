@@ -1,0 +1,6 @@
+commonfx: .deathfx death_large
+skill: .id "show_collection" .anim "attack_reveal" .area_pos_offset 0 -50
+skill: .id "collect_call" .anim "attack_summon" .fx "collect_call" .area_pos_offset 0 -35 .can_display_performer_selection_after_turn false
+skill: .id "life_steal" .anim "attack_skull" .fx "life_steal" .targchestfx "life_steal_target" .area_pos_offset 0 -35 .target_area_pos_offset 0 0
+skill: .id "collect_call_battle" .anim "attack_summon" .fx "collect_call" .area_pos_offset 0 -35 .can_display_performer_selection_after_turn false
+defending_area_pos_offset: .offset 0 -35

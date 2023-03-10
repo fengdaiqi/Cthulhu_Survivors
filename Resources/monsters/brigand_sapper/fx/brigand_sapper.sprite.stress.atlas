@@ -1,0 +1,27 @@
+
+brigand_sapper.sprite.stress.png
+size: 1921,675
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rim_light
+  rotate: true
+  xy: 1557, 141
+  size: 532, 362
+  orig: 532, 362
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 826, 671
+  orig: 826, 671
+  offset: 0, 0
+  index: -1
+wolf
+  rotate: false
+  xy: 830, 80
+  size: 725, 593
+  orig: 725, 593
+  offset: 0, 0
+  index: -1

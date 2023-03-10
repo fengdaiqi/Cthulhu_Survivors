@@ -1,0 +1,167 @@
+
+totem_guard.sprite.combat.png
+size: 981,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 590, 299
+  size: 389, 230
+  orig: 389, 230
+  offset: 0, 0
+  index: -1
+eye01
+  rotate: true
+  xy: 551, 163
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: true
+  xy: 457, 143
+  size: 63, 92
+  orig: 63, 92
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 457, 80
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+eye04
+  rotate: true
+  xy: 513, 89
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+eye05
+  rotate: false
+  xy: 134, 2
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+eye06
+  rotate: true
+  xy: 393, 15
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+eye07
+  rotate: false
+  xy: 445, 26
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+eye08
+  rotate: true
+  xy: 257, 4
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+eyestalk01
+  rotate: false
+  xy: 457, 57
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+eyestalk02
+  rotate: false
+  xy: 318, 44
+  size: 73, 79
+  orig: 73, 79
+  offset: 0, 0
+  index: -1
+eyestalk03
+  rotate: false
+  xy: 393, 64
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+flesh
+  rotate: false
+  xy: 590, 2
+  size: 301, 295
+  orig: 301, 295
+  offset: 0, 0
+  index: -1
+goo01
+  rotate: true
+  xy: 2, 19
+  size: 23, 130
+  orig: 23, 130
+  offset: 0, 0
+  index: -1
+goo02
+  rotate: true
+  xy: 178, 4
+  size: 24, 77
+  orig: 24, 77
+  offset: 0, 0
+  index: -1
+goo03
+  rotate: true
+  xy: 893, 11
+  size: 55, 73
+  orig: 55, 73
+  offset: 0, 0
+  index: -1
+left_spike_bottom
+  rotate: false
+  xy: 2, 44
+  size: 178, 97
+  orig: 178, 97
+  offset: 0, 0
+  index: -1
+pillar
+  rotate: true
+  xy: 2, 208
+  size: 321, 586
+  orig: 321, 586
+  offset: 0, 0
+  index: -1
+right_spike_bottom
+  rotate: true
+  xy: 893, 174
+  size: 123, 80
+  orig: 123, 80
+  offset: 0, 0
+  index: -1
+right_spike_top
+  rotate: false
+  xy: 361, 125
+  size: 94, 81
+  orig: 94, 81
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 143
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+tentacle01
+  rotate: true
+  xy: 182, 30
+  size: 111, 134
+  orig: 111, 134
+  offset: 0, 0
+  index: -1
+tentacle02
+  rotate: false
+  xy: 893, 68
+  size: 71, 104
+  orig: 71, 104
+  offset: 0, 0
+  index: -1

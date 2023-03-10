@@ -1,0 +1,90 @@
+
+fishman_shaman.sprite.heal.png
+size: 958,1066
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rim_light
+  rotate: false
+  xy: 2, 2
+  size: 658, 436
+  orig: 658, 436
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 440
+  size: 654, 624
+  orig: 654, 624
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 658, 685
+  size: 379, 293
+  orig: 379, 293
+  offset: 0, 0
+  index: -1
+wave02
+  rotate: false
+  xy: 662, 16
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+wave03
+  rotate: false
+  xy: 750, 15
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+wave04
+  rotate: false
+  xy: 827, 240
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+wave_bottom01
+  rotate: false
+  xy: 662, 350
+  size: 163, 133
+  orig: 163, 133
+  offset: 0, 0
+  index: -1
+wave_shadow01
+  rotate: true
+  xy: 658, 485
+  size: 198, 257
+  orig: 198, 257
+  offset: 0, 0
+  index: -1
+wave_shadow02
+  rotate: false
+  xy: 827, 354
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+wave_shadow03
+  rotate: true
+  xy: 808, 103
+  size: 135, 136
+  orig: 135, 136
+  offset: 0, 0
+  index: -1
+wave_shadow04
+  rotate: true
+  xy: 662, 104
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+wave_top01
+  rotate: false
+  xy: 662, 204
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+ectoplasm.sprite.combat.png
+size: 1099,412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fragment01
+  rotate: false
+  xy: 1072, 138
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+fragment02
+  rotate: true
+  xy: 1072, 189
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+fragment03
+  rotate: false
+  xy: 855, 183
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+fragment04
+  rotate: true
+  xy: 1024, 66
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+fragment05
+  rotate: true
+  xy: 1072, 166
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+fragment06
+  rotate: false
+  xy: 1007, 69
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+goo
+  rotate: true
+  xy: 2, 9
+  size: 401, 656
+  orig: 401, 656
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: true
+  xy: 1037, 213
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: false
+  xy: 1007, 135
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 1048, 88
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+ribcage
+  rotate: false
+  xy: 855, 202
+  size: 180, 208
+  orig: 180, 208
+  offset: 0, 0
+  index: -1
+right_glove
+  rotate: true
+  xy: 660, 67
+  size: 92, 214
+  orig: 92, 214
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: false
+  xy: 1037, 279
+  size: 51, 131
+  orig: 51, 131
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 660, 2
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+skull
+  rotate: true
+  xy: 876, 67
+  size: 133, 129
+  orig: 133, 129
+  offset: 0, 0
+  index: -1
+spine
+  rotate: false
+  xy: 1007, 88
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 660, 161
+  size: 193, 249
+  orig: 193, 249
+  offset: 0, 0
+  index: -1

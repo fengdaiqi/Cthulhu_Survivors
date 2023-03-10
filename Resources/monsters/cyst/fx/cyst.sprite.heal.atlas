@@ -1,0 +1,69 @@
+
+cyst.sprite.heal.png
+size: 1833,808
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mote01
+  rotate: false
+  xy: 1723, 434
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+mote02
+  rotate: false
+  xy: 1723, 383
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+mote03
+  rotate: true
+  xy: 1723, 692
+  size: 114, 108
+  orig: 114, 108
+  offset: 0, 0
+  index: -1
+mote04
+  rotate: false
+  xy: 1723, 611
+  size: 91, 79
+  orig: 91, 79
+  offset: 0, 0
+  index: -1
+mote05
+  rotate: false
+  xy: 1723, 333
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+mote06
+  rotate: false
+  xy: 1723, 485
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+mote07
+  rotate: false
+  xy: 1723, 537
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 1173, 43
+  size: 548, 763
+  orig: 548, 763
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 2, 2
+  size: 804, 1169
+  orig: 804, 1169
+  offset: 0, 0
+  index: -1

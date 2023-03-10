@@ -1,0 +1,20 @@
+
+templar_melee.sprite.dead.png
+size: 716,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead
+  rotate: false
+  xy: 2, 44
+  size: 647, 315
+  orig: 647, 315
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 651, 2
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+skeleton_captain.sprite.crushing_blow.png
+size: 515,533
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mace_trail
+  rotate: false
+  xy: 2, 2
+  size: 511, 529
+  orig: 511, 529
+  offset: 0, 0
+  index: -1

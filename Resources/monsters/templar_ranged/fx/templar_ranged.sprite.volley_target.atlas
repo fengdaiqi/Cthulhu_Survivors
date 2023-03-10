@@ -1,0 +1,62 @@
+
+templar_ranged.sprite.volley_target.png
+size: 339,190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood01
+  rotate: true
+  xy: 144, 40
+  size: 31, 85
+  orig: 31, 85
+  offset: 0, 0
+  index: -1
+blood02
+  rotate: true
+  xy: 2, 2
+  size: 39, 132
+  orig: 39, 132
+  offset: 0, 0
+  index: -1
+blood03
+  rotate: false
+  xy: 92, 43
+  size: 50, 145
+  orig: 50, 145
+  offset: 0, 0
+  index: -1
+blood04
+  rotate: false
+  xy: 301, 77
+  size: 36, 111
+  orig: 36, 111
+  offset: 0, 0
+  index: -1
+spike01
+  rotate: false
+  xy: 224, 92
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+spike02
+  rotate: false
+  xy: 144, 73
+  size: 78, 115
+  orig: 78, 115
+  offset: 0, 0
+  index: -1
+spike03
+  rotate: false
+  xy: 2, 43
+  size: 88, 145
+  orig: 88, 145
+  offset: 0, 0
+  index: -1
+spike04
+  rotate: false
+  xy: 231, 10
+  size: 106, 65
+  orig: 106, 65
+  offset: 0, 0
+  index: -1

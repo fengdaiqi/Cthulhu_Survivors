@@ -1,0 +1,69 @@
+
+templar_melee.sprite.sting.png
+size: 1356,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mote01
+  rotate: false
+  xy: 1307, 368
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+mote02
+  rotate: false
+  xy: 1306, 320
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+mote03
+  rotate: false
+  xy: 1256, 319
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+mote04
+  rotate: false
+  xy: 1306, 274
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+mote05
+  rotate: false
+  xy: 1256, 277
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+mote06
+  rotate: false
+  xy: 1256, 368
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+mote07
+  rotate: false
+  xy: 1256, 418
+  size: 89, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+tail_slam
+  rotate: false
+  xy: 795, 2
+  size: 459, 503
+  orig: 459, 503
+  offset: 0, 0
+  index: -1
+tail_trail
+  rotate: false
+  xy: 2, 15
+  size: 791, 490
+  orig: 791, 490
+  offset: 0, 0
+  index: -1

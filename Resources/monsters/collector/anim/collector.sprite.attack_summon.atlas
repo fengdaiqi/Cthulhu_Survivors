@@ -1,0 +1,20 @@
+
+collector.sprite.attack_summon.png
+size: 1027,689
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_summon
+  rotate: true
+  xy: 2, 2
+  size: 685, 958
+  orig: 685, 958
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 962, 330
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

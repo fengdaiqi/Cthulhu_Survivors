@@ -1,0 +1,13 @@
+
+ancestor_heart.sprite.defend.png
+size: 1343,2245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: false
+  xy: 2, 2
+  size: 1339, 2241
+  orig: 1339, 2241
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+skeleton_courtier.sprite.tempting_goblet.png
+size: 491,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spill01
+  rotate: true
+  xy: 372, 19
+  size: 14, 65
+  orig: 14, 65
+  offset: 0, 0
+  index: -1
+spill02
+  rotate: true
+  xy: 299, 9
+  size: 16, 71
+  orig: 16, 71
+  offset: 0, 0
+  index: -1
+spill03
+  rotate: true
+  xy: 167, 2
+  size: 23, 64
+  orig: 23, 64
+  offset: 0, 0
+  index: -1
+splash01
+  rotate: false
+  xy: 2, 13
+  size: 163, 118
+  orig: 163, 118
+  offset: 0, 0
+  index: -1
+splash02
+  rotate: false
+  xy: 167, 27
+  size: 178, 104
+  orig: 178, 104
+  offset: 0, 0
+  index: -1
+splash03
+  rotate: false
+  xy: 347, 72
+  size: 142, 59
+  orig: 142, 59
+  offset: 0, 0
+  index: -1
+splash04
+  rotate: true
+  xy: 347, 35
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+splash05
+  rotate: false
+  xy: 233, 4
+  size: 64, 21
+  orig: 64, 21
+  offset: 0, 0
+  index: -1
+splash06
+  rotate: true
+  xy: 393, 38
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+splash07
+  rotate: false
+  xy: 439, 16
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1

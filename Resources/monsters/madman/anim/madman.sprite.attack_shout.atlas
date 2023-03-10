@@ -1,0 +1,20 @@
+
+madman.sprite.attack_shout.png
+size: 605,423
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_shout
+  rotate: true
+  xy: 2, 2
+  size: 419, 536
+  orig: 419, 536
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 540, 64
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

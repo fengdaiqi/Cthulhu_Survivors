@@ -1,0 +1,20 @@
+
+brigand_raider.sprite.attack_uppercut.png
+size: 769,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_uppercut
+  rotate: true
+  xy: 2, 18
+  size: 341, 700
+  orig: 341, 700
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 704, 2
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

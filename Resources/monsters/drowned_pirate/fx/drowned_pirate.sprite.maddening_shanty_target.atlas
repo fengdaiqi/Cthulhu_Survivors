@@ -1,0 +1,48 @@
+
+drowned_pirate.sprite.maddening_shanty_target.png
+size: 1091,290
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+note01
+  rotate: true
+  xy: 954, 34
+  size: 99, 128
+  orig: 99, 128
+  offset: 0, 0
+  index: -1
+note02
+  rotate: false
+  xy: 828, 121
+  size: 123, 167
+  orig: 123, 167
+  offset: 0, 0
+  index: -1
+note03
+  rotate: true
+  xy: 828, 10
+  size: 109, 124
+  orig: 109, 124
+  offset: 0, 0
+  index: -1
+note04
+  rotate: false
+  xy: 953, 135
+  size: 136, 153
+  orig: 136, 153
+  offset: 0, 0
+  index: -1
+stress_cloud01
+  rotate: false
+  xy: 2, 2
+  size: 421, 286
+  orig: 421, 286
+  offset: 0, 0
+  index: -1
+stress_cloud02
+  rotate: false
+  xy: 425, 17
+  size: 401, 271
+  orig: 401, 271
+  offset: 0, 0
+  index: -1

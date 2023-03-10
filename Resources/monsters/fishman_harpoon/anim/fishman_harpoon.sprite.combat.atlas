@@ -1,0 +1,90 @@
+
+fishman_harpoon.sprite.combat.png
+size: 979,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cutlass
+  rotate: true
+  xy: 565, 171
+  size: 80, 376
+  orig: 80, 376
+  offset: 0, 0
+  index: -1
+dink
+  rotate: false
+  xy: 452, 192
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 742, 63
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+harpoon
+  rotate: true
+  xy: 565, 253
+  size: 105, 353
+  orig: 105, 353
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 287, 242
+  size: 276, 300
+  orig: 276, 300
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 287, 50
+  size: 163, 190
+  orig: 163, 190
+  offset: 0, 0
+  index: -1
+left_ear
+  rotate: false
+  xy: 692, 56
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: false
+  xy: 811, 2
+  size: 166, 167
+  orig: 166, 167
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 565, 360
+  size: 182, 383
+  orig: 182, 383
+  offset: 0, 0
+  index: -1
+rope
+  rotate: true
+  xy: 452, 13
+  size: 91, 238
+  orig: 91, 238
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 452, 106
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 2, 11
+  size: 283, 531
+  orig: 283, 531
+  offset: 0, 0
+  index: -1

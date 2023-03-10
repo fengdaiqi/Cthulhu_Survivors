@@ -1,0 +1,55 @@
+
+rabid_dog.sprite.rabid_rush.png
+size: 92,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slobber01
+  rotate: false
+  xy: 2, 5
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+slobber02
+  rotate: true
+  xy: 83, 28
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+slobber03
+  rotate: false
+  xy: 53, 2
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+slobber04
+  rotate: false
+  xy: 53, 28
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+slobber05
+  rotate: false
+  xy: 53, 10
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+slobber06
+  rotate: true
+  xy: 70, 10
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+slobber07
+  rotate: true
+  xy: 62, 2
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1

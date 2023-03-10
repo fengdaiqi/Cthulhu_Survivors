@@ -1,0 +1,3 @@
+commonfx: .deathfx death_medium
+skill: .id "claw_flurry" .anim "attack_melee" .fx "claw_flurry" .targchestfx "blood_splatter"
+skill: .id "tail_whip" .anim "attack_tail" .fx "tail_whip" .targchestfx "blood_splatter"

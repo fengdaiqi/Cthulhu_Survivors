@@ -1,0 +1,20 @@
+
+octotank.sprite.cestus.png
+size: 735,462
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cestus_trail
+  rotate: true
+  xy: 2, 2
+  size: 458, 562
+  orig: 458, 562
+  offset: 0, 0
+  index: -1
+rim_light
+  rotate: false
+  xy: 566, 203
+  size: 167, 257
+  orig: 167, 257
+  offset: 0, 0
+  index: -1

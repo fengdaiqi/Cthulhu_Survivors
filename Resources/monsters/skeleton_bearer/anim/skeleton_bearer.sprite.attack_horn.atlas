@@ -1,0 +1,20 @@
+
+skeleton_bearer.sprite.attack_horn.png
+size: 1124,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_horn
+  rotate: true
+  xy: 2, 2
+  size: 506, 1055
+  orig: 506, 1055
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1059, 151
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1

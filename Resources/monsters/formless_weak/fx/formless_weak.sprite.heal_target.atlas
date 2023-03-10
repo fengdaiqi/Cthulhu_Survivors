@@ -1,0 +1,41 @@
+
+formless_weak.sprite.heal_target.png
+size: 735,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura
+  rotate: true
+  xy: 2, 2
+  size: 343, 359
+  orig: 343, 359
+  offset: 0, 0
+  index: -1
+bulge
+  rotate: true
+  xy: 609, 31
+  size: 135, 113
+  orig: 135, 113
+  offset: 0, 0
+  index: -1
+glow01
+  rotate: true
+  xy: 486, 35
+  size: 131, 121
+  orig: 131, 121
+  offset: 0, 0
+  index: -1
+glow02
+  rotate: true
+  xy: 363, 33
+  size: 133, 121
+  orig: 133, 121
+  offset: 0, 0
+  index: -1
+vein
+  rotate: true
+  xy: 363, 168
+  size: 177, 370
+  orig: 177, 370
+  offset: 0, 0
+  index: -1

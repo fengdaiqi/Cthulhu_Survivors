@@ -1,0 +1,20 @@
+
+brigand_cannon.sprite.defend.png
+size: 1342,1197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: false
+  xy: 2, 2
+  size: 1273, 1193
+  orig: 1273, 1193
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1277, 838
+  size: 357, 63
+  orig: 357, 63
+  offset: 0, 0
+  index: -1
